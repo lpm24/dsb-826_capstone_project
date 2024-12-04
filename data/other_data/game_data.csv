@@ -1,0 +1,1453 @@
+﻿event,year,game,is_Bonus,is_TASBot,has_Incentive,has_Goal,developer,publisher,initial_release_year,initial_consoles,initial_consoles_clean,initial_generation,metascore,user_score,was_on_PC
+AGDQ,2022,Marathon 2: Durandal,0,0,0,0,Bungie,Bungie,1995,Macintosh,PC,Various,N/A,N/A,1
+AGDQ,2022,Kyouryuu Sentai Zyuranger,0,0,0,0,Arc System Works,Angel,1992,Nintendo Famicom (NES),NES,3,N/A,N/A,0
+AGDQ,2022,NieR: Automata,0,0,0,0,PlatinumGames,Square Enix,2017,"PS4, PC","PS4, PC",8,88,8.9,1
+AGDQ,2022,Bonus Game 3 - Final Fantasy VII Remake Intergrade,1,0,1,1,Square Enix,Square Enix,2021,PlayStation 5,PS5,9,89,8.5,1
+AGDQ,2022,Captain Novolin,0,0,0,0,Sculptured Software,Raya Systems,1992,SNES,SNES,4,N/A,N/A,0
+AGDQ,2022,The Simpsons: Bart's House of Weirdness,0,0,0,0,Distinctive Software,Konami,1992,MS-DOS,PC,Various,N/A,N/A,1
+AGDQ,2022,Darkman,0,0,0,0,Ocean Software,Ocean Software,1991,"NES, Game Boy","NES, Game Boy",3,N/A,N/A,0
+AGDQ,2022,Sonic Jam (Game.com),0,0,0,0,Sega,Tiger Electronics,1998,Game.com,PC,Various,N/A,N/A,0
+AGDQ,2022,Zadette,0,0,1,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+AGDQ,2022,Cranked Up,0,0,1,0,BBlack Studio,BBlack Studio,2020,PC,PC,Various,N/A,N/A,1
+AGDQ,2022,Discworld,0,0,1,1,"Teeny Weeny Games, Perfect 10 Productions",Psygnosis,1995,"PlayStation, Sega Saturn, MS-DOS","PlayStation, Sega Saturn, PC",5,N/A,N/A,1
+AGDQ,2022,Castlevania: Lament of Innocence,0,0,0,0,Konami,Konami,2003,PlayStation 2,PS2,6,79,8.2,0
+AGDQ,2022,Castlevania: Dracula X,0,0,0,0,Konami,Konami,1995,SNES,SNES,4,N/A,N/A,0
+AGDQ,2022,Castlevania: Circle of the Moon,0,0,1,1,Konami,Konami,2001,Game Boy Advance,Game Boy Advance,6,91,8.6,0
+AGDQ,2022,Castlevania Chronicles,0,0,0,0,Konami,Konami,2001,PlayStation,PlayStation,5,74,8,0
+AGDQ,2022,Half-Life 2,0,0,0,0,Valve,Valve,2004,PC,PC,Various,96,9.2,1
+AGDQ,2022,Lost Judgment,0,0,1,1,Ryu Ga Gotoku Studio,Sega,2021,"PS4, PS5, Xbox One, Xbox Series X/S","PS4, PS5, Xbox One, Xbox Series X/S",8,84,8.3,0
+AGDQ,2022,Bonus Game 5 - Resident Evil Village,1,0,1,1,Capcom,Capcom,2021,"PS4, PS5, Xbox One, Xbox Series X/S, PC","PS4, PS5, Xbox One, Xbox Series X/S, PC",8,84,8.1,1
+AGDQ,2022,Daily Recap - Thursday,0,0,0,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+AGDQ,2022,Oatmeal,0,0,0,0,Tim Kashani,"Fireapples, Inc.",2021,PC,PC,Various,N/A,N/A,1
+AGDQ,2022,Wave Break,0,0,1,0,Funktronic Labs,Funktronic Labs,2021,Stadia,PC,Various,54,N/A,1
+AGDQ,2022,Ultraman Ball,0,0,0,0,Bandai,Bandai,1995,Game Boy,Game Boy,3,N/A,N/A,0
+AGDQ,2022,Uncharted 2: Among Thieves,0,0,1,0,Naughty Dog,Sony Computer Entertainment,2009,PlayStation 3,PS3,7,96,8.8,0
+AGDQ,2022,Tetris Attack,0,0,0,0,Intelligent Systems,Nintendo,1996,SNES,SNES,4,N/A,N/A,0
+AGDQ,2022,Casio Mario World,0,0,0,0,Casio,Casio,1989,PV-1000,PV-1000,3,N/A,N/A,0
+AGDQ,2022,SpongeBob SquarePants: Battle for Bikini Bottom,0,0,0,0,Heavy Iron Studios,THQ,2003,"PlayStation 2, GameCube, Xbox","PS2, GameCube, Xbox",6,N/A,N/A,0
+AGDQ,2022,Subnautica,0,0,0,0,Unknown Worlds Entertainment,Unknown Worlds Entertainment,2018,PC,PC,Various,87,8.9,1
+AGDQ,2022,EarthBound,0,0,0,0,"Ape Inc., HAL Laboratory",Nintendo,1995,SNES,SNES,4,N/A,N/A,0
+AGDQ,2022,The Legend of Zelda: A Link to the Past,0,0,1,1,Nintendo EAD,Nintendo,1991,SNES,SNES,4,N/A,N/A,0
+AGDQ,2022,Portal 2,0,0,0,0,Valve,Valve,2011,"PC, PlayStation 3, Xbox 360","PC, PS3, Xbox 360",7,95,9.1,1
+AGDQ,2022,Metal Gear Solid,0,0,1,0,Konami,Konami,1998,PlayStation,PlayStation,5,N/A,N/A,0
+AGDQ,2022,Spyro: Attack of the Rhynocs,0,0,0,0,Digital Eclipse,Universal Interactive,2002,Game Boy Advance,Game Boy Advance,6,N/A,N/A,0
+AGDQ,2022,Part Time UFO,0,0,0,0,HAL Laboratory,HAL Laboratory,2018,"iOS, Android",Mobile,Various,N/A,N/A,0
+AGDQ,2022,Kirby's Dream Land 3,0,0,0,0,HAL Laboratory,Nintendo,1997,SNES,SNES,4,N/A,N/A,0
+AGDQ,2022,Chicory: A Colorful Tale,0,0,1,0,Greg Lobanov,Finji,2021,"PC, PS4, PS5","PC, PS4, PS5",8,90,8.8,1
+AGDQ,2022,Crash Team Racing,0,0,1,0,Naughty Dog,Sony Computer Entertainment,1999,PlayStation,PlayStation,5,88,8.9,0
+AGDQ,2022,Webbed,0,0,1,0,Sbug Games,Sbug Games,2021,PC,PC,Various,82,8.5,1
+AGDQ,2022,Mega Man X4,0,0,1,0,Capcom,Capcom,1997,"PlayStation, Sega Saturn","PlayStation, Sega Saturn",5,89,8.6,0
+AGDQ,2022,Psychonauts 2,0,0,0,0,Double Fine Productions,Xbox Game Studios,2021,"PC, Xbox One, PS4","PC, Xbox One, PS4",8,89,8.8,1
+AGDQ,2022,Bonus Game 2 - Super Monkey Ball: Banana Mania,1,0,1,0,Ryu Ga Gotoku Studio,Sega,2021,"PS4, PS5, Xbox One, Xbox Series X/S, Switch, PC","PS4, PS5, Xbox One, Xbox Series X/S, Switch, PC",8,76,7.5,1
+AGDQ,2022,Ori and the Blind Forest,0,0,1,1,Moon Studios,Microsoft Studios,2015,"Xbox One, PC","Xbox One, PC",8,88,8.9,1
+AGDQ,2022,Super Mario Galaxy,0,0,0,0,Nintendo EAD Tokyo,Nintendo,2007,Wii,Wii,7,97,9.1,0
+AGDQ,2022,Daily Recap - Monday,0,0,0,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+AGDQ,2022,Pumpkin Jack,0,0,1,0,Nicolas Meyssonnier,Headup Games,2020,"PC, Xbox One, Switch","PC, Xbox One, Switch",8,70,7.4,1
+AGDQ,2022,Hitman: Codename 47,0,0,0,0,IO Interactive,Eidos Interactive,2000,PC,PC,Various,73,8.1,1
+AGDQ,2022,Serious Sam 4,0,0,1,1,Croteam,Devolver Digital,2020,"PC, Stadia",PC,Various,68,6.5,1
+AGDQ,2022,Beast Wars: Transformers,0,0,0,0,SCE Cambridge Studio,Hasbro Interactive,1997,PlayStation,PlayStation,5,N/A,N/A,0
+AGDQ,2022,Metal Warriors,0,0,0,0,LucasArts,Konami,1995,SNES,SNES,4,N/A,N/A,0
+AGDQ,2022,Astalon: Tears of the Earth,0,0,0,0,LABS Works,DANGEN Entertainment,2021,"PC, Switch, PS4, Xbox One","PC, Switch, PS4, Xbox One",8,84,8.2,1
+AGDQ,2022,Willow,0,0,1,1,Capcom,Capcom,1989,NES,NES,3,N/A,N/A,0
+AGDQ,2022,SNOLF 0,0,0,0,0,DrMelon,N/A,2021,Sega Genesis (ROM hack),Sega Genesis,4,N/A,N/A,0
+AGDQ,2022,PokÃ©mon Crystal Key Item Randomizer,0,0,0,0,Fan-made,N/A,N/A,Game Boy Color (ROM hack),Game Boy Color,5,N/A,N/A,0
+AGDQ,2022,Garshasp: The Monster Slayer,0,0,0,0,Dead Mage,Meridian4,2011,PC,PC,Various,50,4.8,1
+AGDQ,2022,Kingdom Hearts II Final Mix HD,0,0,0,0,Square Enix,Square Enix,2014,PS3,PS3,7,76,8.5,0
+AGDQ,2022,SYNTHETIK: Legion Rising,0,0,0,0,Flow Fire Games,Flow Fire Games,2018,PC,PC,Various,81,8.1,1
+AGDQ,2022,Spider-Man 2,0,0,0,0,Treyarch,Activision,2004,"PS2, Xbox, GameCube","PS2, Xbox, GameCube",6,80,8.8,0
+AGDQ,2022,Teenage Mutant Ninja Turtles: Out of the Shadows,0,0,0,0,Red Fly Studio,Activision,2013,"PC, PS3, Xbox 360","PC, PS3, Xbox 360",7,49,5.3,1
+AGDQ,2022,The Legend of Spyro: The Eternal Night,0,0,0,0,Krome Studios,Sierra Entertainment,2007,"PS2, Wii, GBA, DS","PS2, Wii, Game Boy Advance, Nintendo DS",6,62,7.4,0
+AGDQ,2022,Halo: Combat Evolved,0,0,0,0,Bungie,Microsoft Game Studios,2001,Xbox,Xbox,6,97,8.8,0
+AGDQ,2022,Sekiro: Shadows Die Twice,0,0,0,0,FromSoftware,Activision,2019,"PS4, Xbox One, PC","PS4, Xbox One, PC",8,90,8.2,1
+AGDQ,2022,Nioh 2,0,0,0,0,Team Ninja,Sony Interactive Entertainment,2020,PS4,PS4,8,85,8.5,0
+AGDQ,2022,Metroid Prime Hunters,0,0,1,1,Nintendo,Nintendo,2006,DS,Nintendo DS,6,85,8.2,0
+AGDQ,2022,Donkey Kong Country 2: Diddy's Kong Quest,0,0,0,0,Rare,Nintendo,1995,SNES,SNES,4,N/A,N/A,0
+AGDQ,2022,DEATHLOOP,0,0,0,0,Arkane Studios,Bethesda Softworks,2021,"PS5, PC","PS5, PC",9,88,6.5,1
+AGDQ,2022,Axiom Verge 2,0,0,0,0,Thomas Happ Games,Thomas Happ Games,2021,"PS4, Switch, PC","PS4, Switch, PC",8,85,7.2,1
+AGDQ,2022,Mega Man 2,0,0,0,0,Capcom,Capcom,1988,NES,NES,3,N/A,N/A,0
+AGDQ,2022,Bonus Game 1 - Metal Gear Solid 2: Substance,1,0,1,1,Konami,Konami,2002,"Xbox, PS2, PC","Xbox, PS2, PC",6,87,8.2,0
+AGDQ,2022,Death's Door,0,0,0,0,Acid Nerve,Devolver Digital,2021,"Xbox One, Xbox Series X/S, PC","Xbox One, Xbox Series X/S, PC",8,87,8.5,1
+AGDQ,2022,The Legend of Zelda: Oracle of Seasons,0,0,0,0,Flagship,Nintendo,2001,Game Boy Color,Game Boy Color,5,N/A,N/A,0
+AGDQ,2022,Daily Recap - Sunday,0,0,0,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+AGDQ,2022,Dead Space 2,0,0,0,0,Visceral Games,Electronic Arts,2011,"PS3, Xbox 360, PC","PS3, Xbox 360, PC",7,90,8.7,1
+AGDQ,2022,Samurai Jack: Battle Through Time,0,0,1,0,Soleil Ltd.,Adult Swim Games,2020,"PS4, Xbox One, Switch, PC","PS4, Xbox One, Switch, PC",8,75,7.6,1
+AGDQ,2022,RITE,0,0,0,0,Pond Games,Pond Games,2020,PC,PC,Various,N/A,N/A,1
+AGDQ,2022,Mail Mole,0,0,0,0,Talpa Games,Undercoders,2021,"Switch, PC","Switch, PC",9,N/A,N/A,1
+AGDQ,2022,Antichamber,0,0,1,1,Demruth,Demruth,2013,PC,PC,Various,82,8.1,1
+AGDQ,2022,Judge Dredd,0,0,0,0,Probe Software,Acclaim Entertainment,1995,"Genesis, SNES","Sega Genesis, SNES",4,N/A,N/A,0
+AGDQ,2022,Bust-A-Move 4,0,0,1,0,Taito,Acclaim Entertainment,1998,"PS1, N64, Dreamcast","Playstation, N64, Dreamcast",5,N/A,N/A,0
+AGDQ,2022,ActRaiser,0,0,0,0,Quintet,Enix,1990,SNES,SNES,4,N/A,N/A,0
+AGDQ,2022,Beyond Oasis,0,0,0,0,Ancient,Sega,1994,Genesis,Sega Genesis,4,N/A,N/A,0
+AGDQ,2022,Gunstar Heroes,0,0,0,0,Treasure,Sega,1993,Genesis,Sega Genesis,4,N/A,N/A,0
+AGDQ,2022,Environmental Station Alpha,0,0,0,0,Hempuli,Hempuli,2015,PC,PC,Various,N/A,N/A,1
+AGDQ,2022,Journey,0,0,0,0,Thatgamecompany,Sony Computer Entertainment,2012,PS3,PS3,7,92,8.9,0
+AGDQ,2022,Yu-Gi-Oh! Forbidden Memories,0,0,1,1,Konami,Konami,2002,PS1,Playstation,5,N/A,N/A,0
+AGDQ,2022,PokÃ©mon Omega Ruby/Alpha Sapphire,0,0,0,0,Game Freak,Nintendo,2014,3DS,Nintendo 3DS,7,83,7.7,0
+AGDQ,2022,Hades,0,0,1,1,Supergiant Games,Supergiant Games,2020,"PC, Switch","PC, Switch",9,93,8.8,1
+AGDQ,2022,Donut County,0,0,0,0,Ben Esposito,Annapurna Interactive,2018,"iOS, PS4, PC","Mobile, PS4, PC",8,80,7.4,1
+AGDQ,2022,Fallout: New Vegas,0,0,1,0,Obsidian Entertainment,Bethesda Softworks,2010,"PS3, Xbox 360, PC","PS3, Xbox 360, PC",7,84,8.4,1
+AGDQ,2022,Sonic R,0,0,0,0,Traveller's Tales,Sega,1997,Sega Saturn,Sega Saturn,5,69,7.5,0
+AGDQ,2022,Sonic Robo Blast 2,0,0,0,0,Sonic Team Junior,Sonic Team Junior,1998,PC,PC,Various,N/A,N/A,1
+AGDQ,2022,Sonic the Hedgehog 4: Episode II,0,0,1,1,"Dimps, Sonic Team",Sega,2012,"PS3, Xbox 360, PC","PS3, Xbox 360, PC",7,67,6.8,1
+AGDQ,2022,Sonic Adventure DX: Director's Cut,0,0,0,0,Sonic Team,Sega,2003,GameCube,GameCube,6,57,7.5,0
+AGDQ,2022,Slay the Spire,0,0,1,1,MegaCrit,Humble Games,2019,PC,PC,Various,89,8.2,1
+AGDQ,2022,GeoGuessr,0,0,0,0,Anton Wallén,GeoGuessr,2013,Browser,PC,Various,N/A,N/A,1
+AGDQ,2022,ShootMania Storm,0,0,0,0,Nadeo,Ubisoft,2013,PC,PC,Various,76,7,1
+AGDQ,2022,Trackmania,0,0,1,0,Nadeo,Ubisoft,2020,PC,PC,Various,74,6.8,1
+AGDQ,2022,Bonus Game 4 - Rocket League,1,0,1,1,Psyonix,Psyonix,2015,"PS4, PC","PS4, PC",8,86,8.9,1
+AGDQ,2022,Risk of Rain 2,0,0,0,0,Hopoo Games,Gearbox Publishing,2020,PC,PC,Various,85,8.2,1
+AGDQ,2022,Halo 5: Guardians,0,0,0,0,343 Industries,Microsoft Studios,2015,Xbox One,Xbox One,8,84,6.4,0
+AGDQ,2022,Daily Recap - Wednesday,0,0,0,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+AGDQ,2022,Diddy Kong Racing,0,0,0,0,Rare,Nintendo,1997,Nintendo 64,N64,5,N/A,N/A,0
+AGDQ,2022,Splatoon 2,0,0,0,0,Nintendo EPD,Nintendo,2017,Nintendo Switch,Switch,9,83,8.3,0
+AGDQ,2022,3DS Zelda Game Bidwar,0,0,1,0,Nintendo EAD,Nintendo,2000,Nintendo 64,N64,5,95,9.1,0
+AGDQ,2022,Zelda's Adventure,0,0,1,0,Viridis Corporation,Philips Interactive Media,1994,Philips CD-i,Philips CD-i,4,N/A,N/A,0
+AGDQ,2022,crossbeats REV. Sunrise,0,0,1,1,Capcom,Capcom,2015,Arcade,Arcade,Various,N/A,N/A,0
+AGDQ,2022,Ynglet,0,0,0,0,Nifflas' Games,Triple Topping,2021,PC,PC,Various,80,7.5,1
+AGDQ,2022,It Takes Two,0,0,0,0,Hazelight Studios,Electronic Arts,2021,"PS4, PS5, Xbox One, Xbox Series X/S, PC","PS4, PS5, Xbox One, Xbox Series X/S, PC",8,88,8.8,1
+AGDQ,2022,Marble It Up!,0,0,0,0,Marble It Up! LLC,Marble It Up! LLC,2018,Nintendo Switch,Switch,9,N/A,N/A,0
+AGDQ,2022,The Elder Scrolls IV: Oblivion,0,0,0,0,Bethesda Game Studios,Bethesda Softworks,2006,"Xbox 360, PC","Xbox 360, PC",7,94,8.6,1
+AGDQ,2022,Stardew Valley,0,0,1,0,ConcernedApe,ConcernedApe,2016,PC,PC,Various,89,8.8,1
+AGDQ,2022,I Am Bread,0,0,0,0,Bossa Studios,Bossa Studios,2015,PC,PC,Various,71,6.8,1
+AGDQ,2022,Rockman & Forte,0,0,0,0,Capcom,Capcom,1998,Super Famicom,SNES,4,N/A,N/A,0
+AGDQ,2022,Portal Reloaded,0,0,0,0,Portanis,Portanis,2021,PC,PC,Various,N/A,N/A,1
+AGDQ,2022,Dark Souls,0,0,1,0,FromSoftware,Bandai Namco Entertainment,2011,"PS3, Xbox 360","PS3, Xbox 360",7,89,8.5,0
+AGDQ,2022,Bonus Game 6 - StepMania/NotITG,1,0,1,1,StepMania Team,StepMania Team,2001,PC,PC,Various,N/A,N/A,1
+AGDQ,2022,Daily Recap - Friday,0,0,0,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+AGDQ,2022,Wario Land: Shake It!,0,0,0,0,Good-Feel,Nintendo,2008,Wii,Wii,7,78,7.9,0
+AGDQ,2022,Marvel's Spider-Man Remastered,0,0,1,0,Insomniac Games,Sony Interactive Entertainment,2020,PS5,PS5,9,85,8.8,0
+AGDQ,2022,Kena: Bridge of Spirits,0,0,1,1,Ember Lab,Ember Lab,2021,"PS4, PS5, PC","PS4, PS5, PC",8,81,8.2,1
+AGDQ,2022,Bucky O'Hare,0,0,0,0,Konami,Konami,1992,NES,NES,3,N/A,N/A,0
+AGDQ,2022,Gargoyle's Quest II,0,0,0,0,Capcom,Capcom,1992,NES,NES,3,N/A,N/A,0
+AGDQ,2022,Spacegulls,0,0,0,0,Morphcat Games,Morphcat Games,2021,NES,NES,3,N/A,N/A,0
+AGDQ,2022,The Krion Conquest,0,0,0,0,Vic Tokai,Vic Tokai,1990,NES,NES,3,N/A,N/A,0
+AGDQ,2022,Final Fantasy XIII,0,0,1,1,Square Enix,Square Enix,2009,"PS3, Xbox 360","PS3, Xbox 360",7,83,7,0
+AGDQ,2022,Ratchet & Clank (2002),0,0,0,0,Insomniac Games,Sony Computer Entertainment,2002,PS2,PS2,6,88,8.8,0
+AGDQ,2022,Ratchet & Clank: Rift Apart,0,0,0,0,Insomniac Games,Sony Interactive Entertainment,2021,PS5,PS5,9,88,8.5,0
+AGDQ,2022,Returnal,0,0,1,1,Housemarque,Sony Interactive Entertainment,2021,PS5,PS5,9,86,7.3,0
+AGDQ,2022,Daily Recap - Tuesday,0,0,0,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+AGDQ,2022,Dead Rising,0,0,1,1,Capcom Production Studio 1,Capcom,2006,Xbox 360,Xbox 360,7,85,8.1,0
+AGDQ,2022,Tormented Souls,0,0,0,0,"Dual Effect, Abstract Digital",PQube,2021,"PS5, PC","PS5, PC",9,73,7.9,1
+AGDQ,2022,FAITH: Chapter II,0,0,0,0,Airdorf Games,New Blood Interactive,2017,PC,PC,Various,N/A,N/A,1
+AGDQ,2022,PAON-ã±ãŠã‚“- BEYOND THE PIEN,0,0,0,0,MuuMuu,MuuMuu,2021,"iOS, Android",Mobile,Various,N/A,N/A,0
+AGDQ,2022,Eternal Darkness: Sanity's Requiem,0,0,0,0,Silicon Knights,Nintendo,2002,GameCube,GameCube,6,92,8.9,0
+AGDQ,2022,Kuon,0,0,1,0,FromSoftware,Agetec,2004,PS2,PS2,6,N/A,N/A,0
+AGDQ,2022,Three Dirty Dwarves,0,0,1,1,SegaSoft,Sega,1996,Sega Saturn,Sega Saturn,5,N/A,N/A,0
+AGDQ,2022,We Love Katamari,0,0,0,0,Namco,Namco,2005,PS2,PS2,6,86,8.9,0
+AGDQ,2022,The Typing of the Dead,0,0,0,0,Smilebit,Sega,2000,Dreamcast,Dreamcast,6,81,8.5,0
+AGDQ,2022,Teenage Mutant Ninja Turtles: The Hyperstone Heist,0,0,0,0,Konami,Konami,1992,Sega Genesis,Sega Genesis,4,N/A,N/A,0
+AGDQ,2022,Taz-Mania,0,0,0,0,Sega,Sega,1992,Sega Genesis,Sega Genesis,4,N/A,N/A,0
+AGDQ,2022,Meegah Mem II,0,0,1,1,Mendel Palace,Mendel Palace,2020,PC,PC,Various,N/A,N/A,1
+AGDQ,2022,Keep Talking and Nobody Explodes,0,0,0,0,Steel Crate Games,Steel Crate Games,2015,PC,PC,Various,83,8.1,1
+AGDQ,2022,Super Mario 3D Land,0,0,1,1,Nintendo EAD Tokyo,Nintendo,2011,Nintendo 3DS,Nintendo 3DS,7,90,8.5,0
+AGDQ,2022,Blazing Chrome,0,0,1,0,JoyMasher,The Arcade Crew,2019,"PC, PS4, Xbox One, Switch","PC, PS4, Xbox One, Switch",8,78,7.8,1
+AGDQ,2022,Bishoujo Senshi Sailor Moon R,0,0,1,0,Angel,Bandai,1993,Super Famicom,SNES,4,N/A,N/A,0
+AGDQ,2022,Tetris: The Grand Master,0,0,1,1,Arika,Capcom,1998,Arcade,Arcade,Various,N/A,N/A,0
+AGDQ,2022,Bonus Game 7 - Deltarune,1,0,1,1,Toby Fox,Toby Fox,2018,PC,PC,Various,N/A,N/A,1
+AGDQ,2022,Event Recap,0,0,0,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+AGDQ,2021,The Mummy,0,0,1,1,Rebellion Developments,Konami,2000,"PlayStation, PC","PlayStation, PC",5,N/A,N/A,0
+AGDQ,2021,Deus Ex: Human Revolution,0,0,1,0,Eidos-Montréal,Square Enix Europe,2011,"PS3, Xbox 360, PC","PS3, Xbox 360, PC",7,89,8.3,0
+AGDQ,2021,Daily Recap - Thursday,0,0,0,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+AGDQ,2021,Half-Life,0,0,0,0,Valve,Sierra Studios,1998,PC,PC,Various,96,9.1,1
+AGDQ,2021,Night in the Woods: DemonTower,0,0,1,0,Infinite Fall,Finji,2017,"PC, PlayStation 4","PC, PS4",8,88,8.3,1
+AGDQ,2021,Metal Gear Solid: The Twin Snakes,0,0,1,1,Silicon Knights,"Konami, Nintendo",2004,GameCube,GameCube,6,85,8.8,0
+AGDQ,2021,Nezumi Man,0,0,0,0,N/A,N/A,2013,PC,PC,Various,N/A,N/A,1
+AGDQ,2021,Luigi's Mansion,0,0,0,0,Nintendo EAD,Nintendo,2001,GameCube,GameCube,6,78,8,0
+AGDQ,2021,Super Mario Land 2: 6 Golden Coins,0,0,0,0,Nintendo R&D1,Nintendo,1992,Game Boy,Game Boy,3,N/A,N/A,0
+AGDQ,2021,Wario Land: Super Mario Land 3,0,0,0,0,Nintendo R&D1,Nintendo,1994,Game Boy,Game Boy,3,N/A,N/A,0
+AGDQ,2021,Donkey Kong Country 2 Unveiled,0,0,0,0,Rare,Nintendo,2020,SNES,SNES,4,N/A,N/A,0
+AGDQ,2021,Warcraft III: Reign of Chaos,0,0,1,1,Blizzard Entertainment,Blizzard Entertainment,2002,PC,PC,Various,92,9.2,1
+AGDQ,2021,Final Fantasy VII,0,0,1,1,Square,Sony Computer Entertainment,1997,PlayStation,PlayStation,5,92,9.2,0
+AGDQ,2021,The Legend of Zelda: Majora's Mask,0,0,0,0,Nintendo EAD,Nintendo,2000,Nintendo 64,N64,5,95,9.1,0
+AGDQ,2021,Bonus Game 5 - Super Mario 64,1,0,1,1,Nintendo EAD,Nintendo,1996,Nintendo 64,N64,5,94,9.2,0
+AGDQ,2021,Super Mario Sunshine,0,0,0,0,Nintendo EAD,Nintendo,2002,GameCube,GameCube,6,92,8.3,0
+AGDQ,2021,Daily Recap - Friday,0,0,0,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+AGDQ,2021,Oddworld: Stranger's Wrath HD,0,0,1,1,Just Add Water,Oddworld Inhabitants,2011,PlayStation 3,PS3,7,82,8,0
+AGDQ,2021,X-Men: The Arcade Game,0,0,1,1,Konami,Konami,1992,Arcade,Arcade,Various,N/A,N/A,0
+AGDQ,2021,Bloodstained: Curse of the Moon 2,0,0,1,1,Inti Creates,Inti Creates,2020,"Nintendo Switch, PS4, Xbox One, PC","Switch, PS4, Xbox One, PC",8,82,8.3,1
+AGDQ,2021,Super Mario Bros. 2,0,0,1,0,Nintendo,Nintendo,1988,NES,NES,3,N/A,N/A,0
+AGDQ,2021,Super Meat Boy,0,0,0,0,Team Meat,Team Meat,2010,"Xbox 360, PC","Xbox 360, PC",7,90,8.4,1
+AGDQ,2021,The Messenger,0,0,0,0,Sabotage Studio,Devolver Digital,2018,"PC, Nintendo Switch","PC, Switch",9,86,8.1,1
+AGDQ,2021,Beat Saber,0,0,0,0,Beat Games,Beat Games,2018,PC (VR),PC,Various,93,8.9,1
+AGDQ,2021,TASBot plays The Legend of Zelda: Link's Awakening DX,0,1,1,1,Nintendo R&D2,Nintendo,1998,Game Boy Color,Game Boy Color,5,N/A,N/A,0
+AGDQ,2021,Sekiro: Shadows Die Twice,0,0,0,0,FromSoftware,Activision,2019,"PS4, Xbox One, PC","PS4, Xbox One, PC",8,90,8.2,1
+AGDQ,2021,The Legend of Zelda: A Link to the Past,0,0,1,1,Nintendo,Nintendo,1991,SNES,SNES,4,N/A,N/A,0
+AGDQ,2021,Super Mario Bros. 35,0,0,1,0,Arika,Nintendo,2020,Nintendo Switch,Switch,9,N/A,N/A,0
+AGDQ,2021,Bonus Game 6 - The Legend of Zelda: Ocarina of Time,0,0,1,1,Nintendo EAD,Nintendo,1998,Nintendo 64,N64,5,99,9.1,0
+AGDQ,2021,Dishonored 2,0,0,1,0,Arkane Studios,Bethesda Softworks,2016,"PS4, Xbox One, PC","PS4, Xbox One, PC",8,88,7.7,1
+AGDQ,2021,Divinity: Original Sin 2 Definitive Edition,0,0,0,0,Larian Studios,Larian Studios,2017,PC,PC,Various,93,8.8,1
+AGDQ,2021,Daily Recap - Monday,0,0,0,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+AGDQ,2021,Diablo III,0,0,0,0,Blizzard Entertainment,Blizzard Entertainment,2012,PC,PC,Various,88,4,1
+AGDQ,2021,Mortal Shell,0,0,0,0,Cold Symmetry,Playstack,2020,"PS4, Xbox One, PC","PS4, Xbox One, PC",8,76,7.3,1
+AGDQ,2021,Wild Arms,0,0,1,0,Media.Vision,Sony Computer Entertainment,1996,PlayStation,PlayStation,5,76,8.6,0
+AGDQ,2021,Ultima VI: The False Prophet,0,0,1,1,Origin Systems,Origin Systems,1990,MS-DOS,PC,Various,N/A,N/A,1
+AGDQ,2021,Journey to the Savage Planet,0,0,1,1,Typhoon Studios,505 Games,2020,"PS4, Xbox One, PC","PS4, Xbox One, PC",8,76,7.5,1
+AGDQ,2021,Revenge of the Bird King,0,0,0,0,Limited Run Games,Limited Run Games,2018,Nintendo Switch,Switch,9,N/A,N/A,0
+AGDQ,2021,Super Ledgehop: Double Laser,0,0,0,0,LAME Dimension,LAME Dimension,2018,PC,PC,Various,N/A,N/A,1
+AGDQ,2021,Nikita: The Mystery of the Hidden Treasure,0,0,0,0,Tom Create,Tom Create,1990,Famicom,NES,3,N/A,N/A,0
+AGDQ,2021,Dracula II: Noroi no Fuuin,0,0,1,0,Konami,Konami,1987,Famicom Disk System,NES,3,N/A,N/A,0
+AGDQ,2021,Banana Prince,0,0,0,0,KID,Takara,1991,Famicom,NES,3,N/A,N/A,0
+AGDQ,2021,Little Samson,0,0,0,0,Takeru,Taito,1992,NES,NES,3,N/A,N/A,0
+AGDQ,2021,The Cowlitz Gamers' 2nd Adventure/Lost Adventure,0,0,0,0,CollectorVision,CollectorVision,2016,NES,NES,3,N/A,N/A,0
+AGDQ,2021,River City Girls,0,0,1,1,WayForward,Arc System Works,2019,"PS4, Xbox One, Nintendo Switch, PC","PS4, Xbox One, Nintendo Switch, PC",8,80,8.1,1
+AGDQ,2021,Braid,0,0,1,1,Number None,Number None,2008,Xbox 360,Xbox 360,7,93,8.2,0
+AGDQ,2021,BPM: Bullets Per Minute,0,0,1,1,Awe Interactive,Awe Interactive,2020,PC,PC,Various,77,7.5,1
+AGDQ,2021,Golden Sun,0,0,1,1,Camelot Software Planning,Nintendo,2001,Game Boy Advance,Game Boy Advance,6,91,9,0
+AGDQ,2021,Minecraft Dungeons,0,0,1,0,Mojang Studios,Xbox Game Studios,2020,"PS4, Xbox One, Nintendo Switch, PC","PS4, Xbox One, Nintendo Switch, PC",8,70,6,1
+AGDQ,2021,Spider-Man: Shattered Dimensions,0,0,1,0,Beenox,Activision,2010,"PS3, Xbox 360, Wii, PC","PS3, Xbox 360, Wii, PC",7,73,7.5,1
+AGDQ,2021,Spyro Reignited Trilogy: Spyro 3 Year of the Dragon,0,0,0,0,Toys for Bob,Activision,2018,"PS4, Xbox One","PS4, Xbox One",8,82,8.5,0
+AGDQ,2021,Crash Bandicoot: N. Sane Trilogy,0,0,0,0,Vicarious Visions,Activision,2017,PS4,PS4,8,80,8.5,0
+AGDQ,2021,Ratchet & Clank: Going Commando,0,0,0,0,Insomniac Games,Sony Computer Entertainment,2003,PlayStation 2,PS2,6,90,8.9,0
+AGDQ,2021,Devil May Cry 3: Special Edition,0,0,1,0,Capcom,Capcom,2006,PlayStation 2,PS2,6,84,8.8,0
+AGDQ,2021,Super Mario World 2: Yoshi's Island,0,0,0,0,Nintendo EAD,Nintendo,1995,SNES,SNES,4,N/A,N/A,0
+AGDQ,2021,The Legend of Zelda: Skyward Sword,0,0,1,0,Nintendo EAD,Nintendo,2011,Wii,Wii,7,93,8.1,0
+AGDQ,2021,Daily Recap - Wednesday,0,0,0,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+AGDQ,2021,The Lawnmower Man,0,0,0,0,Sales Curve Interactive,THQ,1993,"SNES, Genesis","SNES, Sega Genesis",4,N/A,N/A,0
+AGDQ,2021,Wario Land 4,0,0,1,1,Nintendo R&D1,Nintendo,2001,Game Boy Advance,Game Boy Advance,6,91,8.9,0
+AGDQ,2021,Super Orb Bros.,0,0,0,0,Fan-made (ROM hack),N/A,2020,NES (ROM hack),NES,3,N/A,N/A,0
+AGDQ,2021,Mirror's Edge,0,0,0,0,DICE,Electronic Arts,2008,"PS3, Xbox 360, PC","PS3, Xbox 360, PC",7,81,7.4,0
+AGDQ,2021,Donkey Kong Country,0,0,0,0,Rare,Nintendo,1994,SNES,SNES,4,N/A,N/A,0
+AGDQ,2021,Just Cause 3,0,0,0,0,Avalanche Studios,Square Enix,2015,"PS4, Xbox One, PC","PS4, Xbox One, PC",8,73,6,1
+AGDQ,2021,Ratchet & Clank (2016),0,0,1,0,Insomniac Games,Sony Computer Entertainment,2016,PlayStation 4,PS4,8,85,8.6,0
+AGDQ,2021,Mega Man X5,0,0,1,1,Capcom,Capcom,2001,PlayStation,PlayStation,5,79,7.8,0
+AGDQ,2021,Dragon Age: Origins,0,0,1,0,BioWare,Electronic Arts,2009,"PS3, Xbox 360, PC","PS3, Xbox 360, PC",7,91,8.9,1
+AGDQ,2021,Ori and the Will of the Wisps,0,0,0,0,Moon Studios,Xbox Game Studios,2020,"Xbox One, PC","Xbox One, PC",8,90,8.9,1
+AGDQ,2021,Diddy Kong Racing,0,0,0,0,Rare,Nintendo,1997,Nintendo 64,N64,5,88,8.9,0
+AGDQ,2021,Metroid: Zero Mission,0,0,0,0,Nintendo R&D1,Nintendo,2004,Game Boy Advance,Game Boy Advance,6,89,9,0
+AGDQ,2021,Daily Recap - Sunday,0,0,0,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+AGDQ,2021,Lightmatter,0,0,0,0,Tunnel Vision Games,Aspyr,2020,PC,PC,Various,81,7.5,1
+AGDQ,2021,Pikmin 2,0,0,0,0,Nintendo EAD,Nintendo,2004,GameCube,GameCube,6,90,9,0
+AGDQ,2021,Metal Gear Solid 4: Guns of the Patriots,0,0,0,0,Kojima Productions,Konami,2008,PlayStation 3,PS3,7,94,8.8,0
+AGDQ,2021,Otogi: Myth of Demons,0,0,0,0,FromSoftware,Sega,2003,Xbox,Xbox,6,80,8.5,0
+AGDQ,2021,Ghostbusters,0,0,1,0,Terminal Reality,Atari,2009,"PlayStation 3, Xbox 360, PC","PS3, Xbox 360, PC",7,79,8.2,1
+AGDQ,2021,Magical Taruruuto-kun,0,0,0,0,Game Freak,Sega,1992,Sega Mega Drive,Sega Genesis,4,N/A,N/A,0
+AGDQ,2021,Ecco the Dolphin,0,0,0,0,Novotrade International,Sega,1992,Sega Genesis,Sega Genesis,4,N/A,N/A,0
+AGDQ,2021,Taz-Mania,0,0,0,0,Sega,Sega,1992,Sega Genesis,Sega Genesis,4,N/A,N/A,0
+AGDQ,2021,Startropics,0,0,1,1,Nintendo R&D3,Nintendo,1990,NES,NES,3,N/A,N/A,0
+AGDQ,2021,The Lucky Dime Caper starring Donald Duck,0,0,0,0,Sega,Sega,1991,Sega Master System,Sega Master System,3,N/A,N/A,0
+AGDQ,2021,Yooka-Laylee and the Impossible Lair,0,0,1,0,Playtonic Games,Team17,2019,"PlayStation 4, Xbox One, Nintendo Switch, PC","PS4, Xbox One, Nintendo Switch, PC",8,82,7.9,1
+AGDQ,2021,Turok: Dinosaur Hunter - PC Remaster,0,0,1,1,Nightdive Studios,Nightdive Studios,2015,PC,PC,Various,80,7.8,1
+AGDQ,2021,Sonic 1 (2013),0,0,0,0,Christian Whitehead,Sega,2013,"iOS, Android",Mobile,Various,N/A,N/A,0
+AGDQ,2021,Sonic 3: Angel Island Revisited,0,0,0,0,Fan Project,N/A,N/A,PC,PC,Various,N/A,N/A,1
+AGDQ,2021,Sonic Mania,0,0,0,0,"Christian Whitehead, Headcannon, PagodaWest Games",Sega,2017,"PlayStation 4, Xbox One, Nintendo Switch, PC","PS4, Xbox One, Nintendo Switch, PC",8,86,8.6,1
+AGDQ,2021,Sonic the Hedgehog (2006),0,0,1,1,Sonic Team,Sega,2006,"PlayStation 3, Xbox 360","PS3, Xbox 360",7,46,4.4,0
+AGDQ,2021,Darksiders,0,0,0,0,Vigil Games,THQ,2010,"PlayStation 3, Xbox 360, PC","PS3, Xbox 360, PC",7,83,8.2,1
+AGDQ,2021,Dark Messiah of Might and Magic,0,0,0,0,Arkane Studios,Ubisoft,2006,PC,PC,Various,72,8.1,1
+AGDQ,2021,Bonus Game 1 - The Elder Scrolls V: Skyrim,1,0,1,1,Bethesda Game Studios,Bethesda Softworks,2011,"PlayStation 3, Xbox 360, PC","PS3, Xbox 360, PC",7,94,8.4,1
+AGDQ,2021,TASbot plays Freedom Planet,0,1,0,0,GalaxyTrail,GalaxyTrail,2014,PC,PC,Various,84,8.5,1
+AGDQ,2021,PokÃ©mon Blue,0,0,0,0,Game Freak,Nintendo,1996,Game Boy,Game Boy,3,N/A,N/A,0
+AGDQ,2021,Bonus Game 3 - Zelda: The Wand of Gamelon,1,0,1,1,Animation Magic,Philips Interactive Media,1993,Philips CD-i,Philips CD-i,4,N/A,N/A,0
+AGDQ,2021,King's Quest VIII: Mask of Eternity,0,0,0,0,Sierra On-Line,Sierra On-Line,1998,PC,PC,Various,70,7.4,1
+AGDQ,2021,Pinobee: Wings of Adventure,0,0,0,0,Artoon,Hudson Soft,2001,Game Boy Advance,Game Boy Advance,6,66,7.3,0
+AGDQ,2021,Epic Dumpster Bear 2: He Who Bears Wins,0,0,1,1,Log Games,Log Games,2019,Nintendo Switch,Switch,9,N/A,N/A,0
+AGDQ,2021,Snow White in Happily Ever After,0,0,1,0,Imagitec Design,ASC Games,1994,Sega Genesis,Sega Genesis,4,N/A,N/A,0
+AGDQ,2021,Alcatraz: Prison Escape,0,0,0,0,Zombie Inc.,Activision Value,2001,PC,PC,Various,N/A,N/A,1
+AGDQ,2021,Mr. Bones,0,0,1,1,Zono Inc.,Sega,1996,Sega Saturn,Sega Saturn,5,N/A,N/A,0
+AGDQ,2021,Shinobi Legions,0,0,0,0,Sega,Sega,1995,Sega Saturn,Sega Saturn,5,N/A,N/A,0
+AGDQ,2021,Energy,0,0,0,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+AGDQ,2021,Vigilance,0,0,0,0,Post Linear Entertainment,SegaSoft,1998,PC,PC,Various,N/A,N/A,1
+AGDQ,2021,Sammy Suricate in Lion Land,0,0,0,0,Suricate Software,Suricate Software,2001,PC,PC,Various,N/A,N/A,1
+AGDQ,2021,The Legend of Zelda: Link's Awakening DX,0,0,1,0,Nintendo R&D2,Nintendo,1998,Game Boy Color,Game Boy Color,5,N/A,N/A,0
+AGDQ,2021,PokÃ©mon Platinum,0,0,0,0,Game Freak,Nintendo,2008,Nintendo DS,Nintendo DS,6,84,8.9,0
+AGDQ,2021,Halo 3: ODST,0,0,0,0,Bungie,Microsoft Game Studios,2009,Xbox 360,Xbox 360,7,83,7.6,0
+AGDQ,2021,Bonus Game 4 - Halo 3,1,0,1,1,Bungie,Microsoft Game Studios,2007,Xbox 360,Xbox 360,7,94,7.9,0
+AGDQ,2021,Yakuza 6: The Song of Life,0,0,1,1,Ryu Ga Gotoku Studio,Sega,2016,PlayStation 4,PS4,8,83,8.1,0
+AGDQ,2021,Scooby-Doo! Night of 100 Frights,0,0,0,0,Heavy Iron Studios,THQ,2002,"PlayStation 2, GameCube, Xbox","PS2, GameCube, Xbox",6,N/A,N/A,0
+AGDQ,2021,MediEvil,0,0,0,0,SCE Cambridge Studio,Sony Computer Entertainment,1998,PlayStation,PlayStation,5,80,8.6,0
+AGDQ,2021,Muchi Muchi Pork! 1.01,0,0,0,0,Cave,Cave,2007,Arcade,Arcade,Various,N/A,N/A,0
+AGDQ,2021,Serious Sam: The First Encounter,0,0,1,1,Croteam,Gathering of Developers,2001,PC,PC,Various,83,8.8,1
+AGDQ,2021,Serious Sam: The Second Encounter,0,0,1,1,Croteam,Gathering of Developers,2002,PC,PC,Various,85,8.8,1
+AGDQ,2021,Thief II: The Metal Age,0,0,0,0,Looking Glass Studios,Eidos Interactive,2000,PC,PC,Various,87,9,1
+AGDQ,2021,Comfort Zone,0,0,0,0,Checkmate,Checkmate,2018,Nintendo Switch,Switch,9,N/A,N/A,0
+AGDQ,2021,Celeste,0,0,1,1,Maddy Makes Games,Maddy Makes Games,2018,"PlayStation 4, Xbox One, Nintendo Switch, PC","PS4, Xbox One, Nintendo Switch, PC",8,94,8.5,1
+AGDQ,2021,Castlevania III: Dracula's Curse,0,0,1,0,Konami,Konami,1989,NES,NES,3,N/A,N/A,0
+AGDQ,2021,Castlevania: Order of Ecclesia,0,0,1,0,Konami,Konami,2008,Nintendo DS,Nintendo DS,6,85,8.6,0
+AGDQ,2021,Fist of the North Star,0,0,0,0,Sega,Sega,1986,Sega Master System,Sega Master System,3,N/A,N/A,0
+AGDQ,2021,RollerGames,0,0,0,0,Konami,Konami,1990,NES,NES,3,N/A,N/A,0
+AGDQ,2021,River City Ransom,0,0,1,1,Technōs Japan,American Technōs Inc.,1989,NES,NES,3,N/A,N/A,0
+AGDQ,2021,Aladdin,0,0,0,0,Virgin Games,Sega,1993,Sega Genesis,Sega Genesis,4,N/A,N/A,0
+AGDQ,2021,Metroid,0,0,1,0,Nintendo R&D1,Nintendo,1986,NES,NES,3,N/A,N/A,0
+AGDQ,2021,Mega Man,0,0,0,0,Capcom,Capcom,1987,NES,NES,3,N/A,N/A,0
+AGDQ,2021,Mega Man 11,0,0,0,0,Capcom,Capcom,2018,"PlayStation 4, Xbox One, Nintendo Switch, PC","PS4, Xbox One, Nintendo Switch, PC",8,80,7.8,1
+AGDQ,2021,Mega Man X3,0,0,0,0,Capcom,Capcom,1995,SNES,SNES,4,N/A,N/A,0
+AGDQ,2021,Tony Hawk's Underground 2,0,0,1,1,Neversoft,Activision,2004,"PlayStation 2, Xbox, GameCube, PC","PS2, Xbox, GameCube, PC",6,83,8.5,1
+AGDQ,2021,Tony Hawk's Pro Skater 1+2,0,0,0,0,Vicarious Visions,Activision,2020,"PlayStation 4, Xbox One, PC","PS4, Xbox One, PC",8,89,8.8,1
+AGDQ,2021,Metroid Prime,0,0,0,0,Retro Studios,Nintendo,2002,GameCube,GameCube,6,97,9.3,0
+AGDQ,2021,Shovel Knight: Specter of Torment,0,0,0,0,Yacht Club Games,Yacht Club Games,2017,"Nintendo Switch, PC","Switch, PC",9,82,8,1
+AGDQ,2021,Cuphead,0,0,1,0,Studio MDHR,Studio MDHR,2017,"Xbox One, PC","Xbox One, PC",8,86,8.2,1
+AGDQ,2021,Bonus Game 2 - Hades,1,0,1,1,Supergiant Games,Supergiant Games,2020,"Nintendo Switch, PC","Switch, PC",9,93,8.8,1
+AGDQ,2021,Daily Recap - Tuesday,0,0,0,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+AGDQ,2021,Left 4 Dead 2,0,0,1,1,Valve Corporation,Valve Corporation,2009,"PC, Xbox 360","PC, Xbox 360",7,89,8.9,1
+AGDQ,2021,F.E.A.R.,0,0,0,0,Monolith Productions,Vivendi Universal,2005,PC,PC,Various,88,8.8,1
+AGDQ,2021,Carrion,0,0,0,0,Phobia Game Studio,Devolver Digital,2020,"PC, Xbox One, Switch","PC, Xbox One, Switch",8,75,7.5,1
+AGDQ,2021,Axiom Verge,0,0,0,0,Thomas Happ Games,Thomas Happ Games,2015,"PS4, PC","PS4, PC",8,84,8.1,1
+AGDQ,2021,Silent Hill 3,0,0,0,0,Konami,Konami,2003,PS2,PS2,6,85,8.9,0
+AGDQ,2021,Haunting Ground,0,0,1,1,Capcom,Capcom,2005,PS2,PS2,6,67,8.2,0
+AGDQ,2021,Resident Evil: Director's Cut,0,0,1,0,Capcom,Capcom,1997,PS1,Playstation,5,N/A,N/A,0
+AGDQ,2021,PIEN-ã´ãˆã‚“-,0,0,0,0,Bakumatsu Games,Bakumatsu Games,2020,PC,PC,Various,N/A,N/A,1
+AGDQ,2021,Michael Jordan: Chaos in the Windy City,0,0,1,1,Electronic Arts,Electronic Arts,1994,SNES,SNES,4,N/A,N/A,0
+AGDQ,2021,Ice Age: Scrat's Nutty Adventure,0,0,0,0,Just Add Water,Outright Games,2019,"PS4, Xbox One, Switch, PC","PS4, Xbox One, Switch, PC",8,50,5.8,1
+AGDQ,2021,Into The Breach,0,0,1,0,Subset Games,Subset Games,2018,PC,PC,Various,90,8.2,1
+AGDQ,2021,Mario Golf: Toadstool Tour,0,0,0,0,Camelot Software Planning,Nintendo,2003,GameCube,GameCube,6,82,8.5,0
+AGDQ,2021,Strider,0,0,0,0,Double Helix Games,Capcom,2014,"PS3, PS4, Xbox 360, Xbox One, PC","PS3, PS4, Xbox 360, Xbox One, PC",7,77,7.5,1
+AGDQ,2021,Star Wars Jedi: Fallen Order,0,0,0,0,Respawn Entertainment,Electronic Arts,2019,"PS4, Xbox One, PC","PS4, Xbox One, PC",8,81,8.2,1
+AGDQ,2021,Resident Evil 5,0,0,1,0,Capcom,Capcom,2009,"PS3, Xbox 360","PS3, Xbox 360",7,84,7.1,0
+AGDQ,2021,TimeSplitters 2,0,0,0,0,Free Radical Design,Eidos Interactive,2002,"PS2, Xbox, GameCube","PS2, Xbox, GameCube",6,90,8.8,0
+AGDQ,2021,I Wanna Be The Fangame!,0,0,1,1,Fan-made,N/A,2010,PC,PC,Various,N/A,N/A,1
+AGDQ,2021,Slowdrive,0,0,1,0,OneBraveMan,OneBraveMan,2017,PC,PC,Various,N/A,N/A,1
+AGDQ,2021,Alwa's Legacy,0,0,0,0,Elden Pixels,Elden Pixels,2020,PC,PC,Various,80,7.8,1
+AGDQ,2021,Sheepo,0,0,0,0,Kyle Thompson,Kyle Thompson,2020,PC,PC,Various,N/A,N/A,1
+AGDQ,2021,Whipseey and the Lost Atlas,0,0,0,0,Daniel A. Ramirez,Blowfish Studios,2019,"PS4, Xbox One, Switch, PC","PS4, Xbox One, Switch, PC",8,55,5.8,1
+AGDQ,2021,Demolition Man,0,0,0,0,Virgin Interactive,Acclaim Entertainment,1995,"SNES, Sega Genesis","SNES, Sega Genesis",4,N/A,N/A,0
+AGDQ,2021,Inertial Drift,0,0,1,1,Level 91 Entertainment,PQube,2020,"PS4, Xbox One, Switch, PC","PS4, Xbox One, Switch, PC",8,80,7.5,1
+SGDQ,2021,Devil May Cry 5: Special Edition,0,0,1,1,Capcom,Capcom,2020,"PlayStation 5, Xbox Series X","PS5, Xbox Series X",9,84,8.8,0
+SGDQ,2021,Tomb Raider: Anniversary,0,0,0,0,Crystal Dynamics,Eidos Interactive,2007,"PlayStation 2, PSP, Windows","PS2, PSP, PC",6,83,8.2,1
+SGDQ,2021,Ristar,0,0,0,0,Sonic Team,Sega,1995,Sega Genesis,Sega Genesis,4,N/A,N/A,0
+SGDQ,2021,Sonic 3D Blast,0,0,0,0,Traveller's Tales,Sega,1996,"Sega Genesis, Sega Saturn","Sega Genesis, Sega Saturn",4,N/A,N/A,0
+SGDQ,2021,Sonic Adventure 2: Battle,0,0,1,0,Sonic Team,Sega,2001,GameCube,GameCube,6,73,8.6,0
+SGDQ,2021,Super Mario Bros. 2,0,0,0,0,Nintendo,Nintendo,1988,NES,NES,3,N/A,N/A,0
+SGDQ,2021,Vanquish,0,0,0,0,PlatinumGames,Sega,2010,"PlayStation 3, Xbox 360","PS3, Xbox 360",7,84,8.4,0
+SGDQ,2021,Doom Eternal (Ancient Gods 1),0,0,0,0,id Software,Bethesda Softworks,2020,"PlayStation 4, Xbox One, Windows","PS4, Xbox One, PC",8,88,8.8,1
+SGDQ,2021,Daily Recap - Thursday,0,0,0,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+SGDQ,2021,Bonus Game 4 - Halo 2,0,0,0,0,Bungie,Microsoft Game Studios,2004,Xbox,Xbox,6,95,8.7,0
+SGDQ,2021,Return to Castle Wolfenstein,0,0,0,0,Gray Matter Interactive,Activision,2001,PC,PC,Various,88,8.9,1
+SGDQ,2021,Heads Run,0,0,0,0,Kass-Stwa,Kass-Stwa,2017,PC,PC,Various,N/A,N/A,1
+SGDQ,2021,Ponpu,0,0,1,0,Purple Tree Studio,Zordix Publishing,2020,"PC, Switch, PS4, Xbox One","PC, Switch, PS4, Xbox One",8,74,7,1
+SGDQ,2021,Wizard of Legend,0,0,0,0,Contingent99,Humble Games,2018,"PC, Switch, PS4, Xbox One","PC, Switch, PS4, Xbox One",8,79,7.8,1
+SGDQ,2021,Sonic the Hedgehog CD,0,0,0,0,Sonic Team,Sega,1993,Sega CD,Sega Genesis,4,N/A,N/A,0
+SGDQ,2021,Black Mesa,0,0,1,1,Crowbar Collective,Crowbar Collective,2020,PC,PC,Various,84,8.8,1
+SGDQ,2021,Half-Life: Opposing Force,0,0,0,0,Gearbox Software,Sierra Studios,1999,PC,PC,Various,85,8.7,1
+SGDQ,2021,DANCERUSH STARDOM,0,0,0,0,Konami,Konami,2018,Arcade,Arcade,Various,N/A,N/A,0
+SGDQ,2021,The Legend of Zelda: Breath of the Wild,0,0,0,0,Nintendo EPD,Nintendo,2017,"Switch, Wii U","Switch, Wii U",8,97,8.7,0
+SGDQ,2021,Fire Emblem: Three Houses,0,0,1,0,"Intelligent Systems, Koei Tecmo",Nintendo,2019,Switch,Switch,9,89,8.7,0
+SGDQ,2021,Spongebob's Truth or Square,0,0,0,0,Heavy Iron Studios,THQ,2009,"Wii, DS, PSP, Xbox 360","Wii, DS, PSP, Xbox 360",7,60,6.5,0
+SGDQ,2021,Storks and Apes and Crocodiles,0,0,0,0,Morsel,N/A,2017,SNES (ROM hack),SNES,4,N/A,N/A,0
+SGDQ,2021,Mega Man X2,0,0,0,0,Capcom,Capcom,1994,SNES,SNES,4,N/A,N/A,0
+SGDQ,2021,Batman: The Video Game,0,0,0,0,Sunsoft,Sunsoft,1989,NES,NES,3,N/A,N/A,0
+SGDQ,2021,Donkey Kong Country 3: Dixie Kong's Double Trouble!,0,0,1,1,Rare,Nintendo,1996,SNES,SNES,4,N/A,N/A,0
+SGDQ,2021,Super Meat Boy Forever,0,0,0,0,Team Meat,Team Meat,2020,"PC, Switch, PS4, Xbox One","PC, Switch, PS4, Xbox One",8,72,6.5,1
+SGDQ,2021,Record of Lodoss War: Deedlit in Wonder Labyrinth,0,0,0,0,Team Ladybug,Playism,2021,PC,PC,Various,80,8.2,1
+SGDQ,2021,Cave Story 3D,0,0,1,1,Nicalis,NIS America,2011,3DS,Nintendo 3DS,7,82,7.5,0
+SGDQ,2021,Metroid Prime 2: Echoes,0,0,0,0,Retro Studios,Nintendo,2004,GameCube,GameCube,6,92,8.9,0
+SGDQ,2021,Shadow of the Colossus,0,0,1,1,Team Ico,Sony Computer Entertainment,2005,PS2,PS2,6,91,8.9,0
+SGDQ,2021,Kirby: Nightmare in Dream Land,0,0,0,0,HAL Laboratory,Nintendo,2002,Game Boy Advance,Game Boy Advance,6,N/A,N/A,0
+SGDQ,2021,Kirby's Dream Collection,0,0,0,0,HAL Laboratory,Nintendo,2012,Wii,Wii,7,N/A,N/A,0
+SGDQ,2021,Super Mario Odyssey,0,0,0,0,Nintendo EPD,Nintendo,2017,Switch,Switch,9,97,8.9,0
+SGDQ,2021,Daily Recap - Monday,0,0,0,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+SGDQ,2021,Bonus Game 1 - Paper Mario,1,0,1,1,Intelligent Systems,Nintendo,2000,Nintendo 64,N64,5,93,9,0
+SGDQ,2021,Bayonetta,0,0,0,0,PlatinumGames,Sega,2009,"Xbox 360, PlayStation 3","Xbox 360, PS3",7,90,8.8,0
+SGDQ,2021,Penumbra Trilogy,0,0,0,0,Frictional Games,Paradox Interactive,2007,PC,PC,Various,81,8.2,1
+SGDQ,2021,Kororinpa: Marble Mania,0,0,0,0,Hudson Soft,Hudson Soft,2006,Wii,Wii,7,70,7.5,0
+SGDQ,2021,Coca Cola Kid,0,0,0,0,Aspect Co.,Sega,1994,Game Gear,Sega Game Gear,4,N/A,N/A,0
+SGDQ,2021,Mischief Makers,0,0,0,0,Treasure,Enix,1997,Nintendo 64,N64,5,78,7.9,0
+SGDQ,2021,Earthworm Jim,0,0,0,0,Shiny Entertainment,Playmates Interactive,1994,"Sega Genesis, SNES","Sega Genesis, SNES",4,N/A,N/A,0
+SGDQ,2021,Golden Sun: The Lost Age,0,0,1,1,Camelot Software Planning,Nintendo,2002,Game Boy Advance,Game Boy Advance,6,86,8.9,0
+SGDQ,2021,GeoGuessr,0,0,0,0,Anton Wallén,GeoGuessr AB,2013,Browser,PC,Various,N/A,N/A,1
+SGDQ,2021,Ratchet & Clank: Into the Nexus,0,0,0,0,Insomniac Games,Sony Computer Entertainment,2013,PlayStation 3,PS3,7,76,7.8,0
+SGDQ,2021,Crash Bandicoot 4: It's About Time,0,0,0,0,Toys for Bob,Activision,2020,"PlayStation 4, Xbox One","PS4, Xbox One",8,85,8.5,0
+SGDQ,2021,Bonus Game 3 - Hitman 3,1,0,1,1,IO Interactive,IO Interactive,2021,"PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S, PC","PS4, PS5, Xbox One, Xbox Series X/S, PC",8,87,7.7,1
+SGDQ,2021,Ghostrunner,0,0,1,0,One More Level,505 Games,2020,"PC, PlayStation 4, Xbox One","PC, PS4, Xbox One",8,81,7.8,1
+SGDQ,2021,Mass Effect 2,0,0,1,1,BioWare,Electronic Arts,2010,"Xbox 360, PC, PlayStation 3","Xbox 360, PC, PS3",7,96,8.9,1
+SGDQ,2021,Untitled Goose Game,0,0,1,1,House House,Panic,2019,"PC, Mac, Switch","PC, Switch",9,81,7.5,1
+SGDQ,2021,Fight Crab,0,0,1,0,Calappa Games,PLAYISM,2020,PC,PC,Various,68,7,1
+SGDQ,2021,Contrast,0,0,0,0,Compulsion Games,Focus Home Interactive,2013,"PC, PlayStation 3, PlayStation 4, Xbox 360","PC, PS3, PS4, Xbox 360",7,59,6.8,1
+SGDQ,2021,Astro's Playroom,0,0,0,0,Japan Studio,Sony Interactive Entertainment,2020,PlayStation 5,PS5,9,83,8.2,0
+SGDQ,2021,QuackShot: Starring Donald Duck,0,0,0,0,Sega,Sega,1991,Sega Genesis,Sega Genesis,4,N/A,N/A,0
+SGDQ,2021,Rayman,0,0,0,0,Ubisoft Montpellier,Ubisoft,1995,"PlayStation, Atari Jaguar","PlayStation, Atari Jaguar",5,N/A,N/A,0
+SGDQ,2021,PokÃ©mon Emerald,0,0,0,0,Game Freak,Nintendo,2004,Game Boy Advance,Game Boy Advance,6,N/A,N/A,0
+SGDQ,2021,Bowser's Fury,0,0,0,0,Nintendo,Nintendo,2021,Switch,Switch,9,89,8.7,0
+SGDQ,2021,Mario Kart 64,0,0,0,0,Nintendo EAD,Nintendo,1996,Nintendo 64,N64,5,N/A,N/A,0
+SGDQ,2021,Super Metroid,0,0,1,0,Nintendo R&D1,Nintendo,1994,SNES,SNES,4,N/A,N/A,0
+SGDQ,2021,Super Mario 64,0,0,1,1,Nintendo EAD,Nintendo,1996,Nintendo 64,N64,5,N/A,N/A,0
+SGDQ,2021,Dragon Age: Inquisition,0,0,1,0,BioWare,Electronic Arts,2014,"PlayStation 3, PlayStation 4, Xbox 360, Xbox One, PC","PS3, PS4, Xbox 360, Xbox One, PC",7,85,7.9,1
+SGDQ,2021,F-Zero GX,0,0,0,0,Amusement Vision,Nintendo,2003,GameCube,GameCube,6,89,8.8,0
+SGDQ,2021,Psychonauts,0,0,1,1,Double Fine Productions,Majesco Entertainment,2005,"Xbox, PC, PlayStation 2","Xbox, PC, PS2",6,88,8.8,1
+SGDQ,2021,Mega Man X,0,0,0,0,Capcom,Capcom,1993,SNES,SNES,4,N/A,N/A,0
+SGDQ,2021,Spyro the Dragon (1998),0,0,0,0,Insomniac Games,Sony Computer Entertainment,1998,PlayStation,PlayStation,5,N/A,N/A,0
+SGDQ,2021,Kirby Super Star,0,0,1,1,HAL Laboratory,Nintendo,1996,SNES,SNES,4,N/A,N/A,0
+SGDQ,2021,James Bond 007: Nightfire,0,0,1,1,Eurocom,Electronic Arts,2002,"GameCube, PlayStation 2, Xbox, PC","GameCube, PS2, Xbox, PC",6,N/A,N/A,1
+SGDQ,2021,K-Shoot Mania,0,0,0,0,Various,Various,2013,PC,PC,Various,N/A,N/A,1
+SGDQ,2021,Metal Wolf Chaos XD,0,0,1,1,"FromSoftware, General Arcade",Devolver Digital,2019,"PlayStation 4, Xbox One, Windows","PS4, Xbox One, PC",8,67,7.1,1
+SGDQ,2021,Daily Recap - Sunday,0,0,0,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+SGDQ,2021,The Legend of Zelda: Oracle of Ages,0,0,0,0,Flagship,Nintendo,2001,Game Boy Color,Game Boy Color,5,N/A,N/A,0
+SGDQ,2021,Metal Gear Solid: Portable Ops,0,0,0,0,Kojima Productions,Konami,2006,PlayStation Portable,PSP,6,87,8.4,0
+SGDQ,2021,Max Payne 2: The Fall of Max Payne,0,0,0,0,Remedy Entertainment,Rockstar Games,2003,"Windows, Xbox, PlayStation 2","PC, Xbox, PS2",6,86,8.5,1
+SGDQ,2021,Sundered,0,0,0,0,Thunder Lotus Games,Thunder Lotus Games,2017,"Windows, macOS, Linux, PlayStation 4","PC, PS4",8,76,7.5,1
+SGDQ,2021,Pikmin 3 Deluxe,0,0,0,0,Nintendo,Nintendo,2020,Nintendo Switch,Switch,9,85,8.5,0
+SGDQ,2021,Styx: Shards of Darkness,0,0,0,0,Cyanide,Focus Home Interactive,2017,"Windows, PlayStation 4, Xbox One","PC, PS4, Xbox One",8,72,7.4,1
+SGDQ,2021,Nintendogs,0,0,1,0,Nintendo EAD,Nintendo,2005,Nintendo DS,Nintendo DS,6,85,8.2,0
+SGDQ,2021,Zoda's Revenge: Startropics II,0,0,1,1,Nintendo R&D3,Nintendo,1994,NES,NES,3,N/A,N/A,0
+SGDQ,2021,Tiny Toon Adventures,0,0,0,0,Konami,Konami,1991,NES,NES,3,N/A,N/A,0
+SGDQ,2021,Batman: The Video Game (Normal),0,0,0,0,Sunsoft,Sunsoft,1989,NES,NES,3,N/A,N/A,0
+SGDQ,2021,Ninja Gaiden,0,0,0,0,Tecmo,Tecmo,1988,NES,NES,3,N/A,N/A,0
+SGDQ,2021,Amagon,0,0,0,0,Aicom,American Sammy,1988,NES,NES,3,N/A,N/A,0
+SGDQ,2021,Gimmick!,0,0,1,1,Sunsoft,Sunsoft,1992,NES,NES,3,N/A,N/A,0
+SGDQ,2021,Ghosts 'N Goblins Resurrection,0,0,1,1,Capcom,Capcom,2021,Nintendo Switch,Switch,9,75,7.2,0
+SGDQ,2021,Super Smash Bros. Brawl,0,0,1,0,Sora Ltd.,Nintendo,2008,Wii,Wii,7,93,8.7,0
+SGDQ,2021,LEGO Star Wars: The Complete Saga (DS),0,0,0,0,Traveller's Tales,LucasArts,2007,Nintendo DS,Nintendo DS,6,80,7.8,0
+SGDQ,2021,Twinkle Star Sprites,0,0,0,0,ADK,SNK,1996,Neo Geo,Neo Geo,4,N/A,N/A,0
+SGDQ,2021,I Am Fish,0,0,0,0,Bossa Studios,Curve Digital,2021,"Windows, Xbox One, Xbox Series X/S","PC, Xbox One, Xbox Series X/S",8,70,6.8,1
+SGDQ,2021,Charlie Murder,0,0,1,1,Ska Studios,Microsoft Studios,2013,Xbox 360,Xbox 360,7,75,7.5,0
+SGDQ,2021,Timeline,0,0,0,0,1C Wireless,1C Wireless,2014,iOS,Mobile,Various,N/A,N/A,1
+SGDQ,2021,Dark Souls 3,0,0,0,0,FromSoftware,Bandai Namco Entertainment,2016,"PlayStation 4, Xbox One, Windows","PS4, Xbox One, PC",8,89,8.8,1
+SGDQ,2021,Bonus Game 6 - Demon's Souls (Remake / 2020),1,0,1,1,Bluepoint Games,Sony Interactive Entertainment,2020,PlayStation 5,PS5,9,92,8.9,0
+SGDQ,2021,Super Mario Bros. 3,0,0,1,1,Nintendo,Nintendo,1988,NES,NES,3,N/A,N/A,0
+SGDQ,2021,Kingdom Hearts II Final Mix (LV1),0,0,1,1,Square Enix,Square Enix,2007,PlayStation 2,PS2,6,N/A,N/A,0
+SGDQ,2021,Kingdom Hearts II Final Mix,0,0,1,1,Square Enix,Square Enix,2007,PlayStation 2,PS2,6,N/A,N/A,0
+SGDQ,2021,Link: The Faces of Evil,0,0,0,0,Animation Magic,Philips Interactive Media,1993,Philips CD-i,Philips CD-i,4,N/A,N/A,0
+SGDQ,2021,Jazzpunk,0,0,0,0,Necrophone Games,Adult Swim Games,2014,"Windows, macOS, Linux",PC,Various,75,7.4,1
+SGDQ,2021,Arabian Nights,0,0,0,0,Silmarils,Silmarils,1993,"Amiga, DOS",PC,Various,N/A,N/A,1
+SGDQ,2021,Jelly Drift,0,0,0,0,Dani,Dani,2021,Windows,PC,Various,N/A,N/A,1
+SGDQ,2021,Paris Chase,0,0,0,0,Team6 Game Studios,Playlogic,2006,Windows,PC,Various,N/A,N/A,1
+SGDQ,2021,Racing Pitch,0,0,0,0,Skinflake,Skinflake,2006,PC,PC,Various,N/A,N/A,1
+SGDQ,2021,Need For Speed: Porsche Unleashed,0,0,1,0,Eden Studios,Electronic Arts,2000,"PC, PlayStation","PC, PlayStation",5,N/A,N/A,1
+SGDQ,2021,Evolution Skateboarding,0,0,0,0,Konami,Konami,2002,"PlayStation 2, GameCube","PS2, GameCube",6,N/A,N/A,0
+SGDQ,2021,Wheels!,0,0,0,0,RJ Cooper & Associates,RJ Cooper & Associates,1998,PC,PC,Various,N/A,N/A,1
+SGDQ,2021,ALTF4,0,0,1,0,PUMPKIM,PUMPKIM,2021,PC,PC,Various,N/A,N/A,1
+SGDQ,2021,Time Gate: Knight's Chase,0,0,0,0,Infogrames,Interplay Productions,1996,PC,PC,Various,N/A,N/A,1
+SGDQ,2021,X-Men 2: Clone Wars,0,0,1,1,Headgames,Sega,1995,Sega Genesis,Sega Genesis,4,N/A,N/A,0
+SGDQ,2021,Tempest of the Heavens and Earth,0,0,0,0,LION HEART,LION HEART,2017,PC,PC,Various,N/A,N/A,1
+SGDQ,2021,Sonic Colors (DS),0,0,0,0,Dimps,Sega,2010,Nintendo DS,Nintendo DS,6,79,8.1,0
+SGDQ,2021,Outer Wilds,0,0,0,0,Mobius Digital,Annapurna Interactive,2019,"PC, Xbox One","PC, Xbox One",8,85,8.2,1
+SGDQ,2021,Destiny 2,0,0,0,0,Bungie,Bungie,2017,"PlayStation 4, Xbox One, PC","PS4, Xbox One, PC",8,85,4.4,1
+SGDQ,2021,Doom Eternal (Ancient Gods 2),0,0,0,0,id Software,Bethesda Softworks,2020,"PC, PlayStation 4, Xbox One","PC, PS4, Xbox One",8,88,8.8,1
+SGDQ,2021,PokÃ©mon Black/White,0,0,0,0,Game Freak,Nintendo,2010,Nintendo DS,Nintendo DS,6,87,8.1,0
+SGDQ,2021,Manifold Garden,0,0,0,0,William Chyr Studio,William Chyr Studio,2019,PC,PC,Various,84,7.8,1
+SGDQ,2021,Mega Man II,0,0,0,0,Capcom,Capcom,1988,NES,NES,3,N/A,N/A,0
+SGDQ,2021,Evergate,0,0,1,1,Stone Lantern Games,PQube,2020,"PC, Nintendo Switch","PC, Switch",9,80,7.5,1
+SGDQ,2021,I wanna be the Knight in Shining Armor,0,0,0,0,N/A,N/A,2017,PC,PC,Various,N/A,N/A,1
+SGDQ,2021,Streets of Rage 4,0,0,1,1,"Dotemu, Lizardcube, Guard Crush Games",Dotemu,2020,"PC, PlayStation 4, Xbox One, Nintendo Switch","PC, PS4, Xbox One, Switch",8,82,8.2,1
+SGDQ,2021,Factorio,0,0,0,0,Wube Software,Wube Software,2020,PC,PC,Various,90,9.1,1
+SGDQ,2021,Celeste Custom Maps,0,0,1,1,Maddy Makes Games,Maddy Makes Games,2018,"PC, PS4, Xbox One, Switch","PC, PS4, Xbox One, Switch",8,88,8.5,1
+SGDQ,2021,Sonic Heroes (TAS),0,0,0,0,Sonic Team,Sega,2003,"PlayStation 2, Xbox, GameCube","PS2, Xbox, GameCube",6,73,7.5,0
+SGDQ,2021,Bonus Game 5 - maimai FiNALE,1,0,1,1,Sega,Sega,2017,Arcade,Arcade,Various,N/A,N/A,0
+SGDQ,2021,Daily Recap - Friday,0,0,0,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+SGDQ,2021,The * BishiBashi,0,0,1,1,Konami,Konami,2009,Arcade,Arcade,Various,N/A,N/A,0
+SGDQ,2021,Let's Give Up,0,0,0,0,N/A,N/A,2020,PC,PC,Various,N/A,N/A,1
+SGDQ,2021,FAITH,0,0,0,0,Airdorf,New Blood Interactive,2022,PC,PC,Various,N/A,N/A,1
+SGDQ,2021,Gone Golfing,0,0,0,0,Icehelm,Icehelm,2020,PC,PC,Various,N/A,N/A,1
+SGDQ,2021,Teardown,0,0,0,0,Tuxedo Labs,Tuxedo Labs,2022,PC,PC,Various,80,8.1,1
+SGDQ,2021,Resogun,0,0,0,0,Housemarque,Sony Computer Entertainment,2013,PS4,PS4,8,84,8,0
+SGDQ,2021,Vectronom,0,0,1,1,Ludopium,ARTE France,2019,"PC, Switch","PC, Switch",9,76,7.5,1
+SGDQ,2021,Blast Corps,0,0,0,0,Rare,Nintendo,1997,N64,N64,5,N/A,N/A,0
+SGDQ,2021,Chameleon Twist,0,0,1,0,Japan System Supply,Sunsoft,1997,N64,N64,5,N/A,N/A,0
+SGDQ,2021,Yoshi's Story,0,0,0,0,Nintendo EAD,Nintendo,1997,N64,N64,5,65,7.2,0
+SGDQ,2021,Indiana Jones' Greatest Adventures,0,0,0,0,Factor 5,JVC,1994,SNES,SNES,4,N/A,N/A,0
+SGDQ,2021,Bloodstained: Ritual of the Night,0,0,0,0,ArtPlay,505 Games,2019,"PC, PS4, Xbox One, Switch","PC, PS4, Xbox One, Switch",8,83,8,1
+SGDQ,2021,Castlevania: Dawn of Sorrow,0,0,0,0,Konami,Konami,2005,DS,Nintendo DS,6,89,8.8,0
+SGDQ,2021,Castlevania 64,0,0,1,0,Konami,Konami,1999,N64,N64,5,78,7.5,0
+SGDQ,2021,Castlevania: Bloodlines,0,0,0,0,Konami,Konami,1994,Genesis,Sega Genesis,4,N/A,N/A,0
+SGDQ,2021,Castlevania: Rondo of Blood,0,0,0,0,Konami,Konami,1993,PC Engine CD,PC,Various,N/A,N/A,0
+SGDQ,2021,Castlevania,0,0,0,0,Konami,Konami,1986,NES,NES,3,N/A,N/A,0
+SGDQ,2021,Battletoads,0,0,1,1,Rare,Tradewest,1991,NES,NES,3,N/A,N/A,0
+SGDQ,2021,La-Mulana Remake,0,0,1,0,NIGORO,AGM Playism,2012,PC,PC,Various,N/A,N/A,1
+SGDQ,2021,Dishonored,0,0,1,1,Arkane Studios,Bethesda Softworks,2012,"PC, PS3, Xbox 360","PC, PS3, Xbox 360",7,91,8.7,1
+SGDQ,2021,Horizon Zero Dawn,0,0,1,0,Guerrilla Games,Sony Interactive Entertainment,2017,PS4,PS4,8,89,8.4,0
+SGDQ,2021,Bonus Game 2 - Grand Theft Auto III,1,0,1,1,DMA Design,Rockstar Games,2001,PS2,PS2,6,97,8.5,0
+SGDQ,2021,Metal Gear Solid 3: Snake Eater HD,0,0,1,1,Kojima Productions,Konami,2011,"PS3, Xbox 360","PS3, Xbox 360",7,94,8.9,0
+SGDQ,2021,Daily Recap - Tuesday,0,0,0,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+SGDQ,2021,Resident Evil 7 biohazard,0,0,0,0,Capcom,Capcom,2017,"PlayStation 4, Xbox One, Windows","PS4, Xbox One, PC",8,86,7.9,1
+SGDQ,2021,Dead Space,0,0,0,0,EA Redwood Shores,Electronic Arts,2008,"PlayStation 3, Xbox 360, Windows","PS3, Xbox 360, PC",7,89,8.7,1
+SGDQ,2021,Little Nightmares II,0,0,0,0,Tarsier Studios,Bandai Namco Entertainment,2021,"PlayStation 4, Xbox One, Windows, Nintendo Switch","PS4, Xbox One, PC, Switch",8,81,8.2,1
+SGDQ,2021,Star Wars: Republic Commando,0,0,0,0,LucasArts,LucasArts,2005,"Xbox, Windows","Xbox, PC",6,78,8.5,1
+SGDQ,2021,Daily Recap - Wednesday,0,0,0,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+SGDQ,2021,The Legend of Zelda: Majora's Mask,0,0,0,0,Nintendo EAD,Nintendo,2000,Nintendo 64,N64,5,95,9.1,0
+SGDQ,2020,Dogurai,0,0,0,0,Hungry Bear Games,QUByte Interactive,2019,"Windows, Nintendo Switch, PlayStation 4, Xbox One","PC, Switch, PS4, Xbox One",8,N/A,N/A,1
+SGDQ,2020,EAT GIRL,0,0,0,0,Tesselode,Tesselode,2019,Windows,PC,Various,N/A,N/A,1
+SGDQ,2020,One Step From Eden,0,0,1,1,Thomas Moon Kang,Humble Games,2020,"Windows, Nintendo Switch, PlayStation 4","PC, Switch, PS4",8,82,7.5,1
+SGDQ,2020,Mario & Luigi: Paper Jam,0,0,1,1,AlphaDream,Nintendo,2015,Nintendo 3DS,Nintendo 3DS,7,76,7.1,0
+SGDQ,2020,The Legend of Zelda: Link's Awakening,0,0,0,0,Nintendo,Nintendo,1993,Game Boy,Game Boy,3,N/A,N/A,0
+SGDQ,2020,Sonic 3 & Knuckles,0,0,0,0,Sega Technical Institute,Sega,1994,Sega Genesis,Sega Genesis,4,N/A,N/A,0
+SGDQ,2020,Sonic Heroes,0,0,1,0,Sonic Team,Sega,2003,"PlayStation 2, Xbox, GameCube","PS2, Xbox, GameCube",6,73,7.5,0
+SGDQ,2020,Bonus Game 3 - Resident Evil 3: Remake (2020),1,0,1,1,Capcom,Capcom,2020,"PlayStation 4, Xbox One, Windows","PS4, Xbox One, PC",8,79,6.2,1
+SGDQ,2020,Devil May Cry 4: Special Edition,0,0,1,1,Capcom,Capcom,2015,"PlayStation 4, Xbox One, Windows","PS4, Xbox One, PC",8,75,7.8,1
+SGDQ,2020,Pacify,0,0,0,0,Shawn Hitchcock,SKH Apps,2019,Windows,PC,Various,N/A,N/A,1
+SGDQ,2020,Rocko's Quest,0,0,0,0,Revistronic,Big City Games,2003,Windows,PC,Various,N/A,N/A,1
+SGDQ,2020,Homey D. Clown,0,0,1,0,Synergistic Software,Capstone Software,1993,Windows,PC,Various,N/A,N/A,1
+SGDQ,2020,Little Big Adventure 2,0,0,0,0,Adeline Software,Electronic Arts,1997,Windows,PC,Various,N/A,N/A,1
+SGDQ,2020,ALF,0,0,1,1,Nexa Corporation,Sega,1989,Sega Master System,Sega Master System,3,N/A,N/A,0
+SGDQ,2020,El Matador,0,0,0,0,Plastic Reality Technologies,1C Company,2006,Windows,PC,Various,N/A,N/A,1
+SGDQ,2020,Asghan: The Dragon Slayer,0,0,1,1,Silmarils,Grolier Interactive,1998,Windows,PC,Various,N/A,N/A,1
+SGDQ,2020,DOOM 64 (2020) - Lost Levels,0,0,0,0,Nightdive Studios,Bethesda Softworks,2020,"Windows, PlayStation 4, Xbox One, Nintendo Switch","PC, PS4, Xbox One, Switch",8,N/A,N/A,1
+SGDQ,2020,Star Wars: Jedi Knight - Dark Forces II,0,0,0,0,LucasArts,LucasArts,1997,Windows,PC,Various,N/A,N/A,1
+SGDQ,2020,Blood,0,0,1,1,Monolith Productions,GT Interactive,1997,Windows,PC,Various,N/A,N/A,1
+SGDQ,2020,Doom 3,0,0,0,0,id Software,Activision,2004,Windows,PC,Various,87,8.5,1
+SGDQ,2020,Bonus Game 4 - Half-Life: Alyx,1,0,1,1,Valve,Valve,2020,Windows,PC,Various,93,9.1,1
+SGDQ,2020,DOOM Eternal,0,0,1,0,id Software,Bethesda Softworks,2020,"Windows, PlayStation 4, Xbox One","PC, PS4, Xbox One",8,88,8.8,1
+SGDQ,2020,PokÃ©mon FireRed/LeafGreen,0,0,0,0,Game Freak,Nintendo,2004,Game Boy Advance,Game Boy Advance,6,81,9,0
+SGDQ,2020,Final Fantasy VII Remake,0,0,0,0,Square Enix,Square Enix,2020,PlayStation 4,PS4,8,87,8.2,0
+SGDQ,2020,Ketsui: Kizuna Jigoku Tachi,0,0,0,0,Cave,AMI,2003,Arcade,Arcade,Various,N/A,N/A,0
+SGDQ,2020,Grand Theft Auto: Vice City,0,0,0,0,Rockstar North,Rockstar Games,2002,PlayStation 2,PS2,6,95,8.9,0
+SGDQ,2020,Super Smash Bros. 64,0,0,1,0,HAL Laboratory,Nintendo,1999,Nintendo 64,N64,5,79,8.9,0
+SGDQ,2020,Bloodborne,0,0,0,0,FromSoftware,Sony Computer Entertainment,2015,PlayStation 4,PS4,8,92,8.9,0
+SGDQ,2020,Bonus Game 6 - Minecraft,1,0,1,1,Mojang,Mojang,2011,"Windows, macOS, Linux",PC,Various,93,8.7,1
+SGDQ,2020,PokÃ©mon Shield,0,0,0,0,Game Freak,Nintendo,2019,Nintendo Switch,Switch,9,80,4.6,0
+SGDQ,2020,Kid Icarus,0,0,1,1,Nintendo R&D1,Nintendo,1986,NES,NES,3,N/A,N/A,0
+SGDQ,2020,Power Blade,0,0,0,0,Natsume,Taito,1991,NES,NES,3,N/A,N/A,0
+SGDQ,2020,Zelda II: The Adventure of Link,0,0,0,0,Nintendo EAD,Nintendo,1987,NES,NES,3,N/A,N/A,0
+SGDQ,2020,The Elder Scrolls IV: Oblivion,0,0,0,0,Bethesda Game Studios,2K Games / Bethesda Softworks,2006,"PC, Xbox 360","PC, Xbox 360",7,94,8.6,1
+SGDQ,2020,The Witcher 3: Wild Hunt,0,0,1,0,CD Projekt Red,CD Projekt,2015,"PC, PS4, Xbox One","PC, PS4, Xbox One",8,93,9.4,1
+SGDQ,2020,Batman: Arkham City,0,0,0,0,Rocksteady Studios,Warner Bros. Interactive,2011,"PS3, Xbox 360, PC","PS3, Xbox 360, PC",7,96,8.7,1
+SGDQ,2020,Valley,0,0,1,1,Blue Isle Studios,Blue Isle Studios,2016,"PC, PS4, Xbox One","PC, PS4, Xbox One",8,70,7.2,1
+SGDQ,2020,Dandara: Trials of Fear,0,0,0,0,Long Hat House,Raw Fury,2018,"PC, PS4, Xbox One, Switch","PC, PS4, Xbox One, Switch",8,70,7.5,1
+SGDQ,2020,Portal,0,0,0,0,Valve,Valve,2007,"PC, Xbox 360, PS3","PC, Xbox 360, PS3",7,90,9.2,1
+SGDQ,2020,Portal 2,0,0,0,0,Valve,Valve,2011,"PC, Xbox 360, PS3","PC, Xbox 360, PS3",7,95,9.1,1
+SGDQ,2020,The Talos Principle,0,0,1,1,Croteam,Devolver Digital,2014,PC,PC,Various,85,8.5,1
+SGDQ,2020,Superliminal,0,0,0,0,Pillow Castle,Pillow Castle,2019,PC,PC,Various,76,7.7,1
+SGDQ,2020,Hollow Knight,0,0,1,0,Team Cherry,Team Cherry,2017,PC,PC,Various,87,9,1
+SGDQ,2020,Bonus Game 1 - Ori and the Will of the Wisps,1,0,1,1,Moon Studios,Xbox Game Studios,2020,"Xbox One, PC","Xbox One, PC",8,90,8.8,1
+SGDQ,2020,Gunvolt Chronicles: Luminous Avenger iX,0,0,0,0,Inti Creates,Inti Creates,2019,"Switch, PS4, PC","Switch, PS4, PC",8,80,7.8,1
+SGDQ,2020,Yono and the Celestial Elephants,0,0,1,1,Neckbolt,Plug In Digital,2017,"Switch, PC","Switch, PC",9,67,6.8,1
+SGDQ,2020,Alien: Isolation,0,0,0,0,Creative Assembly,Sega,2014,"PC, PS3, PS4, Xbox 360, Xbox One","PC, PS3, PS4, Xbox 360, Xbox One",7,81,8.1,1
+SGDQ,2020,Silent Hill: Homecoming,0,0,1,0,Double Helix Games,Konami,2008,"PS3, Xbox 360, PC","PS3, Xbox 360, PC",7,71,6.7,1
+SGDQ,2020,Alone in the Dark,0,0,1,0,Eden Games,Atari,2008,"PS2, Wii, Xbox 360, PC","PS2, Wii, Xbox 360, PC",6,55,6.1,1
+SGDQ,2020,Quest 64,0,0,1,1,Imagineer,THQ,1998,Nintendo 64,N64,5,55,6.4,0
+SGDQ,2020,The Lion King,0,0,1,1,Westwood Studios,Virgin Interactive,1994,"SNES, Genesis","SNES, Sega Genesis",4,N/A,N/A,0
+SGDQ,2020,Castle of Illusion Starring Mickey Mouse,0,0,0,0,Sega,Sega,1990,Sega Genesis,Sega Genesis,4,N/A,N/A,0
+SGDQ,2020,Pulseman,0,0,0,0,Game Freak,Sega,1994,Sega Mega Drive,Sega Genesis,4,N/A,N/A,0
+SGDQ,2020,Super Turrican,0,0,0,0,Factor 5,Seika,1993,SNES,SNES,4,N/A,N/A,0
+SGDQ,2020,Donkey Kong Country 2,0,0,0,0,Rare,Nintendo,1995,SNES,SNES,4,N/A,N/A,0
+SGDQ,2020,Tony Hawk's Underground,0,0,1,0,Neversoft,Activision,2003,"PS2, GameCube, Xbox, GBA","PS2, GameCube, Xbox, Game Boy Advance",6,90,8.8,0
+SGDQ,2020,Trackmania Nations Forever,0,0,1,1,Nadeo,Ubisoft,2008,PC,PC,Various,N/A,N/A,1
+SGDQ,2020,The Legend of Zelda: Twilight Princess HD,0,0,1,0,Tantalus Media,Nintendo,2016,Wii U,Wii U,8,86,8.9,0
+SGDQ,2020,Bonus Game 2 - Mario Kart 8 Deluxe,1,0,1,1,Nintendo,Nintendo,2017,Switch,Switch,9,92,8.5,0
+SGDQ,2020,Splatoon,0,0,1,0,Nintendo EAD,Nintendo,2015,Wii U,Wii U,8,81,8.4,0
+SGDQ,2020,Kemono Heroes,0,0,1,1,Mad Gear Games,Mad Gear Games,2020,Nintendo Switch,Switch,9,N/A,N/A,0
+SGDQ,2020,Demon's Souls,0,0,0,0,FromSoftware,Sony Computer Entertainment,2009,PlayStation 3,PS3,7,89,8.9,0
+SGDQ,2020,Streets of Rage 4,0,0,1,1,"Dotemu, Lizardcube, Guard Crush Games",Dotemu,2020,"Nintendo Switch, PlayStation 4, Windows, Xbox One","Switch, PS4, PC, Xbox One",8,82,8.1,1
+SGDQ,2020,Rayman Legends,0,0,0,0,Ubisoft Montpellier,Ubisoft,2013,"PlayStation 3, Xbox 360, Wii U, Windows","PS3, Xbox 360, Wii U, PC",7,91,8.9,1
+SGDQ,2020,ICO,0,0,1,1,Team Ico,Sony Computer Entertainment,2001,PlayStation 2,PS2,6,90,8.9,0
+SGDQ,2020,Shovel Knight: King of Cards,0,0,1,0,Yacht Club Games,Yacht Club Games,2019,"Nintendo Switch, PlayStation 4, Windows","Switch, PS4, PC",8,82,8.5,1
+SGDQ,2020,Tony Hawk's Pro Skater 2x,0,0,0,0,Neversoft,Activision,2001,Xbox,Xbox,6,N/A,N/A,0
+SGDQ,2020,DUSK,0,0,0,0,David Szymanski,New Blood Interactive,2018,Windows,PC,Various,88,8.7,1
+SGDQ,2020,Metal Gear Solid,0,0,1,0,Konami,Konami,1998,PlayStation,PlayStation,5,94,9,0
+SGDQ,2020,Secret of Mana,0,0,1,1,Square,Square,1993,Super Nintendo Entertainment System,SNES,4,N/A,N/A,0
+SGDQ,2020,Millennium Racer,0,0,0,0,Creat Studio,Cryo Interactive,2000,Windows,PC,Various,N/A,N/A,1
+SGDQ,2020,Amnesia: The Dark Descent,0,0,0,0,Frictional Games,Frictional Games,2010,"Windows, macOS, Linux",PC,Various,85,8.6,1
+SGDQ,2020,Silhouette Mirage,0,0,1,1,Treasure,ESP,1997,Sega Saturn,Sega Saturn,5,N/A,N/A,0
+SGDQ,2020,Keio Flying Squadron 2,0,0,0,0,Victor Entertainment,JVC Digital Studios,1996,Sega Saturn,Sega Saturn,5,N/A,N/A,0
+SGDQ,2020,Kirby & The Amazing Mirror,0,0,1,0,HAL Laboratory,Nintendo,2004,Game Boy Advance,Game Boy Advance,6,81,8.5,0
+SGDQ,2020,Jimmy Neutron vs. Jimmy Negatron,0,0,0,0,AWE Games,THQ,2002,Game Boy Advance,Game Boy Advance,6,N/A,N/A,0
+SGDQ,2020,Rabi-Ribi,0,0,0,0,CreSpirit,Sekai Project,2016,Windows,PC,Various,N/A,N/A,1
+SGDQ,2020,Adventures of Lolo 2,0,0,0,0,HAL Laboratory,HAL Laboratory,1990,Nintendo Entertainment System,NES,3,N/A,N/A,0
+SGDQ,2020,New Ghostbusters II,0,0,1,0,HAL Laboratory,HAL Laboratory,1990,Nintendo Entertainment System,NES,3,N/A,N/A,0
+SGDQ,2020,Gravity Trooper - Metal Storm,0,0,0,0,Tamtex,Irem,1991,Nintendo Entertainment System,NES,3,N/A,N/A,0
+SGDQ,2020,Chicken of the Farm,0,0,0,0,Mitch3a,Mitch3a,2019,NES,NES,3,N/A,N/A,0
+SGDQ,2020,Micro Mages,0,0,0,0,Morphcat Games,Morphcat Games,2019,Nintendo Entertainment System,NES,3,N/A,N/A,0
+SGDQ,2020,Legacy of the Wizard,0,0,0,0,Nihon Falcom,Brøderbund,1987,Nintendo Entertainment System,NES,3,N/A,N/A,0
+SGDQ,2020,Saint Hazel's Horsepital,0,0,1,1,HYPH-N,Danvik FHS,2019,PC,PC,Various,N/A,N/A,1
+SGDQ,2020,Billy Hatcher and the Giant Egg,0,0,0,0,Sonic Team,Sega,2003,GameCube,GameCube,6,71,8.2,0
+SGDQ,2020,Crypt of the NecroDancer: AMPLIFIED,0,0,0,0,Brace Yourself Games,Brace Yourself Games,2017,"Windows, macOS, Linux",PC,Various,N/A,N/A,1
+SGDQ,2020,Bonus Game 5 - Pump It Up!,1,0,1,1,Andamiro,Andamiro,1999,Arcade,Arcade,Various,N/A,N/A,0
+SGDQ,2020,Touhou 09.5 - Shoot the Bullet,0,0,1,1,Team Shanghai Alice,Team Shanghai Alice,2005,Windows,PC,Various,N/A,N/A,1
+SGDQ,2020,DoDonPachi Saidaioujou,0,0,0,0,Cave,Cave,2012,Arcade,Arcade,Various,N/A,N/A,0
+SGDQ,2020,Super Metroid,0,0,1,0,Nintendo R&D1,Nintendo,1994,Super Nintendo Entertainment System,SNES,4,N/A,N/A,0
+SGDQ,2020,TASBot plays Super Mario 64 Shindou,0,0,0,0,Nintendo,Nintendo,1997,Nintendo 64,N64,5,N/A,N/A,0
+SGDQ,2020,Super Mario Odyssey,0,0,0,0,Nintendo,Nintendo,2017,Nintendo Switch,Switch,9,97,8.9,0
+SGDQ,2020,Demon's Crest,0,0,0,0,Capcom,Capcom,1994,Super Nintendo Entertainment System,SNES,4,N/A,N/A,0
+SGDQ,2020,Castlevania II: Belmont's Revenge,0,0,0,0,Konami,Konami,1991,Game Boy,Game Boy,3,N/A,N/A,0
+SGDQ,2020,Bloodstained: Curse of the Moon,0,0,0,0,Inti Creates,Inti Creates,2018,"Nintendo Switch, PlayStation 4, Windows","Switch, PS4, PC",8,80,8.1,1
+SGDQ,2020,Bloodstained: Ritual of the Night,0,0,1,1,ArtPlay,505 Games,2019,"Nintendo Switch, PlayStation 4, Windows, Xbox One","Switch, PS4, PC, Xbox One",8,83,8.2,1
+SGDQ,2020,Jet Set Radio,0,0,0,0,Smilebit,Sega,2000,Dreamcast,Dreamcast,6,94,8.6,0
+SGDQ,2020,Disney's Extreme Skate Adventure,0,0,1,1,Toys for Bob,Activision,2003,"GameCube, PlayStation 2, Xbox","GameCube, PS2, Xbox",6,76,8.4,0
+SGDQ,2020,Ratchet & Clank: Up Your Arsenal,0,0,0,0,Insomniac Games,Sony Computer Entertainment,2004,PlayStation 2,PS2,6,91,9,0
+SGDQ,2020,DeadCore,0,0,0,0,5 Bits Games,Bandai Namco Entertainment,2014,Windows,PC,Various,70,7.4,1
+SGDQ,2020,Darksiders Genesis,0,0,0,0,Airship Syndicate,THQ Nordic,2019,"Windows, Stadia",PC,Various,77,7.5,1
+SGDQ,2020,BioShock Infinite,0,0,0,0,Irrational Games,2K Games,2013,"PlayStation 3, Windows, Xbox 360","PS3, PC, Xbox 360",7,94,8.5,1
+SGDQ,2020,Gunman Clive,0,0,0,0,Hörberg Productions,Hörberg Productions,2012,Nintendo 3DS,Nintendo 3DS,7,75,7.5,0
+SGDQ,2020,Kousoku Kaitenzushi,0,0,0,0,Yukihito Horiguchi,Yukihito Horiguchi,2015,PC,PC,Various,N/A,N/A,1
+SGDQ,2020,Metal Gear: Ghost Babel,0,0,0,0,Konami,Konami,2000,Game Boy Color,Game Boy Color,5,N/A,N/A,0
+SGDQ,2020,Neon Boost,0,0,0,0,Frenetic Experience,Frenetic Experience,2019,Windows,PC,Various,N/A,N/A,1
+SGDQ,2020,Virtual Boy Wario Land,0,0,1,1,Nintendo R&D1,Nintendo,1995,Virtual Boy,Virtual Boy,5,N/A,N/A,0
+SGDQ,2020,The Last of Us,0,0,1,1,Naughty Dog,Sony Computer Entertainment,2013,PlayStation 3,PS3,7,95,9.2,0
+SGDQ,2020,Freedom Planet,0,0,0,0,GalaxyTrail,GalaxyTrail,2014,Windows,PC,Various,84,8.5,1
+SGDQ,2020,Sonic the Hedgehog,0,0,0,0,Sonic Team,Sega,1991,Sega Genesis,Sega Genesis,4,N/A,N/A,0
+SGDQ,2020,Sonic the Hedgehog 2,0,0,0,0,Sonic Team,Sega,1992,Sega Genesis,Sega Genesis,4,N/A,N/A,0
+SGDQ,2020,Night Trap,0,0,1,1,Digital Pictures,Sega,1992,Sega CD,Sega Genesis,4,N/A,N/A,0
+SGDQ,2020,Pringles: The Video Game,0,0,0,0,N/A,N/A,2009,Sega Genesis,Sega Genesis,4,N/A,N/A,0
+SGDQ,2020,Hypnospace Outlaw,0,0,1,0,Tendershoot,No More Robots,2019,Windows,PC,Various,82,7.8,1
+SGDQ,2020,Ribbit King,0,0,0,0,Jamsworks,Bandai,2003,"GameCube, PlayStation 2","GameCube, PS2",6,N/A,N/A,0
+SGDQ,2020,Streets of Fury EX,0,0,0,0,Guard Crush Games,Guard Crush Games,2015,Windows,PC,Various,N/A,N/A,1
+SGDQ,2020,Baldur's Gate: Enhanced Edition,0,0,1,1,Overhaul Games,Atari,2012,Windows,PC,Various,78,7.8,1
+SGDQ,2020,The Simpsons Arcade Game,0,0,1,1,Konami,Konami,1991,Arcade,Arcade,Various,N/A,N/A,0
+SGDQ,2020,DOOM 64 (2020),0,0,0,0,Nightdive Studios,Bethesda Softworks,2020,"Nintendo Switch, PlayStation 4, Windows, Xbox One","Switch, PS4, PC, Xbox One",8,79,8,1
+SGDQ,2020,Warframe,0,0,0,0,Digital Extremes,Digital Extremes,2013,Windows,PC,Various,69,8.1,1
+SGDQ,2020,Mega Man 9,0,0,0,0,Inti Creates,Capcom,2008,"PlayStation 3, Wii, Xbox 360","PS3, Wii, Xbox 360",7,82,7.9,0
+SGDQ,2020,Yakuza Kiwami 2,0,0,1,1,Sega,Sega,2017,PlayStation 4,PS4,8,85,8.5,0
+SGDQ,2020,The Legend of Zelda: Ocarina of Time,0,0,1,1,Nintendo EAD,Nintendo,1998,Nintendo 64,N64,5,99,9.1,0
+SGDQ,2020,Call of Duty: Modern Warfare 2,0,0,0,0,Infinity Ward,Activision,2009,"PlayStation 3, Xbox 360, Windows","PS3, Xbox 360, PC",7,94,6.4,1
+SGDQ,2020,We Happy Few,0,0,0,0,Compulsion Games,Gearbox Publishing,2018,"PlayStation 4, Xbox One, Windows","PS4, Xbox One, PC",8,62,5.8,1
+SGDQ,2020,Miami Vice,0,0,1,1,Canvas,Ocean Software,1986,"Amstrad CPC, Commodore 64, ZX Spectrum",PC,Various,N/A,N/A,0
+SGDQ,2020,Valdis Story: Abyssal City,0,0,0,0,Endless Fluff Games,Endless Fluff Games,2013,Windows,PC,Various,80,8,1
+SGDQ,2020,Star Wars: Knights of the Old Republic,0,0,0,0,BioWare,LucasArts,2003,"Xbox, Windows","Xbox, PC",6,93,9,1
+SGDQ,2020,Elevator Action Returns,0,0,0,0,Taito,Taito,1994,Arcade,Arcade,Various,N/A,N/A,0
+SGDQ,2020,Terminator: SkyNET,0,0,0,0,Bethesda Softworks,Bethesda Softworks,1996,DOS,PC,Various,N/A,N/A,1
+SGDQ,2020,Hello Neighbor,0,0,0,0,Dynamic Pixels,tinyBuild,2017,"Windows, Xbox One","PC, Xbox One",8,38,4.2,1
+SGDQ,2020,Quest for Glory I: So You Want To Be A Hero,0,0,1,1,Sierra On-Line,Sierra On-Line,1989,DOS,PC,Various,N/A,N/A,1
+SGDQ,2020,Contra ReBirth,0,0,0,0,M2,Konami,2009,Wii,Wii,7,N/A,N/A,0
+SGDQ,2020,Puzzle Bobble 2,0,0,0,0,Taito,Taito,1995,Arcade,Arcade,Various,N/A,N/A,0
+SGDQ,2020,A Short Hike,0,0,0,0,Adam Robinson-Yu,Adam Robinson-Yu,2019,Windows,PC,Various,88,8.2,1
+SGDQ,2020,Baba Is You,0,0,0,0,Hempuli,Hempuli,2019,"Windows, Nintendo Switch","PC, Switch",9,84,8.1,1
+SGDQ,2020,Sly Cooper and the Thievius Raccoonus,0,0,0,0,Sucker Punch Productions,Sony Computer Entertainment,2002,PlayStation 2,PS2,6,86,8.8,0
+SGDQ,2020,Kingdom Hearts II Final Mix,0,0,1,1,Square Enix,Square Enix,2007,PlayStation 2,PS2,6,N/A,N/A,0
+SGDQ,2020,Super Hark Bros,0,0,0,0,ChrisG___,N/A,2018,Super Nintendo Entertainment System (ROM hack),SNES,4,N/A,N/A,0
+SGDQ,2020,Mario vs. Donkey Kong,0,0,0,0,Nintendo Software Technology,Nintendo,2004,Game Boy Advance,Game Boy Advance,6,81,8.1,0
+SGDQ,2020,Super Monkey Ball 2,0,0,0,0,Amusement Vision,Sega,2002,GameCube,GameCube,6,87,8.8,0
+SGDQ,2020,Super Mario Bros.,0,0,0,0,Nintendo,Nintendo,1985,Nintendo Entertainment System,NES,3,N/A,N/A,0
+SGDQ,2020,Super Mario Bros.: The Lost Levels,0,0,0,0,Nintendo,Nintendo,1986,Famicom Disk System,NES,3,N/A,N/A,0
+SGDQ,2020,Horizon Zero Dawn,0,0,1,1,Guerrilla Games,Sony Interactive Entertainment,2017,PlayStation 4,PS4,8,89,8.4,0
+SGDQ,2020,Metroid Fusion,0,0,0,0,Nintendo R&D1,Nintendo,2002,Game Boy Advance,Game Boy Advance,6,92,9,0
+SGDQ,2020,The Legend of Zelda: Breath of the Wild,0,0,0,0,Nintendo EPD,Nintendo,2017,"Nintendo Switch, Wii U","Switch, Wii U",8,97,8.7,0
+AGDQ,2020,Battletoads (Game Boy),0,0,0,0,Rare,Tradewest,1991,Game Boy,Game Boy,3,N/A,N/A,0
+AGDQ,2020,Mushihime-sama Futari 1.01,0,0,0,0,Cave,Cave,2006,Arcade,Arcade,Various,N/A,N/A,0
+AGDQ,2020,Mega Man 3: The Robots are Revolting,0,0,1,1,Hi-Tech Expressions,Hi-Tech Expressions,1992,DOS,PC,Various,N/A,N/A,1
+AGDQ,2020,Normy's Beach Babe-O-Rama,0,0,0,0,Twilight,Electronic Arts,1994,Sega Genesis,Sega Genesis,4,N/A,N/A,0
+AGDQ,2020,Resident Evil 4,0,0,0,0,Capcom Production Studio 4,Capcom,2005,GameCube,GameCube,6,96,9.2,0
+AGDQ,2020,The Last of Us: Left Behind,0,0,0,0,Naughty Dog,Sony Computer Entertainment,2014,PlayStation 3,PS3,7,88,8.4,0
+AGDQ,2020,Jak 2,0,0,0,0,Naughty Dog,Sony Computer Entertainment,2003,PlayStation 2,PS2,6,87,8.7,0
+AGDQ,2020,Marvel's Spider-Man,0,0,1,1,Insomniac Games,Sony Interactive Entertainment,2018,PlayStation 4,PS4,8,87,8.7,0
+AGDQ,2020,Earth Defense Force 5,0,0,1,1,Sandlot,D3 Publisher,2017,PlayStation 4,PS4,8,72,8,0
+AGDQ,2020,Devil May Cry 5,0,0,1,1,Capcom,Capcom,2019,"PlayStation 4, Xbox One, PC","PS4, Xbox One, PC",8,88,8.5,1
+AGDQ,2020,Final Fantasy VI,1,0,1,1,Square,Square,1994,Super Nintendo Entertainment System,SNES,4,N/A,N/A,0
+AGDQ,2020,Destiny 2,0,0,1,1,Bungie,Activision,2017,"PlayStation 4, Xbox One","PS4, Xbox One",8,85,4.4,0
+AGDQ,2020,Fire Emblem: Three Houses,0,0,1,0,"Intelligent Systems, Koei Tecmo",Nintendo,2019,Nintendo Switch,Switch,9,89,8.7,0
+AGDQ,2020,BioShock,0,0,0,0,2K Boston,2K Games,2007,"Xbox 360, PC","Xbox 360, PC",7,96,8.9,1
+AGDQ,2020,Wolfenstein: Youngblood,0,0,0,0,"MachineGames, Arkane Studios",Bethesda Softworks,2019,"PlayStation 4, Xbox One, PC","PS4, Xbox One, PC",8,63,2.6,1
+AGDQ,2020,Subnautica,0,0,0,0,Unknown Worlds Entertainment,Unknown Worlds Entertainment,2018,PC,PC,Various,87,8.9,1
+AGDQ,2020,The Sun And Moon,0,0,1,1,Daniel Linssen,Digerati Distribution,2014,PC,PC,Various,N/A,N/A,1
+AGDQ,2020,140,0,0,1,1,Jeppe Carlsen,Double Fine Presents,2013,PC,PC,Various,80,7.5,1
+AGDQ,2020,Squidlit,0,0,0,0,Squidlit Ink,Squidlit Ink,2018,PC,PC,Various,N/A,N/A,1
+AGDQ,2020,Action Henk,0,0,0,0,RageSquid,Curve Digital,2015,PC,PC,Various,75,7.2,1
+AGDQ,2020,Super Fancy Pants Adventure,0,0,0,0,Borne Games,Kongregate,2017,PC,PC,Various,N/A,N/A,1
+AGDQ,2020,Vampire: The Masquerade - Bloodlines,0,0,0,0,Troika Games,Activision,2004,PC,PC,Various,80,8.9,1
+AGDQ,2020,Gato Roboto,0,0,0,0,doinksoft,Devolver Digital,2019,"PC, Nintendo Switch","PC, Switch",9,78,7.5,1
+AGDQ,2020,Darkened Skye,0,0,0,0,Boston Animation,Simon & Schuster Interactive,2002,"PC, GameCube","PC, GameCube",6,N/A,N/A,1
+AGDQ,2020,Touhou Luna Nights,0,0,0,0,Team Ladybug,Vaka Game Magazine,2019,PC,PC,Various,N/A,N/A,1
+AGDQ,2020,VVVVVV,0,0,1,1,Terry Cavanagh,Terry Cavanagh,2010,PC,PC,Various,81,7.9,1
+AGDQ,2020,Celeste,0,0,0,0,Maddy Makes Games,Maddy Makes Games,2018,"PlayStation 4, Xbox One, Nintendo Switch, PC","PS4, Xbox One, Nintendo Switch, PC",8,94,8.5,1
+AGDQ,2020,PAC-MAN Championship Edition DX+,0,0,0,0,Mine Loader Software,Namco Bandai Games,2013,PC,PC,Various,89,8.4,1
+AGDQ,2020,TASBot Plays PokÃ©mon Blue,1,1,1,1,Game Freak,Nintendo,1996,Game Boy,Game Boy,3,N/A,N/A,0
+AGDQ,2020,Trauma Center: New Blood,0,0,1,0,Atlus,Atlus,2007,Wii,Wii,7,81,8.2,0
+AGDQ,2020,Tony Hawk's Project 8,0,0,1,0,Neversoft,Activision,2006,"PlayStation 2, PlayStation 3, Xbox, Xbox 360","PS2, PS3, Xbox, Xbox 360",6,78,7.4,0
+AGDQ,2020,Sonic the Hedgehog (2006),1,0,1,1,Sonic Team,Sega,2006,"PlayStation 3, Xbox 360","PS3, Xbox 360",7,46,4.4,0
+AGDQ,2020,Chippy,0,0,1,1,Facepunch Studios,Facepunch Studios,2019,PC,PC,Various,N/A,N/A,1
+AGDQ,2020,Crowtel Renovations,0,0,0,0,Sink,Sink,2016,PC,PC,Various,N/A,N/A,1
+AGDQ,2020,Manifold Garden,0,0,0,0,William Chyr Studio,William Chyr Studio,2019,PC,PC,Various,84,7.8,1
+AGDQ,2020,Adventures of Lolo,0,0,0,0,HAL Laboratory,HAL America,1989,NES,NES,3,N/A,N/A,0
+AGDQ,2020,Adventure Island II,0,0,0,0,Now Production,Hudson Soft,1991,NES,NES,3,N/A,N/A,0
+AGDQ,2020,Hebereke,0,0,0,0,Sunsoft,Sunsoft,1991,NES,NES,3,N/A,N/A,0
+AGDQ,2020,Ninja Gaiden II: The Dark Sword of Chaos,0,0,0,0,Tecmo,Tecmo,1990,NES,NES,3,N/A,N/A,0
+AGDQ,2020,Super Castlevania IV,0,0,1,1,Konami,Konami,1991,SNES,SNES,4,N/A,N/A,0
+AGDQ,2020,PokÃ©mon Sapphire,0,0,1,0,Game Freak,Nintendo,2002,Game Boy Advance,Game Boy Advance,6,N/A,N/A,0
+AGDQ,2020,Terraria,0,0,0,0,Re-Logic,Re-Logic,2011,PC,PC,Various,83,8.1,1
+AGDQ,2020,The Legend of Zelda series,0,0,0,0,Various,Nintendo,1986,Various,Various,Various,N/A,N/A,0
+AGDQ,2020,Final Fantasy VIII,0,0,1,1,Square,Square,1999,PlayStation,PlayStation,5,90,8.9,0
+AGDQ,2020,Vectorman 2,0,0,0,0,BlueSky Software,Sega,1996,Sega Genesis,Sega Genesis,4,N/A,N/A,0
+AGDQ,2020,Shadow Dancer,0,0,0,0,Sega,Sega,1989,Arcade,Arcade,Various,N/A,N/A,0
+AGDQ,2020,Shinobi III: Return of the Ninja Master,0,0,0,0,Sega,Sega,1993,Sega Genesis,Sega Genesis,4,N/A,N/A,0
+AGDQ,2020,Mystic Defender,0,0,0,0,Sega,Sega,1989,Sega Genesis,Sega Genesis,4,N/A,N/A,0
+AGDQ,2020,Ghouls 'n Ghosts,0,0,0,0,Capcom,Capcom,1988,Arcade,Arcade,Various,N/A,N/A,0
+AGDQ,2020,Garfield: Caught in the Act,0,0,0,0,Sega,Sega,1995,Sega Genesis,Sega Genesis,4,N/A,N/A,0
+AGDQ,2020,Contra: Hard Corps,0,0,1,1,Konami,Konami,1994,Sega Genesis,Sega Genesis,4,N/A,N/A,0
+AGDQ,2020,Blazing Chrome,0,0,1,0,JoyMasher,The Arcade Crew,2019,"PC, PlayStation 4, Xbox One, Nintendo Switch","PC, PS4, Xbox One, Switch",8,75,7.8,1
+AGDQ,2020,Mega Man X4,0,0,0,0,Capcom,Capcom,1997,"PlayStation, Sega Saturn","PlayStation, Sega Saturn",5,N/A,N/A,0
+AGDQ,2020,Bonk's Adventure,0,0,0,0,Red Company,Hudson Soft,1989,TurboGrafx-16,TurboGrafx-16,4,N/A,N/A,0
+AGDQ,2020,Jumping Flash!,0,0,0,0,Exact,Sony Computer Entertainment,1995,PlayStation,PlayStation,5,N/A,N/A,0
+AGDQ,2020,Kuru Kuru Kururin,0,0,1,0,Eighting,Nintendo,2001,Game Boy Advance,Game Boy Advance,6,N/A,N/A,0
+AGDQ,2020,Super Cat Bros,0,0,0,0,Neutronized,Neutronized,2016,Mobile,Mobile,Various,N/A,N/A,0
+AGDQ,2020,Kingdom Hearts: Birth by Sleep Final Mix HD,0,0,1,0,Square Enix,Square Enix,2014,PlayStation 3,PS3,7,N/A,N/A,0
+AGDQ,2020,Blasphemous,0,0,1,0,The Game Kitchen,Team17,2019,"PC, PS4, Xbox One, Switch","PC, PS4, Xbox One, Switch",8,77,8.1,1
+AGDQ,2020,Katana Zero,0,0,1,1,Askiisoft,Devolver Digital,2019,"PC, Switch","PC, Switch",9,83,8.2,1
+AGDQ,2020,Clone Hero (Guitar Hero),0,0,1,1,Srylain Inc.,Srylain Inc.,2017,PC,PC,Various,N/A,N/A,1
+AGDQ,2020,A Hat in Time,0,0,0,0,Gears for Breakfast,Humble Bundle,2017,"PC, PS4, Xbox One","PC, PS4, Xbox One",8,79,8.2,1
+AGDQ,2020,Metroid: Zero Mission,0,0,0,0,Nintendo R&D1,Nintendo,2004,Game Boy Advance,Game Boy Advance,6,89,9,0
+AGDQ,2020,Mega Man 7,0,0,0,0,Capcom,Capcom,1995,SNES,SNES,4,N/A,N/A,0
+AGDQ,2020,Ratchet & Clank Future: Tools of Destruction,0,0,0,0,Insomniac Games,Sony Computer Entertainment,2007,PS3,PS3,7,89,8.8,0
+AGDQ,2020,Star Wars - Escape from Yavin 4: The Lost Maps,0,0,1,1,Total Conversion Mod Team,N/A,2005,PC (Mod),PC,Various,N/A,N/A,1
+AGDQ,2020,The Binding Of Isaac Afterbirth+,0,0,0,0,"Nicalis, Inc.","Nicalis, Inc.",2017,"PC, Switch","PC, Switch",9,84,8.2,1
+AGDQ,2020,Super Mario Bros. 3,0,0,0,0,Nintendo,Nintendo,1988,NES,NES,3,N/A,N/A,0
+AGDQ,2020,The Legend of Zelda: Skyward Sword,0,0,1,0,Nintendo EAD,Nintendo,2011,Wii,Wii,7,93,8.1,0
+AGDQ,2020,Dino Crisis 2,0,0,0,0,Capcom Production Studio 4,Capcom,2000,PS1,Playstation,5,N/A,N/A,0
+AGDQ,2020,realMyst: Masterpiece Edition,0,0,0,0,Cyan Worlds,Cyan Worlds,2014,PC,PC,Various,N/A,N/A,1
+AGDQ,2020,Riven: The Sequel to Myst,0,0,1,1,Cyan Worlds,Red Orb Entertainment,1997,PC,PC,Various,N/A,N/A,1
+AGDQ,2020,Myst III: Exile,0,0,1,0,Presto Studios,Ubisoft,2001,PC,PC,Various,85,8.5,1
+AGDQ,2020,Bomberman Hero,0,0,0,0,Hudson Soft,Nintendo,1998,N64,N64,5,N/A,N/A,0
+AGDQ,2020,Pac-Man Arrangement,0,0,0,0,Namco,Namco,1996,Arcade,Arcade,Various,N/A,N/A,0
+AGDQ,2020,Mega Man X3,0,0,0,0,Capcom,Capcom,1995,SNES,SNES,4,N/A,N/A,0
+AGDQ,2020,Mega Man X,0,0,0,0,Capcom,Capcom,1993,SNES,SNES,4,N/A,N/A,0
+AGDQ,2020,TASBot plays Super Mario Bros. 3,0,1,0,0,Nintendo EAD,Nintendo,1988,NES,NES,3,N/A,N/A,0
+AGDQ,2020,TASBot plays Super Mario Bros. 2,0,1,0,0,Nintendo EAD,Nintendo,1988,NES,NES,3,N/A,N/A,0
+AGDQ,2020,The Legend of Zelda: The Wind Waker,0,0,1,0,Nintendo EAD,Nintendo,2002,GameCube,GameCube,6,96,9,0
+AGDQ,2020,Super Mario 64 Randomizer,0,0,0,0,Nintendo EAD,Nintendo,1996,Nintendo 64,N64,5,94,9.2,0
+AGDQ,2020,Super Mario World,0,0,1,1,Nintendo EAD,Nintendo,1990,SNES,SNES,4,N/A,N/A,0
+AGDQ,2020,Dark Souls,0,0,1,0,FromSoftware,Bandai Namco Games,2011,"PS3, Xbox 360","PS3, Xbox 360",7,89,8.6,0
+AGDQ,2020,Control,0,0,1,1,Remedy Entertainment,505 Games,2019,"PS4, Xbox One, PC","PS4, Xbox One, PC",8,85,7.7,1
+AGDQ,2020,Castlevania: The Dracula X Chronicles,0,0,1,1,Konami,Konami,2007,PSP,PSP,6,80,8.4,0
+AGDQ,2020,The Legend of Zelda: A Link to the Past Randomizer,0,0,0,0,Nintendo EAD,Nintendo,1991,SNES,SNES,4,N/A,N/A,0
+AGDQ,2020,Sekiro: Shadows Die Twice,0,0,0,0,FromSoftware,Activision,2019,"PS4, Xbox One, PC","PS4, Xbox One, PC",8,90,8.2,1
+AGDQ,2020,Untitled Goose Game,0,0,1,1,House House,Panic,2019,"PC, Switch","PC, Switch",9,81,7.5,1
+AGDQ,2020,Super Mario Maker 2,0,0,0,0,Nintendo EPD,Nintendo,2019,Switch,Switch,9,88,8.4,0
+AGDQ,2020,Mike Tyson's Punch-Out!!,1,0,1,1,Nintendo R&D3,Nintendo,1987,NES,NES,3,N/A,N/A,0
+AGDQ,2020,Cybernator,0,0,0,0,NCS Corporation,Konami,1992,SNES,SNES,4,N/A,N/A,0
+AGDQ,2020,Super Monkey Ball,0,0,1,1,Amusement Vision,Sega,2001,GameCube,GameCube,6,87,8.5,0
+AGDQ,2020,Teenage Mutant Ninja Turtles (arcade),0,0,0,0,Konami,Konami,1989,Arcade,Arcade,Various,N/A,N/A,0
+AGDQ,2020,Metal Gear Solid 3: Snake Eater,0,0,1,1,Konami,Konami,2004,PS2,PS2,6,91,9.1,0
+AGDQ,2020,The Legend of Zelda: Ocarina of Time,0,0,1,1,Nintendo EAD,Nintendo,1998,Nintendo 64,N64,5,99,9.1,0
+AGDQ,2020,Cadence of Hyrule,0,0,1,1,Brace Yourself Games,Nintendo,2019,Switch,Switch,9,86,8.2,0
+AGDQ,2020,Mega Man 4-6,0,0,0,0,Capcom,Capcom,1991,NES,NES,3,N/A,N/A,0
+AGDQ,2020,Animorphs (GBC),1,0,1,1,Runny-Fun,Ubisoft,2000,Game Boy Color,Game Boy Color,5,N/A,N/A,0
+AGDQ,2020,Super Hydlide,0,0,1,1,T&E Soft,Seismic,1989,Sega Genesis,Sega Genesis,4,N/A,N/A,0
+AGDQ,2020,Hoshi wo Miru Hito,0,0,0,0,HOT・B,HOT・B,1987,Famicom,NES,3,N/A,N/A,0
+AGDQ,2020,Sword of the Black Stone,0,0,0,0,Unknown,Unknown,1990,DOS,PC,Various,N/A,N/A,1
+AGDQ,2020,Castle of Dragon,0,0,0,0,Athena,Seta,1990,NES,NES,3,N/A,N/A,0
+AGDQ,2020,Wild Animal Sports Day,0,0,0,0,Marbenx,Marbenx,2018,PC,PC,Various,N/A,N/A,1
+AGDQ,2020,The Adventures of Rocky and Bullwinkle and Friends,0,0,0,0,Imagineering,THQ,1992,"NES, SNES, Game Boy","NES, SNES, Game Boy",3,N/A,N/A,0
+AGDQ,2020,Jurassic Park III: Dino Defender,0,0,0,0,Knowledge Adventure,Universal Interactive,2001,PC,PC,Various,N/A,N/A,1
+AGDQ,2020,Cybergenic Ranger: Secret of the Seventh Planet,0,0,1,1,Symtus,Symtus,1992,DOS,PC,Various,N/A,N/A,1
+AGDQ,2020,Miracle Ropit's Adventure in 2100,0,0,0,0,Unknown,Unknown,1986,Famicom,NES,3,N/A,N/A,0
+AGDQ,2020,Barbie,0,0,0,0,Goldfarb & Associates,Epyx,1984,Commodore 64,PC,Various,N/A,N/A,0
+AGDQ,2020,Doctor Hauzer,0,0,0,0,Riverhillsoft,Panasonic,1994,3DO,3DO,5,N/A,N/A,0
+AGDQ,2020,Nightcry,0,0,0,0,Nude Maker,Playism,2016,PC,PC,Various,52,5.5,1
+AGDQ,2020,Fatal Frame,0,0,0,0,Tecmo,Tecmo,2001,PlayStation 2,PS2,6,74,8.5,0
+AGDQ,2020,Pokemon X/Y,0,0,1,0,Game Freak,Nintendo,2013,Nintendo 3DS,Nintendo 3DS,7,87,7.8,0
+AGDQ,2020,Super Mario Maker 2 TAS,0,1,0,0,Nintendo,Nintendo,2019,Nintendo Switch,Switch,9,88,8.4,0
+AGDQ,2020,The Legend of Zelda: Link's Awakening (2019),1,0,1,1,Grezzo,Nintendo,2019,Nintendo Switch,Switch,9,87,8.4,0
+AGDQ,2020,Super Metroid Impossible,0,0,1,0,Nintendo,Nintendo,1994,SNES,SNES,4,N/A,N/A,0
+AGDQ,2020,Chameleon Twist 2,0,0,1,0,Japan System Supply,Sunsoft,1998,Nintendo 64,N64,5,N/A,N/A,0
+AGDQ,2020,Razor Freestyle Scooter,0,0,0,0,Shaba Games,Crave Entertainment,2000,"PlayStation, Dreamcast","PlayStation, Dreamcast",5,N/A,N/A,0
+AGDQ,2020,Tetrisphere,0,0,1,1,H2O Entertainment,Nintendo,1997,Nintendo 64,N64,5,88,8.5,0
+AGDQ,2020,Mario & Luigi: Superstar Saga,0,0,1,1,AlphaDream,Nintendo,2003,Game Boy Advance,Game Boy Advance,6,90,9,0
+AGDQ,2020,Skyblazer,0,0,0,0,Ukiyotei,Sony Imagesoft,1994,SNES,SNES,4,N/A,N/A,0
+AGDQ,2020,The Legend of the Mystical Ninja,0,0,0,0,Konami,Konami,1991,SNES,SNES,4,N/A,N/A,0
+AGDQ,2020,ActRaiser,0,0,0,0,Quintet,Enix,1990,SNES,SNES,4,N/A,N/A,0
+AGDQ,2020,Battletoads & Double Dragon,0,0,1,0,Rare,Tradewest,1993,"NES, SNES, Sega Genesis","NES, SNES, Sega Genesis",3,N/A,N/A,0
+AGDQ,2020,The Great Circus Mystery Starring Mickey & Minnie,0,0,0,0,Capcom,Capcom,1994,"SNES, Sega Genesis","SNES, Sega Genesis",4,N/A,N/A,0
+AGDQ,2020,Donkey Kong Country 3,0,0,1,0,Rare,Nintendo,1996,SNES,SNES,4,N/A,N/A,0
+AGDQ,2020,Sonic Colours,0,0,0,0,Sonic Team,Sega,2010,Wii,Wii,7,78,8.4,0
+AGDQ,2020,Sonic CD (2011),0,0,1,0,Christian Whitehead,Sega,2011,"PS3, Xbox 360, PC","PS3, Xbox 360, PC",7,82,8,1
+AGDQ,2020,Sonic 3 & Knuckles,0,0,0,0,Sega,Sega,1994,Sega Genesis,Sega Genesis,4,N/A,N/A,0
+AGDQ,2020,Fallout Anthology,0,0,1,0,Bethesda Game Studios,Bethesda Softworks,2015,PC,PC,Various,N/A,N/A,1
+AGDQ,2020,The Outer Worlds,0,0,1,0,Obsidian Entertainment,Private Division,2019,"PS4, Xbox One, PC","PS4, Xbox One, PC",8,82,7.8,1
+AGDQ,2020,Doom: SIGIL,0,0,1,0,Romero Games,Romero Games,2019,PC,PC,Various,N/A,N/A,1
+AGDQ,2020,AMID EVIL,0,0,0,0,Indefatigable,New Blood Interactive,2019,PC,PC,Various,84,8,1
+AGDQ,2020,DOOM (2016),0,0,0,0,id Software,Bethesda Softworks,2016,"PS4, Xbox One, PC","PS4, Xbox One, PC",8,85,8.5,1
+AGDQ,2020,Bayonetta 2,0,0,1,1,PlatinumGames,Nintendo,2014,Wii U,Wii U,8,91,8.8,0
+AGDQ,2020,Grand Theft Auto: San Andreas,0,0,0,0,Rockstar North,Rockstar Games,2004,PS2,PS2,6,95,8.9,0
+AGDQ,2020,Tron: Evolution,0,0,1,1,Propaganda Games,Disney Interactive,2010,"PS3, Xbox 360, PC","PS3, Xbox 360, PC",7,58,6,1
+AGDQ,2020,Eagle Island,0,0,0,0,Pixelnicks,Screenwave Media,2019,PC,PC,Various,75,7.5,1
+AGDQ,2020,The Mummy Demastered,0,0,0,0,WayForward,Universal Studios,2017,"PS4, Xbox One, PC, Switch","PS4, Xbox One, PC, Switch",8,78,7.8,1
+AGDQ,2020,Hotline Miami,0,0,0,0,Dennaton Games,Devolver Digital,2012,PC,PC,Various,85,8.5,1
+SGDQ,2019,Spyro Reignited Trilogy: Spyro the Dragon,0,0,0,0,Toys for Bob,Activision,2018,"PlayStation 4, Xbox One","PS4, Xbox One",8,82,8.5,0
+SGDQ,2019,Portal 2,0,0,0,0,Valve Corporation,Valve Corporation,2011,"Windows, PlayStation 3, Xbox 360","PC, PS3, Xbox 360",7,95,9.1,1
+SGDQ,2019,Teenage Mutant Ninja Turtles III: The Manhattan Project,0,0,0,0,Konami,Konami,1991,Nintendo Entertainment System,NES,3,N/A,N/A,0
+SGDQ,2019,Super Mario Bros. 2,0,0,0,0,Nintendo,Nintendo,1988,Nintendo Entertainment System,NES,3,N/A,N/A,0
+SGDQ,2019,Donkey Kong Country 2: Diddy's Kong Quest,0,0,1,1,Rare,Nintendo,1995,Super Nintendo Entertainment System,SNES,4,N/A,N/A,0
+SGDQ,2019,Kirby: Nightmare in Dream Land,0,0,0,0,HAL Laboratory,Nintendo,2002,Game Boy Advance,Game Boy Advance,6,81,8.5,0
+SGDQ,2019,Sonic Generations,0,0,0,0,Sonic Team,Sega,2011,"PlayStation 3, Xbox 360, Windows","PS3, Xbox 360, PC",7,77,8,1
+SGDQ,2019,The Legend of Zelda: The Minish Cap,0,0,1,0,Capcom,Nintendo,2004,Game Boy Advance,Game Boy Advance,6,89,9,0
+SGDQ,2019,Devil May Cry,0,0,1,1,Capcom,Capcom,2001,PlayStation 2,PS2,6,84,8.8,0
+SGDQ,2019,Streets of Rage,0,0,1,1,Sega,Sega,1991,Sega Genesis,Sega Genesis,4,N/A,N/A,0
+SGDQ,2019,Final Doom,0,0,0,0,id Software,GT Interactive,1996,Windows,PC,Various,83,8.5,1
+SGDQ,2019,Outland,0,0,0,0,Housemarque,Ubisoft,2011,"Xbox 360, PlayStation 3","Xbox 360, PS3",7,83,8,0
+SGDQ,2019,The Hobbit,0,0,0,0,Inevitable Entertainment,Sierra Entertainment,2003,"GameCube, PlayStation 2, Xbox","GameCube, PS2, Xbox",6,71,7.5,0
+SGDQ,2019,Tony Hawk's Underground 2,0,0,1,0,Neversoft,Activision,2004,"PlayStation 2, Xbox, GameCube","PS2, Xbox, GameCube",6,83,8.4,0
+SGDQ,2019,Zombies Ate My Neighbors,0,0,1,1,LucasArts,Konami,1993,Super Nintendo Entertainment System,SNES,4,N/A,N/A,0
+SGDQ,2019,Blaster Master,0,0,0,0,Sunsoft,Sunsoft,1988,Nintendo Entertainment System,NES,3,N/A,N/A,0
+SGDQ,2019,Solomon's Key,0,0,0,0,Tecmo,Tecmo,1986,"Arcade, Nintendo Entertainment System","Arcade, NES",3,N/A,N/A,0
+SGDQ,2019,Metroid,0,0,0,0,Nintendo,Nintendo,1986,Nintendo Entertainment System,NES,3,N/A,N/A,0
+SGDQ,2019,Rygar,0,0,0,0,Tecmo,Tecmo,1986,"Arcade, Nintendo Entertainment System","Arcade, NES",3,N/A,N/A,0
+SGDQ,2019,DuckTales 2,0,0,1,1,Capcom,Capcom,1993,Nintendo Entertainment System,NES,3,N/A,N/A,0
+SGDQ,2019,Marble Madness,0,0,0,0,Atari Games,Atari Games,1984,Arcade,Arcade,Various,N/A,N/A,0
+SGDQ,2019,Jackal,0,0,0,0,Konami,Konami,1986,"Arcade, Nintendo Entertainment System","Arcade, NES",3,N/A,N/A,0
+SGDQ,2019,Contra,0,0,0,0,Konami,Konami,1987,"Arcade, Nintendo Entertainment System","Arcade, NES",3,N/A,N/A,0
+SGDQ,2019,Contra III: The Alien Wars,0,0,0,0,Konami,Konami,1992,Super Nintendo Entertainment System,SNES,4,N/A,N/A,0
+SGDQ,2019,Alien Soldier,0,0,0,0,Treasure,Sega,1995,Sega Mega Drive,Sega Genesis,4,N/A,N/A,0
+SGDQ,2019,Ranger-X,0,0,1,1,GAU Entertainment,Sega,1993,Sega Genesis,Sega Genesis,4,N/A,N/A,0
+SGDQ,2019,Ninja Spirit,0,0,0,0,Irem,Irem,1988,Arcade,Arcade,Various,N/A,N/A,0
+SGDQ,2019,Super Time Force Ultra,0,0,0,0,Capybara Games,Capybara Games,2014,"Windows, Xbox 360, Xbox One","PC, Xbox 360, Xbox One",7,82,7.8,1
+SGDQ,2019,Half-Minute Hero,0,0,1,1,Opus,Marvelous Entertainment,2009,PlayStation Portable,PSP,6,79,8.2,0
+SGDQ,2019,Timespinner,0,0,0,0,Lunar Ray Games,Chucklefish,2018,"Windows, macOS, Linux",PC,Various,78,7.5,1
+SGDQ,2019,Castlevania,0,0,0,0,Konami,Konami,1986,Nintendo Entertainment System,NES,3,N/A,N/A,0
+SGDQ,2019,Bloodstained: Curse of the Moon,0,0,0,0,Inti Creates,Inti Creates,2018,"Nintendo Switch, PlayStation 4, Windows","Switch, PS4, PC",8,80,8.1,1
+SGDQ,2019,Castlevania: Symphony of the Night,0,0,1,1,Konami,Konami,1997,PlayStation,PlayStation,5,93,8.7,0
+SGDQ,2019,Castlevania: Portrait of Ruin,0,0,1,0,Konami,Konami,2006,Nintendo DS,Nintendo DS,6,82,8.4,0
+SGDQ,2019,Prey,0,0,1,1,Arkane Studios,Bethesda Softworks,2017,"PlayStation 4, Windows, Xbox One","PS4, PC, Xbox One",8,82,7.6,1
+SGDQ,2019,Titanfall 2,0,0,1,0,Respawn Entertainment,Electronic Arts,2016,"PlayStation 4, Windows, Xbox One","PS4, PC, Xbox One",8,89,8.5,1
+SGDQ,2019,Perfect Dark,1,0,1,1,Rare,Nintendo,2000,Nintendo 64,N64,5,97,8.9,0
+SGDQ,2019,Borderlands 2,0,0,1,1,Gearbox Software,2K Games,2012,"PlayStation 3, Windows, Xbox 360","PS3, PC, Xbox 360",7,89,8.4,1
+SGDQ,2019,Metroid Prime,0,0,1,1,Retro Studios,Nintendo,2002,GameCube,GameCube,6,97,9.3,0
+SGDQ,2019,Metroid Prime 2: Echoes,0,0,0,0,Retro Studios,Nintendo,2004,GameCube,GameCube,6,92,9,0
+SGDQ,2019,Uncharted: Drake's Fortune,0,0,1,0,Naughty Dog,Sony Computer Entertainment,2007,PlayStation 3,PS3,7,88,8.4,0
+SGDQ,2019,Chasm: The Rift,0,0,1,1,Action Forms,GT Interactive,1997,DOS,PC,Various,N/A,N/A,1
+SGDQ,2019,Monster Boy and the Cursed Kingdom,0,0,0,0,Game Atelier,FDG Entertainment,2018,"Nintendo Switch, PlayStation 4, Windows","Switch, PS4, PC",8,86,8.5,1
+SGDQ,2019,The Textorcist,0,0,1,1,Morbidware,Headup,2019,Windows,PC,Various,78,7.5,1
+SGDQ,2019,Skylar & Plux: Adventure On Clover Island,0,0,0,0,Right Nice Games,Grip Digital,2017,"PlayStation 4, Windows, Xbox One","PS4, PC, Xbox One",8,64,6.5,1
+SGDQ,2019,Slipstream,0,0,0,0,ansdor,ansdor,2018,Windows,PC,Various,N/A,N/A,1
+SGDQ,2019,Split/Second,0,0,0,0,Black Rock Studio,Disney Interactive Studios,2010,"PlayStation 3, Windows, Xbox 360","PS3, PC, Xbox 360",7,84,7.9,1
+SGDQ,2019,Kirby Air Ride,0,0,1,0,HAL Laboratory,Nintendo,2003,GameCube,GameCube,6,61,8.3,0
+SGDQ,2019,Kirby 64: The Crystal Shards,0,0,1,0,HAL Laboratory,Nintendo,2000,Nintendo 64,N64,5,77,8.6,0
+SGDQ,2019,Ape Escape,0,0,0,0,Japan Studio,Sony Computer Entertainment,1999,PlayStation,PlayStation,5,90,8.8,0
+SGDQ,2019,Crash Bandicoot: N. Sane Trilogy,0,0,1,1,Vicarious Visions,Activision,2017,PlayStation 4,PS4,8,80,7.7,0
+SGDQ,2019,Punch-Out!! (Arcade),0,0,1,1,Nintendo R&D3,Nintendo,1984,Arcade,Arcade,Various,N/A,N/A,0
+SGDQ,2019,Punch-Out!! (Wii),0,0,1,1,Next Level Games,Nintendo,2009,Wii,Wii,7,86,8.6,0
+SGDQ,2019,Pokemon Crystal,0,0,1,1,Game Freak,Nintendo,2000,Game Boy Color,Game Boy Color,5,N/A,N/A,0
+SGDQ,2019,The Legend of Zelda Randomizer,0,0,1,0,Fan-made,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+SGDQ,2019,Deltarune,1,0,1,1,Toby Fox,Toby Fox,2018,"Windows, macOS",PC,Various,N/A,N/A,1
+SGDQ,2019,Super Mario Sunshine,0,0,0,0,Nintendo EAD,Nintendo,2002,GameCube,GameCube,6,92,8.3,0
+SGDQ,2019,Resident Evil 2,0,0,1,1,Capcom,Capcom,1998,PlayStation,PlayStation,5,89,9,0
+SGDQ,2019,Silent Hill 3,0,0,0,0,Konami,Konami,2003,PlayStation 2,PS2,6,85,8.8,0
+SGDQ,2019,Sonic Adventure DX: Director's Cut,0,0,0,0,Sonic Team,Sega,2003,"GameCube, Windows","GameCube, PC",6,57,7.4,1
+SGDQ,2019,Divekick,0,0,1,1,Iron Galaxy Studios,Iron Galaxy Studios,2013,"PlayStation 3, PlayStation Vita, Windows","PS3, PlayStation Vita, PC",7,69,7,1
+SGDQ,2019,We Love Katamari,0,0,1,1,Namco,Namco,2005,PlayStation 2,PS2,6,86,8.9,0
+SGDQ,2019,Shrek Extra Large,0,0,0,0,Digital Illusions CE,TDK Mediactive,2002,GameCube,GameCube,6,32,5,0
+SGDQ,2019,Mort the Chicken,0,0,1,1,AndNow,Crave Entertainment,2000,PlayStation,PlayStation,5,49,6.8,0
+SGDQ,2019,Catlateral Damage,0,0,1,0,Chris Chung,Chris Chung,2015,"Windows, macOS, Linux",PC,Various,53,5.8,1
+SGDQ,2019,Hylics,0,0,0,0,Mason Lindroth,Mason Lindroth,2015,Windows,PC,Various,N/A,N/A,1
+SGDQ,2019,Laffy Taffy 3D Pyramid Challenge,0,0,0,0,Digital Eclipse,Nestlé,2001,Windows,PC,Various,N/A,N/A,1
+SGDQ,2019,Glover,0,0,0,0,Interactive Studios,Hasbro Interactive,1998,Nintendo 64,N64,5,70,7.5,0
+SGDQ,2019,Castlevania (DOS),0,0,0,0,Distinctive Software,Konami,1990,DOS,PC,Various,N/A,N/A,1
+SGDQ,2019,Last Action Hero,0,0,0,0,Bits Studios,Sony Imagesoft,1993,"NES, SNES, Genesis, Game Boy","NES, SNES, Sega Genesis, Game Boy",3,N/A,N/A,0
+SGDQ,2019,Splatterhouse: Wanpaku Graffiti,0,0,0,0,Now Production,Namco,1989,Famicom,NES,3,N/A,N/A,0
+SGDQ,2019,Sylvester and Tweety in Cagey Capers,0,0,0,0,Alexandria,Time Warner Interactive,1994,Sega Genesis,Sega Genesis,4,N/A,N/A,0
+SGDQ,2019,Boogerman: A Pick and Flick Adventure,0,0,0,0,Interplay,Interplay,1994,"Sega Genesis, SNES","Sega Genesis, SNES",4,N/A,N/A,0
+SGDQ,2019,T.R.A.G.: Tactical Rescue Assault Group,0,0,0,0,Sunsoft,Sunsoft,1998,PlayStation,PlayStation,5,N/A,N/A,0
+SGDQ,2019,Clustertruck,0,0,0,0,Landfall Games,tinyBuild,2016,"Windows, macOS, Linux",PC,Various,74,7.5,1
+SGDQ,2019,Lethal League Blaze,0,0,1,0,Team Reptile,Team Reptile,2018,Windows,PC,Various,82,8.2,1
+SGDQ,2019,Nex Machina,0,0,0,0,Housemarque,Housemarque,2017,"PlayStation 4, Windows","PS4, PC",8,88,8.1,1
+SGDQ,2019,Furi,0,0,0,0,The Game Bakers,The Game Bakers,2016,"PlayStation 4, Windows","PS4, PC",8,78,7.7,1
+SGDQ,2019,Nuclear Throne,0,0,1,1,Vlambeer,Vlambeer,2015,"Windows, macOS, Linux",PC,Various,88,8,1
+SGDQ,2019,Command & Conquer: Red Alert 3,0,0,1,1,Electronic Arts Los Angeles,Electronic Arts,2008,"Windows, Xbox 360, PlayStation 3","PC, Xbox 360, PS3",7,82,7.8,1
+SGDQ,2019,StarCraft Remastered,1,0,1,1,Blizzard Entertainment,Blizzard Entertainment,2017,"Windows, macOS",PC,Various,85,7.5,1
+SGDQ,2019,The Legend of Zelda: A Link Between Worlds,0,0,1,0,Nintendo EAD,Nintendo,2013,Nintendo 3DS,Nintendo 3DS,7,91,9,0
+SGDQ,2019,Dark Souls II,0,0,1,0,FromSoftware,Bandai Namco Games,2014,"PlayStation 3, Xbox 360, Windows","PS3, Xbox 360, PC",7,91,8.1,1
+SGDQ,2019,Dead Rising,0,0,0,0,Capcom,Capcom,2006,Xbox 360,Xbox 360,7,85,8.1,0
+SGDQ,2019,Remnants of Naezith,0,0,1,1,Tolga Ay,Tolga Ay,2018,"Windows, macOS, Linux",PC,Various,N/A,N/A,1
+SGDQ,2019,Looney Tunes,0,0,0,0,Sunsoft,Sunsoft,1992,Game Boy,Game Boy,3,N/A,N/A,0
+SGDQ,2019,Rhino Rumble,0,0,0,0,Bit Managers,Telegames,2002,Game Boy Color,Game Boy Color,5,N/A,N/A,0
+SGDQ,2019,Jumper: Griffin's Story,0,0,0,0,Red Tribe,Brash Entertainment,2008,"PlayStation 2, Wii, Xbox 360","PS2, Wii, Xbox 360",6,29,3.5,0
+SGDQ,2019,Aero the Acro-Bat 2,0,0,0,0,Iguana Entertainment,Sunsoft,1994,"Sega Genesis, SNES","Sega Genesis, SNES",4,N/A,N/A,0
+SGDQ,2019,Super Bomberman 2,0,0,0,0,Produce!,Hudson Soft,1994,Super Nintendo Entertainment System,SNES,4,N/A,N/A,0
+SGDQ,2019,Metal Slug X,0,0,0,0,SNK,SNK,1999,"Arcade, Neo Geo","Arcade, Neo Geo",4,N/A,N/A,0
+SGDQ,2019,Metal Slug 3,0,0,0,0,SNK,SNK,2000,"Arcade, Neo Geo","Arcade, Neo Geo",4,N/A,N/A,0
+SGDQ,2019,Gauntlet,0,0,0,0,Atari Games,Atari Games,1985,Arcade,Arcade,Various,N/A,N/A,0
+SGDQ,2019,Chip 'N Dale: Rescue Rangers,0,0,0,0,Capcom,Capcom,1990,Nintendo Entertainment System,NES,3,N/A,N/A,0
+SGDQ,2019,Teenage Mutant Ninja Turtles IV: Turtles In Time,0,0,0,0,Konami,Konami,1992,Super Nintendo Entertainment System,SNES,4,N/A,N/A,0
+SGDQ,2019,Ristar,0,0,0,0,Sonic Team,Sega,1995,Sega Genesis,Sega Genesis,4,N/A,N/A,0
+SGDQ,2019,Sonic 3D Blast,0,0,0,0,Traveller's Tales,Sega,1996,"Sega Genesis, Sega Saturn","Sega Genesis, Sega Saturn",4,N/A,N/A,0
+SGDQ,2019,Cave Story,0,0,1,1,Studio Pixel,Studio Pixel,2004,Windows,PC,Various,N/A,N/A,1
+SGDQ,2019,Koumajou Densetsu II: Yougen no Chingonka,0,0,0,0,Frontier Aja,Frontier Aja,2010,Windows,PC,Various,N/A,N/A,1
+SGDQ,2019,Fire Emblem Fates,0,0,1,0,Intelligent Systems,Nintendo,2015,Nintendo 3DS,Nintendo 3DS,7,87,8.6,0
+SGDQ,2019,Kingdom Hearts III,0,0,1,1,Square Enix,Square Enix,2019,"PlayStation 4, Xbox One","PS4, Xbox One",8,83,8,0
+SGDQ,2019,Super Mario World (Blind),0,0,0,0,Nintendo,Nintendo,1990,Super Nintendo Entertainment System,SNES,4,N/A,N/A,0
+SGDQ,2019,Super Mario Bros. 3,1,0,1,1,Nintendo,Nintendo,1988,Nintendo Entertainment System,NES,3,N/A,N/A,0
+SGDQ,2019,Invictus,0,0,1,1,Fan-made,N/A,2019,N/A,N/A,N/A,N/A,N/A,N/A
+SGDQ,2019,Grand Poo World 2,0,0,1,1,Fan-made,N/A,2019,N/A,N/A,N/A,N/A,N/A,N/A
+SGDQ,2019,Banjo-Kazooie,0,0,0,0,Rare,Nintendo,1998,Nintendo 64,N64,5,92,9,0
+SGDQ,2019,Mario Kart: Double Dash!!,0,0,0,0,Nintendo EAD,Nintendo,2003,GameCube,GameCube,6,87,8.9,0
+SGDQ,2019,Super Mario Galaxy 2,0,0,1,1,Nintendo EAD Tokyo,Nintendo,2010,Wii,Wii,7,97,9.1,0
+SGDQ,2019,Pac-Man World,0,0,0,0,Namco,Namco,1999,PlayStation,PlayStation,5,N/A,N/A,0
+SGDQ,2019,Sly Cooper and the Thievius Raccoonus,0,0,1,1,Sucker Punch Productions,Sony Computer Entertainment,2002,PlayStation 2,PS2,6,86,8.8,0
+SGDQ,2019,Star Fox 64,0,0,1,1,Nintendo EAD,Nintendo,1997,Nintendo 64,N64,5,88,8.9,0
+SGDQ,2019,Diablo 2: Lord Of Destruction,0,0,1,1,Blizzard North,Blizzard Entertainment,2001,"Windows, macOS",PC,Various,87,8.8,1
+SGDQ,2019,Quake,0,0,0,0,id Software,GT Interactive,1996,Windows,PC,Various,94,8.9,1
+SGDQ,2019,Half-Life,0,0,0,0,Valve Corporation,Sierra Studios,1998,Windows,PC,Various,96,9.1,1
+SGDQ,2019,Half-Life 2,0,0,0,0,Valve Corporation,Valve Corporation,2004,Windows,PC,Various,96,9.2,1
+SGDQ,2019,Hyper Light Drifter,0,0,0,0,Heart Machine,Heart Machine,2016,"Windows, macOS, Linux",PC,Various,84,7.9,1
+SGDQ,2019,Minecraft,0,0,0,0,Mojang,Mojang,2011,"Windows, macOS, Linux",PC,Various,93,8.7,1
+SGDQ,2019,Octopath Traveler,0,0,1,1,Square Enix,Square Enix,2018,Nintendo Switch,Switch,9,83,8.4,0
+SGDQ,2019,Rockman 4 Minus Infinity,0,0,0,0,Puresabe,N/A,2014,Nintendo Entertainment System,NES,3,N/A,N/A,N/A
+SGDQ,2019,Mega Man 2,0,0,0,0,Capcom,Capcom,1988,Nintendo Entertainment System,NES,3,N/A,N/A,0
+SGDQ,2019,Mega Man 3,0,0,0,0,Capcom,Capcom,1990,Nintendo Entertainment System,NES,3,N/A,N/A,0
+SGDQ,2019,Mega Man 11,0,0,0,0,Capcom,Capcom,2018,"PlayStation 4, Xbox One, Nintendo Switch, Windows","PS4, Xbox One, Switch, PC",8,79,7.8,1
+SGDQ,2019,Tetris Effect,0,0,0,0,"Monstars, Resonair",Enhance,2018,PlayStation 4,PS4,8,89,8.2,0
+SGDQ,2019,TASBot plays Tetris,0,1,0,0,Alexey Pajitnov,Various,1984,Electronika 60,PC,Various,N/A,N/A,0
+SGDQ,2019,TASBot plays Mario Kart Wii,0,1,0,0,Nintendo EAD,Nintendo,2008,Wii,Wii,7,82,8.9,0
+SGDQ,2019,TASbot Plays Celeste,1,1,1,1,Maddy Makes Games,Maddy Makes Games,2018,"PlayStation 4, Xbox One, Nintendo Switch, Windows","PS4, Xbox One, Switch, PC",8,94,8.5,1
+SGDQ,2019,Dark Souls,0,0,1,1,FromSoftware,Bandai Namco Games,2011,"PlayStation 3, Xbox 360","PS3, Xbox 360",7,89,8.7,0
+SGDQ,2019,The Legend of Zelda: Breath of the Wild,0,0,0,0,Nintendo EPD,Nintendo,2017,"Nintendo Switch, Wii U","Switch, Wii U",8,97,8.7,0
+SGDQ,2019,The Legend of Zelda: Majora's Mask,0,0,1,0,Nintendo EAD,Nintendo,2000,Nintendo 64,N64,5,95,9.1,0
+SGDQ,2019,Bomberman 64: The Second Attack,0,0,0,0,Hudson Soft,Vatical Entertainment,2000,Nintendo 64,N64,5,N/A,N/A,0
+SGDQ,2019,Cannon Spike,0,0,0,0,Psikyo,Capcom,2000,Dreamcast,Dreamcast,6,N/A,N/A,0
+SGDQ,2019,Lara Croft Tomb Raider: Legend,0,0,0,0,Crystal Dynamics,Eidos Interactive,2006,"PlayStation 2, Xbox, Windows","PS2, Xbox, PC",6,82,7.8,1
+SGDQ,2019,Transistor,0,0,1,1,Supergiant Games,Supergiant Games,2014,"PlayStation 4, Windows","PS4, PC",8,83,8,1
+SGDQ,2019,The Elder Scrolls V: Skyrim,0,0,1,1,Bethesda Game Studios,Bethesda Softworks,2011,"PlayStation 3, Xbox 360, Windows","PS3, Xbox 360, PC",7,94,8.4,1
+SGDQ,2019,"Pokemon: Let's Go, Pikachu!/Eevee!",0,0,1,1,Game Freak,Nintendo,2018,Nintendo Switch,Switch,9,79,6.8,0
+SGDQ,2019,Super Mario World,0,0,0,0,Nintendo EAD,Nintendo,1990,Super Nintendo Entertainment System,SNES,4,N/A,N/A,0
+SGDQ,2019,The Legend of Zelda: Ocarina of Time,1,0,1,1,Nintendo EAD,Nintendo,1998,Nintendo 64,N64,5,99,9.1,0
+SGDQ,2019,Link to the Past + Super Metroid Combo Randomizer,0,0,1,0,Nintendo EAD,Nintendo,1991,Super Nintendo Entertainment System,SNES,4,N/A,N/A,0
+SGDQ,2019,Chrono Trigger,0,0,1,1,Square,Square,1995,Super Nintendo Entertainment System,SNES,4,N/A,N/A,0
+AGDQ,2019,Hollow Knight,0,0,1,1,Team Cherry,Team Cherry,2017,PC,PC,Various,87,9,1
+AGDQ,2019,Kirby & The Amazing Mirror,0,0,0,0,HAL Laboratory,Nintendo,2004,Game Boy Advance,Game Boy Advance,6,80,8.5,0
+AGDQ,2019,Donkey Kong Country,0,0,0,0,Rare,Nintendo,1994,SNES,SNES,4,90,8.8,0
+AGDQ,2019,Mario Kart DS,0,0,0,0,Nintendo EAD,Nintendo,2005,Nintendo DS,Nintendo DS,6,91,8.8,0
+AGDQ,2019,Serious Sam Classic: The First Encounter,0,0,1,1,Croteam,Gathering of Developers,2001,PC,PC,Various,83,8.5,1
+AGDQ,2019,Mega Man Zero 2,0,0,0,0,Inti Creates,Capcom,2003,Game Boy Advance,Game Boy Advance,6,82,8.4,0
+AGDQ,2019,The Legend of Zelda: Majora's Mask,0,0,1,0,Nintendo EAD,Nintendo,2000,Nintendo 64,N64,5,95,9.1,0
+AGDQ,2019,Portal,0,0,0,0,Valve,Valve,2007,"PC, Xbox 360, PS3","PC, Xbox 360, PS3",7,90,9,1
+AGDQ,2019,Metal Gear Solid 2: Sons of Liberty,0,0,0,0,Konami,Konami,2001,PS2,PS2,6,96,8.8,0
+AGDQ,2019,Shadow of the Colossus (2018),0,0,0,0,Bluepoint Games,Sony Interactive Entertainment,2018,PS4,PS4,8,91,8.9,0
+AGDQ,2019,God of War II,0,0,1,0,Santa Monica Studio,Sony Computer Entertainment,2007,PS2,PS2,6,93,9,0
+AGDQ,2019,Bomberman 64,0,0,0,0,Hudson Soft,Nintendo,1997,Nintendo 64,N64,5,77,8,0
+AGDQ,2019,Fe,0,0,0,0,Zoink,Electronic Arts,2018,"PC, PS4, Xbox One, Switch","PC, PS4, Xbox One, Switch",8,73,7,1
+AGDQ,2019,Spike Hike,0,0,0,0,CasePortman,CasePortman,2018,PC,PC,Various,N/A,N/A,1
+AGDQ,2019,Cat Bird,0,0,1,0,Raiyumi,Raiyumi,2017,"iOS, Android",Mobile,Various,N/A,N/A,0
+AGDQ,2019,CometStriker,0,0,1,0,Iced Lizard Games LLC,Iced Lizard Games LLC,2018,PC,PC,Various,N/A,N/A,1
+AGDQ,2019,Khimera: Destroy All Monster Girls,0,0,1,1,Suits & Sandals,Suits & Sandals,2016,PC,PC,Various,N/A,N/A,1
+AGDQ,2019,Another World: 20th Anniversary Edition,0,0,0,0,Eric Chahi,The Digital Lounge,2011,"PC, iOS",PC,Various,N/A,N/A,1
+AGDQ,2019,Monster World IV,0,0,0,0,Westone Bit Entertainment,Sega,1994,Mega Drive,Sega Genesis,4,N/A,N/A,0
+AGDQ,2019,Mega Turrican,0,0,0,0,Factor 5,Data East,1994,Sega Genesis,Sega Genesis,4,N/A,N/A,0
+AGDQ,2019,Ecco: The Tides of Time,0,0,0,0,Novotrade International,Sega,1994,Sega Genesis,Sega Genesis,4,N/A,N/A,0
+AGDQ,2019,Vectorman,0,0,0,0,BlueSky Software,Sega,1995,Sega Genesis,Sega Genesis,4,N/A,N/A,0
+AGDQ,2019,Generations Lost,0,0,0,0,Pacific Softscape,Time Warner Interactive,1994,Sega Genesis,Sega Genesis,4,N/A,N/A,0
+AGDQ,2019,Bloody Wolf,0,0,1,0,Data East,Data East,1988,Arcade,Arcade,Various,N/A,N/A,0
+AGDQ,2019,Earthworm Jim 2,0,0,0,0,Shiny Entertainment,Playmates Interactive Entertainment,1995,"SNES, Sega Genesis","SNES, Sega Genesis",4,N/A,N/A,0
+AGDQ,2019,Pocky & Rocky,0,0,0,0,Natsume,Natsume,1992,SNES,SNES,4,N/A,N/A,0
+AGDQ,2019,Super Ghouls 'N Ghosts,0,0,0,0,Capcom,Capcom,1991,SNES,SNES,4,N/A,N/A,0
+AGDQ,2019,ActRaiser 2,0,0,0,0,Quintet,Enix,1993,SNES,SNES,4,N/A,N/A,0
+AGDQ,2019,Castlevania: Symphony of the Night,0,0,0,0,Konami,Konami,1997,PlayStation,PlayStation,5,93,9.1,0
+AGDQ,2019,Castlevania: Aria of Sorrow,0,0,1,0,Konami,Konami,2003,Game Boy Advance,Game Boy Advance,6,91,8.9,0
+AGDQ,2019,Castlevania Chronicles,0,0,0,0,Konami,Konami,2001,PlayStation,PlayStation,5,74,8,0
+AGDQ,2019,Castlevania II: Simon's Quest,0,0,0,0,Konami,Konami,1987,NES,NES,3,N/A,N/A,0
+AGDQ,2019,Castlevania III: Dracula's Curse,1,0,1,1,Konami,Konami,1989,NES,NES,3,N/A,N/A,0
+AGDQ,2019,Bloodstained: Curse of the Moon,0,0,1,1,Inti Creates,Inti Creates,2018,"3DS, Switch, PS4, Vita, PC","3DS, Switch, PS4, Vita, PC",8,80,8,1
+AGDQ,2019,Donkey Kong Country: Tropical Freeze,0,0,0,0,Retro Studios,Nintendo,2014,Wii U,Wii U,8,83,8.6,0
+AGDQ,2019,Jak 3,0,0,1,1,Naughty Dog,Sony Computer Entertainment,2004,PS2,PS2,6,84,8.8,0
+AGDQ,2019,Crash Bandicoot: N. Sane Trilogy,0,0,0,0,Vicarious Visions,Activision,2017,PS4,PS4,8,80,8.5,0
+AGDQ,2019,Splatoon 2: Octo Expansion,0,0,1,1,Nintendo,Nintendo,2018,Switch,Switch,9,83,8.5,0
+AGDQ,2019,Resident Evil,0,0,1,0,Capcom,Capcom,1996,PlayStation,PlayStation,5,91,9,0
+AGDQ,2019,Silent Hill 2,0,0,1,1,Konami,Konami,2001,PS2,PS2,6,89,9,0
+AGDQ,2019,Tomb Raider II,0,0,1,1,Core Design,Eidos Interactive,1997,PlayStation,PlayStation,5,85,8.5,0
+AGDQ,2019,Tomb Raider : The Angel of Darkness,0,0,0,0,Core Design,Eidos Interactive,2003,PS2,PS2,6,52,5,0
+AGDQ,2019,NieR: Automata,0,0,1,1,PlatinumGames,Square Enix,2017,PS4,PS4,8,88,8.9,0
+AGDQ,2019,The Battle of Olympus,0,0,1,0,Infinity,Brøderbund,1988,NES,NES,3,N/A,N/A,0
+AGDQ,2019,Vice: Project Doom,0,0,0,0,Aicom,Sammy,1991,NES,NES,3,N/A,N/A,0
+AGDQ,2019,Chip 'n Dale: Rescue Rangers 2,0,0,0,0,Capcom,Capcom,1993,NES,NES,3,N/A,N/A,0
+AGDQ,2019,Yume Kojo: Doki Doki Panic!,0,0,0,0,Nintendo,Nintendo,1987,Famicom Disk System,NES,3,N/A,N/A,0
+AGDQ,2019,Rayman 2: The Great Escape,0,0,1,1,Ubisoft,Ubisoft,1999,N64,N64,5,90,8.8,0
+AGDQ,2019,Bastion,0,0,1,1,Supergiant Games,Warner Bros. Interactive Entertainment,2011,XBLA,Xbox,6,86,8.5,0
+AGDQ,2019,Momodora: Reverie Under the Moonlight,0,0,1,1,Bombservice,Playism,2016,PC,PC,Various,82,8,1
+AGDQ,2019,Sonic Forces,0,0,1,1,Sonic Team,Sega,2017,"PS4, Xbox One, Switch, PC","PS4, Xbox One, Switch, PC",8,57,6,1
+AGDQ,2019,Sonic Mania Plus,1,0,1,1,Christian Whitehead,Sega,2018,"PS4, Xbox One, Switch, PC","PS4, Xbox One, Switch, PC",8,91,8.8,1
+AGDQ,2019,Sanic Ball,0,0,1,0,BK-TN,BK-TN,2014,PC,PC,Various,N/A,N/A,1
+AGDQ,2019,Sonic The Hedgehog 1,0,0,0,0,Sonic Team,Sega,1991,Sega Genesis,Sega Genesis,4,N/A,N/A,0
+AGDQ,2019,Sonic Rush,0,0,1,0,Dimps,Sega,2005,Nintendo DS,Nintendo DS,6,82,8,0
+AGDQ,2019,Mario Kart 64,0,0,0,0,Nintendo EAD,Nintendo,1996,N64,N64,5,83,8.5,0
+AGDQ,2019,Super Mario Bros. 3mix,0,0,0,0,Southbird,Southbird,2014,NES (ROM hack),NES,3,N/A,N/A,0
+AGDQ,2019,Super Mario RPG: Legend of the Seven Stars,0,0,1,1,Square,Nintendo,1996,SNES,SNES,4,89,8.8,0
+AGDQ,2019,Trauma Center: Under The Knife 2,0,0,1,0,Atlus,Atlus,2008,Nintendo DS,Nintendo DS,6,82,8,0
+AGDQ,2019,Medal of Honor: Airborne,0,0,0,0,EA Los Angeles,Electronic Arts,2007,"PS3, Xbox 360, PC","PS3, Xbox 360, PC",7,73,7.5,1
+AGDQ,2019,Tony Hawk's Pro Skater 2X,0,0,1,0,Treyarch,Activision,2001,Xbox,Xbox,6,N/A,N/A,0
+AGDQ,2019,The Elder Scrolls III: Morrowind,0,0,1,0,Bethesda Game Studios,Bethesda Softworks,2002,"PC, Xbox","PC, Xbox",6,89,8.9,1
+AGDQ,2019,Michael Jackson's Moonwalker,0,0,0,0,Sega,Sega,1990,"Arcade, Sega Genesis","Arcade, Sega Genesis",4,N/A,N/A,0
+AGDQ,2019,The Magical Quest Starring Mickey Mouse,0,0,0,0,Capcom,Capcom,1992,SNES,SNES,4,N/A,N/A,0
+AGDQ,2019,Puzzle Bobble,0,0,0,0,Taito,Taito,1994,Arcade,Arcade,Various,N/A,N/A,0
+AGDQ,2019,Guacamelee! 2,0,0,1,0,DrinkBox Studios,DrinkBox Studios,2018,"PS4, PC","PS4, PC",8,84,8,1
+AGDQ,2019,Light Fall,0,0,0,0,Bishop Games,Bishop Games,2018,"PC, Switch","PC, Switch",9,75,7.5,1
+AGDQ,2019,Semblance,0,0,1,1,Nyamakop,Good Shepherd Entertainment,2018,"PC, Switch","PC, Switch",9,74,7,1
+AGDQ,2019,N++,0,0,0,0,Metanet Software,Metanet Software,2015,PS4,PS4,8,81,7.8,0
+AGDQ,2019,Warcraft III: Reign of Chaos,0,0,0,0,Blizzard Entertainment,Blizzard Entertainment,2002,PC,PC,Various,92,9,1
+AGDQ,2019,TimeSplitters 2,0,0,0,0,Free Radical Design,Eidos Interactive,2002,"PS2, Xbox, GameCube","PS2, Xbox, GameCube",6,90,8.8,0
+AGDQ,2019,Halo: Reach,0,0,0,0,Bungie,Microsoft Game Studios,2010,Xbox 360,Xbox 360,7,91,8.7,0
+AGDQ,2019,The Legend of Zelda: Twilight Princess,0,0,0,0,Nintendo EAD,Nintendo,2006,"GameCube, Wii","GameCube, Wii",6,95,9.1,0
+AGDQ,2019,Octopath Traveler,1,0,1,1,Square Enix,Square Enix,2018,Switch,Switch,9,83,8.4,0
+AGDQ,2019,Mega Man X 1 - 3 team relay race,0,0,0,0,Capcom,Capcom,1993,SNES,SNES,4,N/A,N/A,0
+AGDQ,2019,Mega Man 10,0,0,0,0,"Inti Creates, Capcom",Capcom,2010,"PS3, Xbox 360, Wii","PS3, Xbox 360, Wii",7,79,7.5,0
+AGDQ,2019,Mega Man Unlimited,0,0,1,1,MegaPhilX,MegaPhilX,2013,PC,PC,Various,N/A,N/A,1
+AGDQ,2019,Mega Man (DOS),0,0,1,0,Hi-Tech Expressions,Hi-Tech Expressions,1990,PC,PC,Various,N/A,N/A,1
+AGDQ,2019,Avoid the Noid,0,0,1,1,BlueSky Software,ShareData,1989,PC,PC,Various,N/A,N/A,1
+AGDQ,2019,Virtual Hydlide,0,0,1,1,T&E Soft,Sega,1995,Sega Saturn,Sega Saturn,5,N/A,N/A,0
+AGDQ,2019,Urban Yeti!,0,0,0,0,Cave Barn Studios,Telegames,2002,Game Boy Advance,Game Boy Advance,6,N/A,N/A,0
+AGDQ,2019,Gordo 106,0,0,0,0,Tenth Planet Software,Atari Corporation,1993,Atari Lynx,Atari Lynx,4,N/A,N/A,0
+AGDQ,2019,Mohawk & Headphone Jack,0,0,1,1,Solid Software,THQ,1996,SNES,SNES,4,N/A,N/A,0
+AGDQ,2019,Star Wars Episode I: The Phantom Menace,0,0,1,1,Big Ape Productions,LucasArts,1999,"PC, PlayStation","PC, PlayStation",5,56,6,1
+AGDQ,2019,Dragon's Lair: The Legend,0,0,0,0,MotiveTime Ltd.,Elite Systems,1991,NES,NES,3,N/A,N/A,0
+AGDQ,2019,Sword of Sodan,0,0,1,1,Discovery Software,Discovery Software,1988,Amiga,PC,Various,N/A,N/A,0
+AGDQ,2019,FÃ©rias Frustradas do Pica-Pau,0,0,0,0,Tectoy,Tectoy,1995,Master System,Sega Master System,3,N/A,N/A,0
+AGDQ,2019,Home Alone 2: Lost in New York,0,0,0,0,Imagineering,THQ,1992,"NES, SNES, Game Boy","NES, SNES, Game Boy",3,N/A,N/A,0
+AGDQ,2019,Garfield: A Week of Garfield,0,0,0,0,Mars Corp.,Towa Chiki,1989,Famicom,NES,3,N/A,N/A,0
+AGDQ,2019,Monkey King,0,0,0,0,Inventor,pacnsacdave,1997,NES,NES,3,N/A,N/A,0
+AGDQ,2019,Trio the Punch: Never Forget Me,0,0,1,1,Data East,Data East,1990,Arcade,Arcade,Various,N/A,N/A,0
+AGDQ,2019,Metal Gear (NES),0,0,0,0,Konami,Ultra Games,1987,NES,NES,3,N/A,N/A,0
+AGDQ,2019,Metal Gear 2: Solid Snake,0,0,0,0,Konami,Konami,1990,MSX2,PC,Various,N/A,N/A,0
+AGDQ,2019,Ninja Five-O,0,0,0,0,Hudson Soft,Konami,2003,Game Boy Advance,Game Boy Advance,6,N/A,N/A,0
+AGDQ,2019,Lara Croft and the Guardian of Light,0,0,0,0,Crystal Dynamics,Square Enix,2010,Xbox 360,Xbox 360,7,85,8,0
+AGDQ,2019,Overload,0,0,0,0,Revival Productions,Revival Productions,2018,PC,PC,Various,84,8.1,1
+AGDQ,2019,Prey,0,0,0,0,Arkane Studios,Bethesda Softworks,2017,"PC, PS4, Xbox One","PC, PS4, Xbox One",8,82,7.8,1
+AGDQ,2019,Dishonored: Death of the Outsider,0,0,0,0,Arkane Studios,Bethesda Softworks,2017,"PC, PS4, Xbox One","PC, PS4, Xbox One",8,82,7.5,1
+AGDQ,2019,Ultimate Doom,0,0,0,0,id Software,GT Interactive,1995,PC,PC,Various,N/A,N/A,1
+AGDQ,2019,Doom 2: Hell On Earth,0,0,0,0,id Software,GT Interactive,1994,PC,PC,Various,N/A,N/A,1
+AGDQ,2019,Chex Quest,0,0,1,1,Digital Café,Ralston Purina,1996,PC,PC,Various,N/A,N/A,1
+AGDQ,2019,Crypt of the NecroDancer: AMPLIFIED,0,0,0,0,Brace Yourself Games,Brace Yourself Games,2017,PC,PC,Various,N/A,N/A,1
+AGDQ,2019,The Messenger,0,0,0,0,Sabotage Studio,Devolver Digital,2018,"PC, Switch","PC, Switch",9,86,8.2,1
+AGDQ,2019,Dead Cells,0,0,0,0,Motion Twin,Motion Twin,2018,"PC, PS4, Xbox One, Switch","PC, PS4, Xbox One, Switch",8,91,8.4,1
+AGDQ,2019,Cuphead,1,0,1,1,Studio MDHR,Studio MDHR,2017,"PC, Xbox One","PC, Xbox One",8,86,8.2,1
+AGDQ,2019,Celeste,0,0,1,0,Matt Makes Games,Matt Makes Games,2018,"PC, PS4, Xbox One, Switch","PC, PS4, Xbox One, Switch",8,94,8.8,1
+AGDQ,2019,The Legend of Zelda: The Wind Waker HD,0,0,1,0,Nintendo,Nintendo,2013,Wii U,Wii U,8,90,8.9,0
+AGDQ,2019,Pac-Man: Championship Edition 2,0,0,1,1,Bandai Namco Studios,Bandai Namco Entertainment,2016,"PC, PS4, Xbox One","PC, PS4, Xbox One",8,80,7,1
+AGDQ,2019,Klonoa: Door to Phantomile,0,0,1,0,Namco,Namco,1997,PlayStation,PlayStation,5,N/A,N/A,0
+AGDQ,2019,Ratchet & Clank: Up Your Arsenal,0,0,1,1,Insomniac Games,Sony Computer Entertainment,2004,PS2,PS2,6,91,9,0
+AGDQ,2019,Metroid Fusion,0,0,0,0,Nintendo R&D1,Nintendo,2002,Game Boy Advance,Game Boy Advance,6,92,8.9,0
+AGDQ,2019,Diablo 2: Lord of Destruction,0,0,1,0,Blizzard North,Blizzard Entertainment,2001,PC,PC,Various,N/A,N/A,1
+AGDQ,2019,Divinity: Original Sin 2,0,0,0,0,Larian Studios,Larian Studios,2017,PC,PC,Various,93,8.8,1
+AGDQ,2019,Grand Theft Auto: Vice City,0,0,0,0,Rockstar North,Rockstar Games,2002,PS2,PS2,6,95,8.9,0
+AGDQ,2019,Pokemon Gold,0,0,0,0,Game Freak,Nintendo,1999,Game Boy Color,Game Boy Color,5,N/A,N/A,0
+AGDQ,2019,Final Fantasy IV - Free Enterprise,0,0,1,0,Community Developers,N/A,2017,PC,PC,Various,N/A,N/A,1
+AGDQ,2019,TASBot plays mari0 (SMB1 + Portal gun),0,1,0,0,Nintendo,Nintendo,1985,NES,NES,3,N/A,N/A,0
+AGDQ,2019,TASBot plays Castlevania: Aria of Sorrow,0,1,0,0,Konami,Konami,2003,Game Boy Advance,Game Boy Advance,6,91,8.9,0
+AGDQ,2019,Twitch Plays Super Scribblenauts,1,1,1,1,5th Cell,Warner Bros. Interactive Entertainment,2010,Nintendo DS,Nintendo DS,6,81,8,0
+AGDQ,2019,Super Mario Sunshine,0,0,0,0,Nintendo EAD,Nintendo,2002,GameCube,GameCube,6,92,8.8,0
+AGDQ,2019,Final Fantasy IX,0,0,1,0,Square,Square,2000,PlayStation,PlayStation,5,94,9,0
+AGDQ,2019,Puyo Puyo Tetris,0,0,0,0,Sonic Team,Sega,2014,"Nintendo 3DS, Wii U, PS3, PS4, Xbox One, Switch","Nintendo 3DS, Wii U, PS3, PS4, Xbox One, Switch",7,81,8.2,0
+AGDQ,2019,Luigi's Mansion,0,0,1,1,Nintendo,Nintendo,2001,GameCube,GameCube,6,78,8,0
+AGDQ,2019,I wanna kill the Kamilia 2,0,0,0,0,Kamilia,Kamilia,2012,PC,PC,Various,N/A,N/A,1
+AGDQ,2019,The Legend of Zelda: A Link to the Past,0,0,0,0,Nintendo,Nintendo,1991,SNES,SNES,4,95,9.2,0
+AGDQ,2019,Dark Souls III,0,0,1,1,FromSoftware,Bandai Namco Entertainment,2016,"PS4, Xbox One, PC","PS4, Xbox One, PC",8,89,8.7,1
+AGDQ,2019,Bloodborne,1,0,1,1,FromSoftware,Sony Computer Entertainment,2015,PS4,PS4,8,92,8.9,0
+AGDQ,2019,Quickie World,0,0,0,0,Quickie,Quickie,2018,SNES (ROM hack),SNES,4,N/A,N/A,0
+AGDQ,2019,Super Gracie World,0,0,1,1,Gracie,Gracie,2019,SNES (ROM hack),SNES,4,N/A,N/A,0
+AGDQ,2019,Super Mario Odyssey,0,0,1,1,Nintendo EPD,Nintendo,2017,Switch,Switch,9,97,8.9,0
+AGDQ,2019,Super Metroid,0,0,1,0,Nintendo R&D1,Nintendo,1994,SNES,SNES,4,96,9.4,0
+AGDQ,2018,007: Agent Under Fire,0,0,0,0,EA Redwood Shores,Electronic Arts,2001,"PlayStation 2, GameCube, Xbox","PS2, GameCube, Xbox",6,73,7.2,0
+AGDQ,2018,Animorphs: Shattered Reality,0,0,0,0,SingleTrac,Infogrames,2000,PlayStation,PlayStation,5,N/A,N/A,0
+AGDQ,2018,Arabian Nights,0,0,0,0,Silmarils,Silmarils,1993,"Amiga, MS-DOS",PC,Various,N/A,N/A,1
+AGDQ,2018,Armed With Wings: Rearmed,0,0,1,1,Sun-Studios,Sun-Studios,2017,PC,PC,Various,N/A,N/A,1
+AGDQ,2018,Athena,0,0,1,1,SNK,SNK,1986,Arcade,Arcade,Various,N/A,N/A,0
+AGDQ,2018,Baldur's Gate 2: Enhanced Edition,0,0,1,0,Overhaul Games,Atari,2013,PC,PC,Various,78,7.8,1
+AGDQ,2018,Batman: Arkham Asylum,0,0,0,0,Rocksteady Studios,Eidos Interactive,2009,"PlayStation 3, Xbox 360, PC","PS3, Xbox 360, PC",7,91,8.7,1
+AGDQ,2018,Batman: The Video Game,0,0,0,0,Sunsoft,Sunsoft,1989,NES,NES,3,N/A,N/A,0
+AGDQ,2018,BattleBlock Theater,0,0,0,0,The Behemoth,Microsoft Studios,2013,Xbox 360,Xbox 360,7,85,8.1,0
+AGDQ,2018,Battletoads,0,0,1,1,Rare,Tradewest,1991,NES,NES,3,N/A,N/A,0
+AGDQ,2018,Battletoads Arcade,0,0,1,0,Rare,Electronic Arts,1994,Arcade,Arcade,Various,N/A,N/A,0
+AGDQ,2018,Blaster Master Zero,0,0,1,0,Inti Creates,Inti Creates,2017,Nintendo Switch,Switch,9,80,7.8,0
+AGDQ,2018,Bloodborne,0,0,0,0,FromSoftware,Sony Computer Entertainment,2015,PlayStation 4,PS4,8,92,8.9,0
+AGDQ,2018,Blood II: The Chosen,0,0,1,0,Monolith Productions,GT Interactive,1998,PC,PC,Various,78,7.5,1
+AGDQ,2018,Bubsy II,0,0,0,0,Accolade,Accolade,1994,"SNES, Genesis","SNES, Sega Genesis",4,N/A,N/A,0
+AGDQ,2018,Burnout Paradise,0,0,1,0,Criterion Games,Electronic Arts,2008,"PlayStation 3, Xbox 360, PC","PS3, Xbox 360, PC",7,88,8.4,1
+AGDQ,2018,Castlevania: Harmony of Dissonance,0,0,1,1,Konami,Konami,2002,Game Boy Advance,Game Boy Advance,6,87,8.5,0
+AGDQ,2018,Castlevania: Symphony of the Night,0,0,0,0,Konami,Konami,1997,PlayStation,PlayStation,5,93,9.1,0
+AGDQ,2018,Cat Quest,0,0,0,0,The Gentlebros,PQube,2017,"iOS, Android, PC","Mobile, PC",Various,78,7.6,1
+AGDQ,2018,Chip 'N Dale: Rescue Rangers,0,0,0,0,Capcom,Capcom,1990,NES,NES,3,N/A,N/A,0
+AGDQ,2018,Cloudbuilt,0,0,0,0,Coilworks,Rising Star Games,2014,PC,PC,Various,73,7.4,1
+AGDQ,2018,Contra,0,0,0,0,Konami,Konami,1987,Arcade,Arcade,Various,N/A,N/A,0
+AGDQ,2018,Contra III: The Alien Wars,0,0,0,0,Konami,Konami,1992,SNES,SNES,4,N/A,N/A,0
+AGDQ,2018,Crash Bandicoot N. Sane Trilogy,0,0,1,1,Vicarious Visions,Activision,2017,PlayStation 4,PS4,8,80,8,0
+AGDQ,2018,Dark Souls 3,1,0,1,1,FromSoftware,Bandai Namco Entertainment,2016,"PlayStation 4, Xbox One, PC","PS4, Xbox One, PC",8,89,8.7,1
+AGDQ,2018,Deadly Towers,0,0,0,0,Lenar,Broderbund,1986,NES,NES,3,N/A,N/A,0
+AGDQ,2018,Densha de D: Lightning Stage,0,0,0,0,N/A,N/A,2010,PC,PC,Various,N/A,N/A,1
+AGDQ,2018,Diablo,0,0,1,1,Blizzard North,Blizzard Entertainment,1996,PC,PC,Various,94,8.9,1
+AGDQ,2018,Dishonored,0,0,1,1,Arkane Studios,Bethesda Softworks,2012,"PlayStation 3, Xbox 360, PC","PS3, Xbox 360, PC",7,91,8.6,1
+AGDQ,2018,Disney's Aladdin,0,0,1,1,Virgin Games,Sega,1993,Genesis,Sega Genesis,4,N/A,N/A,0
+AGDQ,2018,Disney's Toy Story,0,0,0,0,Traveller's Tales,Disney Interactive,1995,"SNES, Genesis","SNES, Sega Genesis",4,N/A,N/A,0
+AGDQ,2018,Dog's Life,0,0,0,0,Frontier Developments,Sony Computer Entertainment,2003,PlayStation 2,PS2,6,67,7.8,0
+AGDQ,2018,Donkey Kong Country,1,0,1,1,Rare,Nintendo,1994,SNES,SNES,4,N/A,N/A,0
+AGDQ,2018,Donkey Kong Country 2: Diddy's Kong Quest,0,0,0,0,Rare,Nintendo,1995,SNES,SNES,4,N/A,N/A,0
+AGDQ,2018,Dragon Warrior,0,0,0,0,Chunsoft,Enix,1986,NES,NES,3,N/A,N/A,0
+AGDQ,2018,Duke Nukem 3D,0,0,1,1,3D Realms,GT Interactive,1996,PC,PC,Various,N/A,N/A,1
+AGDQ,2018,DYE,0,0,0,0,Bat Country Games,Bat Country Games,2016,PC,PC,Various,N/A,N/A,1
+AGDQ,2018,Dying Light,0,0,1,0,Techland,Warner Bros. Interactive Entertainment,2015,"PC, PS4, Xbox One","PC, PS4, Xbox One",8,74,8,1
+AGDQ,2018,Dynamite Headdy,0,0,0,0,Treasure,Sega,1994,Genesis,Sega Genesis,4,N/A,N/A,0
+AGDQ,2018,Earnest Evans,0,0,0,0,Wolf Team,Renovation Products,1991,Genesis,Sega Genesis,4,N/A,N/A,0
+AGDQ,2018,El Matador,0,0,0,0,Plastic Reality Technologies,Cenega Publishing,2006,PC,PC,Various,55,6.5,1
+AGDQ,2018,Enviro-Bear 2000,0,0,1,0,Justin Smith,Captain Games,2009,iOS,Mobile,Various,N/A,N/A,0
+AGDQ,2018,Environmental Station Alpha,0,0,0,0,Hempuli,Hempuli,2015,PC,PC,Various,N/A,N/A,1
+AGDQ,2018,Final Fantasy IV,0,0,1,1,Square,Square,1991,SNES,SNES,4,N/A,N/A,0
+AGDQ,2018,Fire Emblem: The Sacred Stones,0,0,1,0,Intelligent Systems,Nintendo,2004,Game Boy Advance,Game Boy Advance,6,N/A,N/A,0
+AGDQ,2018,F-Zero GX,0,0,0,0,Amusement Vision,Nintendo,2003,GameCube,GameCube,6,89,8.9,0
+AGDQ,2018,Gargoyles,0,0,0,0,Disney Interactive,Buena Vista Interactive,1995,Genesis,Sega Genesis,4,N/A,N/A,0
+AGDQ,2018,Gex 3: Deep Cover Gecko,0,0,0,0,Crystal Dynamics,Eidos Interactive,1999,"PlayStation, Nintendo 64","PlayStation, N64",5,N/A,N/A,0
+AGDQ,2018,Guerrilla War,0,0,0,0,SNK,SNK,1987,Arcade,Arcade,Various,N/A,N/A,0
+AGDQ,2018,Gunners Heaven,0,0,0,0,Media.Vision,Sony Computer Entertainment,1995,PlayStation,PlayStation,5,N/A,N/A,0
+AGDQ,2018,HackyZack,0,0,0,0,Spaceboy Games,Digerati,2017,PC,PC,Various,N/A,N/A,1
+AGDQ,2018,Half-Life: Opposing Force,0,0,0,0,Gearbox Software,Sierra Studios,1999,PC,PC,Various,85,8.9,1
+AGDQ,2018,Halo 5: Guardians,0,0,0,0,343 Industries,Microsoft Studios,2015,Xbox One,Xbox One,8,84,6.4,0
+AGDQ,2018,Hollow Knight,0,0,1,1,Team Cherry,Team Cherry,2017,PC,PC,Various,87,9,1
+AGDQ,2018,Holy Diver,0,0,0,0,Irem,Irem,1989,NES,NES,3,N/A,N/A,0
+AGDQ,2018,Home Alone 2: Lost in New York,0,0,0,0,Imagineering,THQ,1992,"NES, SNES","NES, SNES",3,N/A,N/A,0
+AGDQ,2018,Hyper Light Drifter,0,0,1,1,Heart Machine,Heart Machine,2016,PC,PC,Various,84,7.8,1
+AGDQ,2018,inFAMOUS First Light,0,0,0,0,Sucker Punch Productions,Sony Computer Entertainment,2014,PS4,PS4,8,73,7.4,0
+AGDQ,2018,I wanna be the Boshy,1,0,1,1,"Jesper ""Solgryn"" Erlandsen",N/A,2010,PC,PC,Various,N/A,N/A,1
+AGDQ,2018,I wanna Run the Marathon,0,0,0,0,N/A,N/A,2014,PC,PC,Various,N/A,N/A,1
+AGDQ,2018,Jak and Daxter: The Precursor Legacy,0,0,0,0,Naughty Dog,Sony Computer Entertainment,2001,PlayStation 2,PS2,6,90,8.9,0
+AGDQ,2018,Journey to Silius,0,0,0,0,Sunsoft,Sunsoft,1990,NES,NES,3,N/A,N/A,0
+AGDQ,2018,Kamiko,0,0,0,0,Skipmore,Flyhigh Works,2017,Nintendo Switch,Switch,9,70,7.2,0
+AGDQ,2018,Kid Icarus,0,0,0,0,Nintendo R&D1,Nintendo,1986,NES,NES,3,N/A,N/A,0
+AGDQ,2018,Kingdom Hearts: Birth by Sleep Final Mix HD,0,0,1,0,Square Enix,Square Enix,2014,PlayStation 3,PS3,7,N/A,N/A,0
+AGDQ,2018,Kirby: Canvas Curse,0,0,0,0,HAL Laboratory,Nintendo,2005,Nintendo DS,Nintendo DS,6,86,8.5,0
+AGDQ,2018,Left 4 Dead 2,0,0,1,1,Valve,Valve,2009,"PC, Xbox 360","PC, Xbox 360",7,89,8.4,1
+AGDQ,2018,LittleBigPlanet 2,0,0,0,0,Media Molecule,Sony Computer Entertainment,2011,PlayStation 3,PS3,7,91,8.7,0
+AGDQ,2018,Little Nemo: The Dream Master,0,0,0,0,Capcom,Capcom,1990,NES,NES,3,N/A,N/A,0
+AGDQ,2018,Lovely Planet,0,0,0,0,QUICKTEQUILA,tinyBuild,2014,PC,PC,Various,70,7,1
+AGDQ,2018,Magical Pop'n,0,0,0,0,Polestar,Pack-In-Video,1995,Super Famicom,SNES,4,N/A,N/A,0
+AGDQ,2018,Mario & Luigi: Superstar Saga,0,0,0,0,AlphaDream,Nintendo,2003,Game Boy Advance,Game Boy Advance,6,90,9,0
+AGDQ,2018,Mass Effect,0,0,1,0,BioWare,Microsoft Game Studios,2007,Xbox 360,Xbox 360,7,91,8.5,0
+AGDQ,2018,Mega Man 1 - 3 Team Relay Race,0,0,0,0,Capcom,Capcom,1987,NES,NES,3,N/A,N/A,0
+AGDQ,2018,Mega Man X,0,0,0,0,Capcom,Capcom,1993,SNES,SNES,4,N/A,N/A,0
+AGDQ,2018,Mega Man X4,0,0,0,0,Capcom,Capcom,1997,"PlayStation, Sega Saturn","PlayStation, Sega Saturn",5,N/A,N/A,0
+AGDQ,2018,Mega Man Zero 3,0,0,0,0,Inti Creates,Capcom,2004,Game Boy Advance,Game Boy Advance,6,N/A,N/A,0
+AGDQ,2018,Metal Gear Solid,0,0,1,0,Konami,Konami,1998,PlayStation,PlayStation,5,94,9,0
+AGDQ,2018,Metal Gear Solid 3: Snake Eater,0,0,1,1,Konami,Konami,2004,PlayStation 2,PS2,6,91,9.1,0
+AGDQ,2018,Metroid,0,0,1,0,Nintendo R&D1,Nintendo,1986,NES,NES,3,N/A,N/A,0
+AGDQ,2018,Metroid Prime 3: Corruption,0,0,0,0,Retro Studios,Nintendo,2007,Wii,Wii,7,90,8.9,0
+AGDQ,2018,Mike Tyson's Punch-Out!! + Super Punch-Out!!,1,0,1,1,Nintendo,Nintendo,1987,"NES, SNES","NES, SNES",3,N/A,N/A,0
+AGDQ,2018,Mitsume Ga Tooru,0,0,0,0,Tom Create,Natsume,1992,NES,NES,3,N/A,N/A,0
+AGDQ,2018,Ori and the Blind Forest: Definitive Edition,0,0,1,1,Moon Studios,Microsoft Studios,2016,"PC, Xbox One","PC, Xbox One",8,88,8.9,1
+AGDQ,2018,Owlboy,0,0,0,0,D-Pad Studio,D-Pad Studio,2016,PC,PC,Various,88,8.1,1
+AGDQ,2018,Pac-Man World 2,0,0,0,0,Namco,Namco,2002,"PlayStation 2, GameCube, Xbox","PS2, GameCube, Xbox",6,73,7.8,0
+AGDQ,2018,Panic Restaurant,0,0,0,0,EIM,Taito,1992,NES,NES,3,N/A,N/A,0
+AGDQ,2018,Pokemon Black/White Version 2,0,0,1,0,Game Freak,Nintendo,2012,Nintendo DS,Nintendo DS,6,80,8.5,0
+AGDQ,2018,Pop'n Twinbee: Rainbow Bell Adventures,0,0,0,0,Konami,Konami,1994,Super Famicom,SNES,4,N/A,N/A,0
+AGDQ,2018,Prey,0,0,0,0,Arkane Studios,Bethesda Softworks,2017,"PC, PlayStation 4, Xbox One","PC, PS4, Xbox One",8,82,7.8,1
+AGDQ,2018,Princess Rescue,0,0,0,0,Chris Spry,AtariAge,2013,Atari 2600,Atari 2600,2,N/A,N/A,0
+AGDQ,2018,"Prinny 2: Dawn of Operation Panties, Dood!",0,0,0,0,Nippon Ichi Software,NIS America,2010,PlayStation Portable,PSP,6,70,7.5,0
+AGDQ,2018,Quantum Conundrum,0,0,0,0,Airtight Games,Square Enix,2012,PC,PC,Various,76,7.1,1
+AGDQ,2018,Ratchet & Clank,0,0,0,0,Insomniac Games,Sony Computer Entertainment,2002,PlayStation 2,PS2,6,88,8.9,0
+AGDQ,2018,Rayman,0,0,0,0,Ubisoft Montpellier,Ubisoft,1995,"Atari Jaguar, PlayStation","Atari Jaguar, PlayStation",5,N/A,N/A,0
+AGDQ,2018,Resident Evil 3: Nemesis,0,0,0,0,Capcom,Capcom,1999,PlayStation,PlayStation,5,79,8.5,0
+AGDQ,2018,Resident Evil 7 biohazard,0,0,0,0,Capcom,Capcom,2017,"PlayStation 4, Xbox One, PC","PS4, Xbox One, PC",8,86,8.1,1
+AGDQ,2018,Rex Ronan: Experimental Surgeon,0,0,0,0,Sculptured Software,Raya Systems,1994,SNES,SNES,4,N/A,N/A,0
+AGDQ,2018,Risk of Rain,0,0,1,1,Hopoo Games,Chucklefish,2013,PC,PC,Various,77,8,1
+AGDQ,2018,Ristar,0,0,0,0,Sonic Team,Sega,1995,Genesis,Sega Genesis,4,N/A,N/A,0
+AGDQ,2018,Rockman & Forte,0,0,0,0,Capcom,Capcom,1998,Super Famicom,SNES,4,N/A,N/A,0
+AGDQ,2018,Secret of Evermore,0,0,1,1,Square,Square,1995,SNES,SNES,4,N/A,N/A,0
+AGDQ,2018,Serious Sam 3: BFE,0,0,0,0,Croteam,Devolver Digital,2011,PC,PC,Various,72,7.5,1
+AGDQ,2018,Silent Hill,0,0,0,0,Konami,Konami,1999,PlayStation,PlayStation,5,86,9,0
+AGDQ,2018,Snake Rattle 'n Roll,0,0,0,0,Rare,Nintendo,1990,NES,NES,3,N/A,N/A,0
+AGDQ,2018,Sonic Advance 3,0,0,0,0,Dimps,Sega,2004,Game Boy Advance,Game Boy Advance,6,77,8.2,0
+AGDQ,2018,Sonic Adventure 2: Battle,0,0,0,0,Sonic Team,Sega,2001,Dreamcast,Dreamcast,6,89,8.6,0
+AGDQ,2018,Sonic Mania,0,0,0,0,"Christian Whitehead, Headcannon, PagodaWest Games",Sega,2017,"PlayStation 4, Xbox One, Nintendo Switch, PC","PS4, Xbox One, Nintendo Switch, PC",8,86,8.6,1
+AGDQ,2018,Spelunky,0,0,1,1,Mossmouth,Mossmouth,2008,PC,PC,Various,N/A,N/A,1
+AGDQ,2018,Spider-Man 3: Invasion of the Spider-Slayers,0,0,0,0,B.I.T.S.,Acclaim Entertainment,1993,Game Boy,Game Boy,3,N/A,N/A,0
+AGDQ,2018,Splatoon 2,0,0,1,1,Nintendo EPD,Nintendo,2017,Nintendo Switch,Switch,9,83,8.2,0
+AGDQ,2018,Star Fox 2,0,0,0,0,Nintendo EAD,Nintendo,2017,SNES Classic Edition,SNES,4,N/A,N/A,0
+AGDQ,2018,Star Wars: Jedi Knight - Jedi Academy,0,0,1,1,Raven Software,LucasArts,2003,PC,PC,Various,81,8.9,1
+AGDQ,2018,Strider,0,0,0,0,Double Helix Games,Capcom,2014,"PlayStation 3, PlayStation 4, Xbox 360, Xbox One, PC","PS3, PS4, Xbox 360, Xbox One, PC",7,77,7.5,1
+AGDQ,2018,Sub-Terrania,0,0,0,0,Zyrinx,Sega,1994,Genesis,Sega Genesis,4,N/A,N/A,0
+AGDQ,2018,Super Dram World 2,1,0,1,1,PangaeaPanga,N/A,2017,SNES (ROM hack),SNES,4,N/A,N/A,0
+AGDQ,2018,Super Lovely Planet,0,0,0,0,QUICKTEQUILA,tinyBuild,2017,PC,PC,Various,N/A,N/A,1
+AGDQ,2018,Superman 64,1,0,1,1,Titus Interactive,Titus Interactive,1999,Nintendo 64,N64,5,23,1.3,0
+AGDQ,2018,Super Mario 3D World,0,0,1,1,Nintendo EAD Tokyo,Nintendo,2013,Wii U,Wii U,8,93,8.8,0
+AGDQ,2018,Super Mario Galaxy,0,0,1,0,Nintendo EAD Tokyo,Nintendo,2007,Wii,Wii,7,97,9,0
+AGDQ,2018,Super Mario Land 2: 6 Golden Coins,0,0,0,0,Nintendo R&D1,Nintendo,1992,Game Boy,Game Boy,3,N/A,N/A,0
+AGDQ,2018,Super Mario Sunshine,0,0,0,0,Nintendo EAD,Nintendo,2002,GameCube,GameCube,6,92,8.5,0
+AGDQ,2018,Super Mario World,0,0,0,0,Nintendo EAD,Nintendo,1990,SNES,SNES,4,N/A,N/A,0
+AGDQ,2018,Super Mario World 2: Yoshi's Island,0,0,1,1,Nintendo EAD,Nintendo,1995,SNES,SNES,4,N/A,N/A,0
+AGDQ,2018,Super Monkey Ball,0,0,1,1,Amusement Vision,Sega,2001,GameCube,GameCube,6,87,8.6,0
+AGDQ,2018,TAIKER,0,0,1,1,Team 4U,Team 4U,2017,PC,PC,Various,N/A,N/A,1
+AGDQ,2018,TASBot vs Super Monkey Ball,1,1,1,1,Amusement Vision,Sega,2001,GameCube,GameCube,6,87,8.6,0
+AGDQ,2018,Teenage Mutant Ninja Turtles,0,0,0,0,Konami,Konami,1989,NES,NES,3,N/A,N/A,0
+AGDQ,2018,Teenage Mutant Ninja Turtles: The Hyperstone Heist,0,0,0,0,Konami,Konami,1992,Genesis,Sega Genesis,4,N/A,N/A,0
+AGDQ,2018,The Addams Family,0,0,0,0,Ocean Software,Ocean Software,1992,Various,Various,Various,N/A,N/A,0
+AGDQ,2018,The Blues Brothers,0,0,0,0,Titus Interactive,Titus Interactive,1991,Various,Various,Various,N/A,N/A,0
+AGDQ,2018,The Elder Scrolls V: Skyrim,0,0,0,0,Bethesda Game Studios,Bethesda Softworks,2011,"PC, PS3, Xbox 360","PC, PS3, Xbox 360",7,94,8.5,1
+AGDQ,2018,The End Is Nigh,0,0,0,0,"Edmund McMillen, Tyler Glaiel",Edmund McMillen,2017,PC,PC,Various,84,7.8,1
+AGDQ,2018,The Legend of the Mystical Ninja,0,0,0,0,Konami,Konami,1991,SNES,SNES,4,N/A,N/A,0
+AGDQ,2018,The Legend of Zelda,0,0,0,0,Nintendo R&D4,Nintendo,1986,NES,NES,3,N/A,N/A,0
+AGDQ,2018,The Legend of Zelda: A Link to the Past,0,0,1,1,Nintendo EAD,Nintendo,1991,SNES,SNES,4,N/A,N/A,0
+AGDQ,2018,The Legend of Zelda: Breath of the Wild,0,0,1,1,Nintendo EPD,Nintendo,2017,"Switch, Wii U","Switch, Wii U",8,97,8.7,0
+AGDQ,2018,The Legend of Zelda: Ocarina of Time,0,0,1,1,Nintendo EAD,Nintendo,1998,N64,N64,5,N/A,N/A,0
+AGDQ,2018,The Simpsons: Bart vs. the Space Mutants,0,0,0,0,Imagineering,Acclaim Entertainment,1991,NES,NES,3,N/A,N/A,0
+AGDQ,2018,Tinertia,0,0,0,0,Candescent Games,Candescent Games,2015,PC,PC,Various,N/A,N/A,1
+AGDQ,2018,Tintin in Tibet,0,0,1,1,Infogrames,Infogrames,1995,"SNES, Genesis","SNES, Sega Genesis",4,N/A,N/A,0
+AGDQ,2018,Titenic,0,0,0,0,Hummer Team,N/A,1997,NES (unlicensed),NES,3,N/A,N/A,0
+AGDQ,2018,Turok 2: Seeds of Evil Remastered,0,0,0,0,Nightdive Studios,Nightdive Studios,2017,PC,PC,Various,79,7.8,1
+AGDQ,2018,Ultima VI: The False Prophet,0,0,1,0,Origin Systems,Origin Systems,1990,PC,PC,Various,N/A,N/A,1
+AGDQ,2018,Umihara Kawase,0,0,0,0,TNN,TNN,1994,SNES,SNES,4,N/A,N/A,0
+AGDQ,2018,Warcraft III: Reign of Chaos,0,0,0,0,Blizzard Entertainment,Blizzard Entertainment,2002,PC,PC,Various,92,8.9,1
+AGDQ,2018,Wario Land 4,0,0,0,0,Nintendo R&D1,Nintendo,2001,Game Boy Advance,Game Boy Advance,6,N/A,N/A,0
+AGDQ,2018,Wario's Woods,0,0,0,0,Nintendo R&D1,Nintendo,1994,"NES, SNES","NES, SNES",3,N/A,N/A,0
+AGDQ,2018,WaveLand,0,0,0,0,Thomas Janson,Thomas Janson,2015,PC,PC,Various,N/A,N/A,1
+AGDQ,2018,Wizards & Warriors,0,0,1,1,Rare,Acclaim Entertainment,1987,NES,NES,3,N/A,N/A,0
+AGDQ,2018,Wonder Boy: The Dragon's Trap,0,0,0,0,Lizardcube,DotEmu,2017,"PC, PS4, Xbox One, Switch","PC, PS4, Xbox One, Switch",8,79,7.9,1
+AGDQ,2018,Yooka-Laylee,0,0,0,0,Playtonic Games,Team17,2017,"PC, PS4, Xbox One, Switch","PC, PS4, Xbox One, Switch",8,73,6.8,1
+AGDQ,2018,Zone of the Enders: The 2nd Runner,0,0,0,0,Konami,Konami,2003,PS2,PS2,6,82,8.5,0
+SGDQ,2018,Mega Man X2,1,0,1,1,Capcom,Capcom,1994,Super Nintendo Entertainment System,SNES,4,N/A,N/A,0
+SGDQ,2018,Sonic 3 and Knuckles,1,0,1,1,Sega Technical Institute,Sega,1994,Sega Genesis,Sega Genesis,4,N/A,N/A,0
+SGDQ,2018,Super Monkey Ball 2: Monkeyed Ball,1,0,1,1,Twilight,N/A,2018,Nintendo GameCube (ROM Hack),Nintendo GameCube,6,N/A,N/A,N/A
+SGDQ,2018,Thief: The Dark Project,0,0,0,0,Looking Glass Studios,Eidos Interactive,1998,Windows,PC,Various,92,8.9,1
+SGDQ,2018,Super Mario 3D Land,0,0,0,0,Nintendo EAD Tokyo,Nintendo,2011,Nintendo 3DS,Nintendo 3DS,7,90,8.5,0
+SGDQ,2018,Cuphead,0,0,1,1,Studio MDHR,Studio MDHR,2017,"Xbox One, Windows","Xbox One, PC",8,86,8.2,1
+SGDQ,2018,A Hat in Time,0,0,0,0,Gears for Breakfast,Gears for Breakfast,2017,"Windows, macOS",PC,Various,79,8.1,1
+SGDQ,2018,Celeste,0,0,0,0,Maddy Makes Games,Maddy Makes Games,2018,"PlayStation 4, Xbox One, Nintendo Switch, Windows","PS4, Xbox One, Switch, PC",8,94,8.5,1
+SGDQ,2018,Pepsiman,1,0,1,1,KID,KID,1999,PlayStation,PlayStation,5,N/A,N/A,0
+SGDQ,2018,Getting Over It with Bennett Foddy,0,0,0,0,Bennett Foddy,Bennett Foddy,2017,"Windows, macOS, Linux",PC,Various,80,7.2,1
+SGDQ,2018,Miner Ultra Adventures,0,0,0,0,Old School Blender Addicted,Old School Blender Addicted,2014,Windows,PC,Various,N/A,N/A,1
+SGDQ,2018,Roundabout,0,0,0,0,No Goblin,No Goblin,2014,"Windows, Xbox One, PlayStation 4","PC, Xbox One, PS4",8,71,6.8,1
+SGDQ,2018,Stilt Fella,0,0,0,0,September Games,September Games,2020,Windows,PC,Various,N/A,N/A,1
+SGDQ,2018,Club Drive,0,0,0,0,Atari Corporation,Atari Corporation,1994,Atari Jaguar,Atari Jaguar,5,N/A,N/A,0
+SGDQ,2018,Bio Miracle Bokutte Upa,0,0,0,0,Konami,Konami,1988,Famicom Disk System,NES,3,N/A,N/A,0
+SGDQ,2018,Yo! Noid 2,0,0,1,1,Team Noid,N/A,2017,Windows,PC,Various,N/A,N/A,1
+SGDQ,2018,Jungle King Tar-chan: World Tour Rumble,0,0,0,0,Bandai,Bandai,1994,Super Famicom,SNES,4,N/A,N/A,0
+SGDQ,2018,Pac-Man 2: The New Adventures,0,0,0,0,Namco,Namco,1994,"Super Nintendo Entertainment System, Sega Genesis","SNES, Sega Genesis",4,N/A,N/A,0
+SGDQ,2018,Silver Grapple,0,0,0,0,Imagos Softworks,Imagos Softworks,2018,Windows,PC,Various,N/A,N/A,1
+SGDQ,2018,Gift,0,0,0,0,Eko Software,Cryo Interactive,1999,Windows,PC,Various,N/A,N/A,1
+SGDQ,2018,El Viento,0,0,0,0,Wolf Team,Renovation Products,1991,Sega Genesis,Sega Genesis,4,N/A,N/A,0
+SGDQ,2018,Xeodrifter,0,0,0,0,Renegade Kid,Renegade Kid,2014,Nintendo 3DS,Nintendo 3DS,7,73,7.2,0
+SGDQ,2018,Titan Souls,0,0,0,0,Acid Nerve,Devolver Digital,2015,"PlayStation 4, PlayStation Vita, Windows","PS4, PlayStation Vita, PC",8,74,7.3,1
+SGDQ,2018,A Story About my Uncle,0,0,1,1,Gone North Games,Coffee Stain Studios,2014,Windows,PC,Various,73,7.8,1
+SGDQ,2018,Strider,0,0,0,0,Double Helix Games,Capcom,2014,"PlayStation 3, PlayStation 4, Xbox 360, Xbox One, Windows","PS3, PS4, Xbox 360, Xbox One, PC",7,77,7.5,1
+SGDQ,2018,The Legend of Zelda,0,0,1,0,Nintendo,Nintendo,1986,Nintendo Entertainment System,NES,3,N/A,N/A,0
+SGDQ,2018,The Legend of Zelda: Oracle of Seasons,0,0,1,0,Flagship,Nintendo,2001,Game Boy Color,Game Boy Color,5,N/A,N/A,0
+SGDQ,2018,Paper Mario,0,0,1,1,Intelligent Systems,Nintendo,2000,Nintendo 64,N64,5,N/A,N/A,0
+SGDQ,2018,DeadCore,0,0,0,0,5 Bits Games,Bandai Namco Games,2014,"Windows, macOS, Linux",PC,Various,70,7.2,1
+SGDQ,2018,Deus Ex,0,0,1,1,Ion Storm,Eidos Interactive,2000,Windows,PC,Various,90,9,1
+SGDQ,2018,Deus Ex Mankind Divided,0,0,1,1,Eidos-Montréal,Square Enix,2016,"PlayStation 4, Xbox One, Windows","PS4, Xbox One, PC",8,84,7.1,1
+SGDQ,2018,Prey (2017),0,0,1,0,Arkane Studios,Bethesda Softworks,2017,"PlayStation 4, Xbox One, Windows","PS4, Xbox One, PC",8,82,7.8,1
+SGDQ,2018,Gunstar Super Heroes,0,0,0,0,Treasure,Sega,2005,Game Boy Advance,Game Boy Advance,6,83,8.2,0
+SGDQ,2018,Gauntlet Legends,0,0,1,0,Atari Games,Midway Games,1998,Arcade,Arcade,Various,N/A,N/A,0
+SGDQ,2018,Dungeon Magic,0,0,0,0,Taito,Taito,1989,Arcade,Arcade,Various,N/A,N/A,0
+SGDQ,2018,Super Smash TV,0,0,0,0,Williams Electronics,Acclaim Entertainment,1990,Arcade,Arcade,Various,N/A,N/A,0
+SGDQ,2018,Hagane: The Final Conflict,0,0,0,0,CAProduction,Red Entertainment,1994,Super Nintendo Entertainment System,SNES,4,N/A,N/A,0
+SGDQ,2018,Animaniacs,0,0,0,0,Konami,Konami,1994,"Super Nintendo Entertainment System, Sega Genesis","SNES, Sega Genesis",4,N/A,N/A,0
+SGDQ,2018,Ardy Lightfoot,0,0,0,0,ASCII Corporation,ASCII Corporation,1993,Super Nintendo Entertainment System,SNES,4,N/A,N/A,0
+SGDQ,2018,Cool Spot,0,0,0,0,Virgin Games,Virgin Games,1993,"Sega Genesis, Super Nintendo Entertainment System","Sega Genesis, SNES",4,N/A,N/A,0
+SGDQ,2018,Sparkster,0,0,0,0,Konami,Konami,1994,"Sega Genesis, Super Nintendo Entertainment System","Sega Genesis, SNES",4,N/A,N/A,0
+SGDQ,2018,Rocket Knight Adventures,0,0,0,0,Konami,Konami,1993,Sega Genesis,Sega Genesis,4,N/A,N/A,0
+SGDQ,2018,Disgaea 5: Alliance of Vengeance,0,0,1,1,Nippon Ichi Software,Nippon Ichi Software,2015,PlayStation 4,PS4,8,80,7.8,0
+SGDQ,2018,Pikmin 3,0,0,1,1,Nintendo EAD,Nintendo,2013,Wii U,Wii U,8,87,8.5,0
+SGDQ,2018,Soft Body,0,0,0,0,Zeke Virant,Zeke Virant,2016,"PlayStation 4, Windows","PS4, PC",8,80,7,1
+SGDQ,2018,Monolith,0,0,0,0,Team D-13,Team D-13,2017,Windows,PC,Various,N/A,N/A,1
+SGDQ,2018,Master Spy,0,0,0,0,TURBOGUN,TURBOGUN,2015,"Windows, macOS, Linux",PC,Various,N/A,N/A,1
+SGDQ,2018,Enter The Gungeon,0,0,1,1,Dodge Roll,Devolver Digital,2016,"PlayStation 4, Windows, macOS, Linux","PS4, PC",8,84,8.1,1
+SGDQ,2018,Dustforce DX,0,0,0,0,Hitbox Team,Hitbox Team,2012,"Windows, macOS, Linux",PC,Various,79,7.9,1
+SGDQ,2018,Axiom Verge,0,0,0,0,Thomas Happ Games,Thomas Happ Games,2015,"PlayStation 4, Windows","PS4, PC",8,84,8.1,1
+SGDQ,2018,Mega Man 6,0,0,0,0,Capcom,Capcom,1993,Nintendo Entertainment System,NES,3,N/A,N/A,0
+SGDQ,2018,Mega Man 9,0,0,0,0,Inti Creates,Capcom,2008,Wii,Wii,7,82,8,0
+SGDQ,2018,Mega Man Zero 4,0,0,0,0,Inti Creates,Capcom,2005,Game Boy Advance,Game Boy Advance,6,N/A,N/A,0
+SGDQ,2018,Rise of the Tomb Raider,0,0,0,0,Crystal Dynamics,Square Enix,2015,Xbox One,Xbox One,8,86,8.5,0
+SGDQ,2018,Tomb Raider,0,0,0,0,Crystal Dynamics,Square Enix,2013,"PlayStation 3, Xbox 360, Windows","PS3, Xbox 360, PC",7,86,8.1,1
+SGDQ,2018,Resident Evil HD Remaster,0,0,1,1,Capcom,Capcom,2015,"PlayStation 3, PlayStation 4, Xbox 360, Xbox One, Windows","PS3, PS4, Xbox 360, Xbox One, PC",7,83,8.5,1
+SGDQ,2018,F.E.A.R.,0,0,0,0,Monolith Productions,Vivendi Universal Games,2005,Windows,PC,Various,88,8.8,1
+SGDQ,2018,Penumbra: Overture,0,0,0,0,Frictional Games,Paradox Interactive,2007,"Windows, Linux",PC,Various,73,7.8,1
+SGDQ,2018,Amy,0,0,0,0,VectorCell,Lexis Numérique,2012,"PlayStation 3, Xbox 360, Windows","PS3, Xbox 360, PC",7,25,3.4,1
+SGDQ,2018,Pet the Pup at the Party,0,0,0,0,Will Herring,Will Herring,2018,"Windows, macOS",PC,Various,N/A,N/A,1
+SGDQ,2018,FreezeMe,0,0,0,0,Rainy Night Creations,Rainy Night Creations,2015,"Wii U, Windows","Wii U, PC",8,N/A,N/A,1
+SGDQ,2018,Legend of Kay Anniversary,0,0,0,0,Neon Studios,Nordic Games,2015,"PlayStation 3, PlayStation 4, Wii U, Windows","PS3, PS4, Wii U, PC",7,67,7.1,1
+SGDQ,2018,The Simpsons: Hit & Run,0,0,1,0,Radical Entertainment,Vivendi Universal Games,2003,"PlayStation 2, Xbox, GameCube, Windows","PS2, Xbox, GameCube, PC",6,78,8.6,1
+SGDQ,2018,Bonk's Revenge,0,0,0,0,Red Company,Hudson Soft,1991,TurboGrafx-16,TurboGrafx-16,4,N/A,N/A,0
+SGDQ,2018,Splatterhouse,0,0,0,0,Namco,Namco,1988,Arcade,Arcade,Various,N/A,N/A,0
+SGDQ,2018,Banjo-Tooie,0,0,0,0,Rare,Nintendo,2000,Nintendo 64,N64,5,90,8.9,0
+SGDQ,2018,Spyro the Dragon,0,0,0,0,Insomniac Games,Sony Computer Entertainment,1998,PlayStation,PlayStation,5,N/A,N/A,0
+SGDQ,2018,Iconoclasts,0,0,0,0,Joakim Sandberg,Bifrost Entertainment,2018,"PlayStation 4, PlayStation Vita, Windows","PS4, PlayStation Vita, PC",8,82,7.8,1
+SGDQ,2018,Kirby: Super Star Ultra,0,0,0,0,HAL Laboratory,Nintendo,2008,Nintendo DS,Nintendo DS,6,76,8.8,0
+SGDQ,2018,Shantae and the Pirate's Curse,0,0,1,1,WayForward,WayForward,2014,Nintendo 3DS,Nintendo 3DS,7,82,8.5,0
+SGDQ,2018,Warcraft III: Reign of Chaos,0,0,0,0,Blizzard Entertainment,Blizzard Entertainment,2002,Windows,PC,Various,92,9.2,1
+SGDQ,2018,The Legend of Zelda: Majora's Mask 3D,0,0,0,0,Nintendo EAD,Nintendo,2015,Nintendo 3DS,Nintendo 3DS,7,89,8.9,0
+SGDQ,2018,DOOM (2016),0,0,0,0,id Software,Bethesda Softworks,2016,"PlayStation 4, Xbox One, Windows","PS4, Xbox One, PC",8,85,8.5,1
+SGDQ,2018,Resident Evil 4,0,0,1,1,Capcom Production Studio 4,Capcom,2005,GameCube,GameCube,6,96,9.2,0
+SGDQ,2018,Ninja Gaiden Black,0,0,0,0,Team Ninja,Tecmo,2005,Xbox,Xbox,6,94,9,0
+SGDQ,2018,Ninja Gaiden,0,0,0,0,Tecmo,Tecmo,1988,Nintendo Entertainment System,NES,3,N/A,N/A,0
+SGDQ,2018,Gimmick!,0,0,1,1,Sunsoft,Sunsoft,1992,Famicom,NES,3,N/A,N/A,0
+SGDQ,2018,Ghosts 'N Goblins,0,0,0,0,Capcom,Capcom,1985,Arcade,Arcade,Various,N/A,N/A,0
+SGDQ,2018,Wacky Races,0,0,0,0,Atlus,Atlus,1991,Nintendo Entertainment System,NES,3,N/A,N/A,0
+SGDQ,2018,Kid Kool,0,0,0,0,Vic Tokai,Vic Tokai,1988,Nintendo Entertainment System,NES,3,N/A,N/A,0
+SGDQ,2018,Pizza Pop!,0,0,0,0,Arc System Works,Arc System Works,1992,Famicom,NES,3,N/A,N/A,0
+SGDQ,2018,Bangai-O!,0,0,0,0,Treasure,ESP Software,1999,"Nintendo 64, Dreamcast","N64, Dreamcast",5,N/A,N/A,0
+SGDQ,2018,Super Mario Bros.,0,0,1,1,Nintendo,Nintendo,1985,Nintendo Entertainment System,NES,3,N/A,N/A,0
+SGDQ,2018,Super Mario Bros. 3,0,0,0,0,Nintendo,Nintendo,1988,Nintendo Entertainment System,NES,3,N/A,N/A,0
+SGDQ,2018,Super Mario World,0,0,1,1,Nintendo,Nintendo,1990,Super Nintendo Entertainment System,SNES,4,N/A,N/A,0
+SGDQ,2018,Mario Kart 8 Deluxe,0,0,1,1,Nintendo,Nintendo,2017,Nintendo Switch,Switch,9,92,8.5,0
+SGDQ,2018,Half-Life,1,0,1,1,Valve,Sierra Studios,1998,Windows,PC,Various,96,9.1,1
+SGDQ,2018,Wave Race: Blue Storm,0,0,0,0,Nintendo Software Technology,Nintendo,2001,GameCube,GameCube,6,82,8.2,0
+SGDQ,2018,Runbow,0,0,1,0,13AM Games,13AM Games,2015,"Wii U, Windows","Wii U, PC",8,82,7.8,1
+SGDQ,2018,Borderlands: the Pre-Sequel!,0,0,1,1,2K Australia,2K Games,2014,"PlayStation 3, Xbox 360, Windows","PS3, Xbox 360, PC",7,75,6.8,1
+SGDQ,2018,Bionic Commando,0,0,1,1,Capcom,Capcom,1987,Nintendo Entertainment System,NES,3,N/A,N/A,0
+SGDQ,2018,Bound,0,0,0,0,Plastic,Sony Interactive Entertainment,2016,PlayStation 4,PS4,8,71,6.8,0
+SGDQ,2018,Bionic Commando Rearmed 2,0,0,1,1,Fatshark,Capcom,2011,"PlayStation 3, Xbox 360","PS3, Xbox 360",7,62,5.9,0
+SGDQ,2018,TASBot Plays Celeste,1,1,1,1,Maddy Makes Games,Maddy Makes Games,2018,"PlayStation 4, Xbox One, Nintendo Switch, Windows","PS4, Xbox One, Switch, PC",8,94,8.5,1
+SGDQ,2018,Kirby's Adventure,0,0,1,1,HAL Laboratory,Nintendo,1993,Nintendo Entertainment System,NES,3,N/A,N/A,0
+SGDQ,2018,The Legend of Zelda: Ocarina of Time,0,0,1,0,Nintendo EAD,Nintendo,1998,Nintendo 64,N64,5,99,9.1,0
+SGDQ,2018,Kid Chameleon,0,0,0,0,Sega Technical Institute,Sega,1992,Sega Genesis,Sega Genesis,4,N/A,N/A,0
+SGDQ,2018,Castlevania,0,0,0,0,Konami,Konami,1986,Nintendo Entertainment System,NES,3,N/A,N/A,0
+SGDQ,2018,Castlevania III,0,0,0,0,Konami,Konami,1989,Nintendo Entertainment System,NES,3,N/A,N/A,0
+SGDQ,2018,Castlevania: Bloodlines,0,0,1,0,Konami,Konami,1994,Sega Genesis,Sega Genesis,4,N/A,N/A,0
+SGDQ,2018,Castlevania: Circle of the Moon,0,0,1,0,Konami Computer Entertainment Kobe,Konami,2001,Game Boy Advance,Game Boy Advance,6,N/A,N/A,0
+SGDQ,2018,Dragon Warrior III,0,0,1,1,Chunsoft,Enix,1988,Nintendo Entertainment System,NES,3,N/A,N/A,0
+SGDQ,2018,Sonic Adventure DX: Director's Cut,0,0,0,0,Sonic Team,Sega,2003,"GameCube, Windows","GameCube, PC",6,57,6.8,1
+SGDQ,2018,Sonic Spinball,0,0,0,0,Sega Technical Institute,Sega,1993,Sega Genesis,Sega Genesis,4,N/A,N/A,0
+SGDQ,2018,Sonic the Hedgehog 2,0,0,0,0,Sega Technical Institute,Sega,1992,Sega Genesis,Sega Genesis,4,N/A,N/A,0
+SGDQ,2018,Metroid: Zero Mission,0,0,0,0,Nintendo R&D1,Nintendo,2004,Game Boy Advance,Game Boy Advance,6,89,9,0
+SGDQ,2018,Metroid Samus Returns,0,0,0,0,"MercurySteam, Nintendo EPD",Nintendo,2017,Nintendo 3DS,Nintendo 3DS,7,85,8.6,0
+SGDQ,2018,Super Metroid,0,0,0,0,Nintendo R&D1,Nintendo,1994,Super Nintendo Entertainment System,SNES,4,N/A,N/A,0
+SGDQ,2018,Halo 2,0,0,0,0,Bungie,Microsoft Game Studios,2004,Xbox,Xbox,6,95,8.7,0
+SGDQ,2018,The Legend of Zelda: Skyward Sword,0,0,1,1,Nintendo EAD,Nintendo,2011,Wii,Wii,7,93,8.1,0
+SGDQ,2018,Splatterhouse 2,0,0,0,0,Now Production,Namco,1992,Sega Genesis,Sega Genesis,4,N/A,N/A,0
+SGDQ,2018,Wiz 'n' Liz: The Frantic Wabbit Wescue,0,0,0,0,Raising Hell Software,Psygnosis,1993,Sega Genesis,Sega Genesis,4,N/A,N/A,0
+SGDQ,2018,Sylvan Tale,0,0,1,1,Sega,Sega,1995,Game Gear,Sega Game Gear,4,N/A,N/A,0
+SGDQ,2018,Super Monkey Ball 2,0,0,1,0,Amusement Vision,Sega,2002,GameCube,GameCube,6,87,8.8,0
+SGDQ,2018,Spider-Man: Web of Fire,0,0,0,0,BlueSky Software,Sega,1996,Sega 32X,Sega Genesis,4,N/A,N/A,0
+SGDQ,2018,Spider-Man & Venom's Maximum Carnage,0,0,0,0,Software Creations,Acclaim Entertainment,1994,"Super Nintendo Entertainment System, Sega Genesis","SNES, Sega Genesis",4,N/A,N/A,0
+SGDQ,2018,Batman Returns,0,0,0,0,Konami,Konami,1992,Super Nintendo Entertainment System,SNES,4,N/A,N/A,0
+SGDQ,2018,Contra: Shattered Soldier,0,0,0,0,Konami,Konami,2002,PlayStation 2,PS2,6,75,7.8,0
+SGDQ,2018,High Hell,0,0,1,1,"Terri Vellmann, Doseone",Devolver Digital,2017,Windows,PC,Various,74,7,1
+SGDQ,2018,Shadow Warrior Classic Redux,0,0,0,0,General Arcade,Devolver Digital,2013,Windows,PC,Various,74,7.5,1
+SGDQ,2018,Sublevel Zero Redux,0,0,0,0,Sigtrap Games,Merge Games,2016,"Windows, macOS, Linux",PC,Various,70,7,1
+SGDQ,2018,Metal Gear Solid: The Twin Snakes,0,0,1,0,Silicon Knights,Konami,2004,GameCube,GameCube,6,85,8.8,0
+SGDQ,2018,The Legend of Zelda: Four Swords Adventures,0,0,0,0,Nintendo EAD,Nintendo,2004,GameCube,GameCube,6,86,8.9,0
+SGDQ,2018,Live,0,0,0,0,Square,Square,1994,Super Famicom,SNES,4,N/A,N/A,0
+SGDQ,2018,Undertale,0,0,1,1,Toby Fox,Toby Fox,2015,"Windows, macOS, Linux",PC,Various,92,8.7,1
+SGDQ,2018,Super Mario Odyssey,1,0,1,1,Nintendo EPD,Nintendo,2017,Nintendo Switch,Switch,9,97,8.9,0
+SGDQ,2018,Final Fantasy VI,0,0,1,1,Square,Square,1994,Super Nintendo Entertainment System,SNES,4,N/A,N/A,0
+SGDQ,2018,Catherine,0,0,1,1,Atlus,Atlus,2011,"PlayStation 3, Xbox 360","PS3, Xbox 360",7,79,7.5,0
+SGDQ,2018,Double Dragon,0,0,0,0,Technōs Japan,Taito,1987,Arcade,Arcade,Various,N/A,N/A,0
+SGDQ,2018,Double Dragon II: The Revenge,0,0,0,0,Technōs Japan,Technōs Japan,1988,Arcade,Arcade,Various,N/A,N/A,0
+SGDQ,2018,Golden Axe,0,0,0,0,Sega,Sega,1989,Arcade,Arcade,Various,N/A,N/A,0
+SGDQ,2018,Streets of Rage 2,0,0,0,0,Sega,Sega,1992,Sega Genesis,Sega Genesis,4,N/A,N/A,0
+SGDQ,2018,Rockman No-Constancy,0,0,0,0,ROM Hack,Fan-made,2007,Nintendo Entertainment System,NES,3,N/A,N/A,0
+SGDQ,2018,Mega Man 7,0,0,0,0,Capcom,Capcom,1995,Super Nintendo Entertainment System,SNES,4,N/A,N/A,0
+SGDQ,2018,Mega Man 8,0,0,0,0,Capcom,Capcom,1996,"PlayStation, Sega Saturn","PlayStation, Sega Saturn",5,N/A,N/A,0
+SGDQ,2018,Goof Troop,0,0,0,0,Capcom,Capcom,1993,Super Nintendo Entertainment System,SNES,4,N/A,N/A,0
+SGDQ,2018,Kingdom Hearts HD 1.5 ReMix (KH1FM),0,0,1,1,Square Enix,Square Enix,2013,PlayStation 3,PS3,7,77,8.4,0
+SGDQ,2018,Super Mario 64,0,0,0,0,Nintendo EAD,Nintendo,1996,Nintendo 64,N64,5,94,9.2,0
+SGDQ,2018,The Legend of Zelda: The Wind Waker HD,0,0,1,0,Nintendo EAD,Nintendo,2013,Wii U,Wii U,8,90,8.9,0
+SGDQ,2018,TASBot plays Super Metroid 0% by Sniq and total,0,1,1,0,Nintendo R&D1,Nintendo,1994,Super Nintendo Entertainment System,SNES,4,N/A,N/A,0
+SGDQ,2018,TASBot plays F-Zero GX by talented authors,0,1,0,0,Amusement Vision,Nintendo,2003,GameCube,GameCube,6,89,8.9,0
+SGDQ,2018,Pokemon Yellow/Red,0,0,1,1,Game Freak,Nintendo,1996,Game Boy,Game Boy,3,N/A,N/A,0
+SGDQ,2018,Star Wars Jedi Knight: Dark Forces II,0,0,0,0,LucasArts,LucasArts,1997,Windows,PC,Various,91,8.8,1
+SGDQ,2018,Star Wars Jedi Knight: Mysteries of the Sith,0,0,0,0,LucasArts,LucasArts,1998,Windows,PC,Various,78,8.1,1
+SGDQ,2018,Super Star Wars: The Empire Strikes Back,0,0,0,0,Sculptured Software,JVC,1993,Super Nintendo Entertainment System,SNES,4,N/A,N/A,0
+SGDQ,2018,Hob,0,0,1,1,Runic Games,Runic Games,2017,"Windows, PlayStation 4","PC, PS4",8,76,7.5,1
+SGDQ,2018,I Am Bread,0,0,1,1,Bossa Studios,Bossa Studios,2015,"Windows, macOS",PC,Various,60,6.5,1
+SGDQ,2018,Ratchet: Deadlocked,0,0,1,0,Insomniac Games,Sony Computer Entertainment,2005,PlayStation 2,PS2,6,81,8.5,0
+SGDQ,2018,Spyro 2: Ripto's Rage,0,0,0,0,Insomniac Games,Sony Computer Entertainment,1999,PlayStation,PlayStation,5,N/A,N/A,0
+SGDQ,2018,Crash Bandicoot: N. Sane Trilogy,0,0,0,0,Vicarious Visions,Activision,2017,PlayStation 4,PS4,8,80,7.7,0
+SGDQ,2018,Kirby's Dream Land,0,0,0,0,HAL Laboratory,Nintendo,1992,Game Boy,Game Boy,3,N/A,N/A,0
+SGDQ,2018,New Super Mario Bros. 2,0,0,0,0,Nintendo EAD,Nintendo,2012,Nintendo 3DS,Nintendo 3DS,7,78,7.5,0
+SGDQ,2018,Super Mario Maker,0,0,1,1,Nintendo EAD,Nintendo,2015,Wii U,Wii U,8,88,8.9,0
+SGDQ,2017,1001 Spikes,0,0,0,0,Nicalis,Nicalis,2014,"PlayStation 4, PlayStation Vita, Nintendo 3DS, Wii U, Windows","PS4, PlayStation Vita, Nintendo 3DS, Wii U, PC",8,80,7.5,1
+SGDQ,2017,ActRaiser,0,0,1,0,Quintet,Enix,1990,Super Nintendo Entertainment System,SNES,4,N/A,N/A,0
+SGDQ,2017,Alex Kidd in Shinobi World,0,0,0,0,Sega,Sega,1990,Sega Master System,Sega Master System,3,N/A,N/A,0
+SGDQ,2017,Alwa's Awakening,0,0,0,0,Elden Pixels,Elden Pixels,2017,"Windows, macOS, Linux",PC,Various,70,7,1
+SGDQ,2017,Ape Escape,0,0,0,0,Japan Studio,Sony Computer Entertainment,1999,PlayStation,PlayStation,5,N/A,N/A,0
+SGDQ,2017,Assault Android Cactus,0,0,1,0,Witch Beam,Witch Beam,2015,"Windows, macOS, Linux",PC,Various,85,8,1
+SGDQ,2017,Astal,0,0,0,0,Sega,Sega,1995,Sega Saturn,Sega Saturn,5,N/A,N/A,0
+SGDQ,2017,Avenging Spirit,0,0,1,1,C.P. Brain,Jaleco,1991,Arcade,Arcade,Various,N/A,N/A,0
+SGDQ,2017,Azure Striker Gunvolt 2,0,0,1,1,Inti Creates,Inti Creates,2016,Nintendo 3DS,Nintendo 3DS,7,82,8,0
+SGDQ,2017,Banjo-Kazooie,0,0,0,0,Rare,Nintendo,1998,Nintendo 64,N64,5,92,9,0
+SGDQ,2017,Battle Kid,0,0,0,0,Sivak Games,Sivak Games,2010,Nintendo Entertainment System,NES,3,N/A,N/A,0
+SGDQ,2017,Battle Kid: Fortress of Peril,0,0,0,0,Sivak Games,Sivak Games,2022,Nintendo Entertainment System,NES,3,73,N/A,0
+SGDQ,2017,Bionic Commando Rearmed,0,0,0,0,Grin,Capcom,2008,"PlayStation 3, Xbox 360, Windows","PS3, Xbox 360, PC",7,85,8.5,1
+SGDQ,2017,Bleed 2,0,0,0,0,Ian Campbell,Ian Campbell,2017,Windows,PC,Various,80,7.5,1
+SGDQ,2017,Brothers: A Tale of Two Sons,0,0,0,0,Starbreeze Studios,505 Games,2013,"Xbox 360, PlayStation 3, Windows","Xbox 360, PS3, PC",7,90,8.5,1
+SGDQ,2017,Bucky O'Hare,0,0,0,0,Konami,Konami,1992,Nintendo Entertainment System,NES,3,N/A,N/A,0
+SGDQ,2017,Castle of Illusion Starring Mickey Mouse,0,0,0,0,Sega,Sega,1990,Sega Genesis,Sega Genesis,4,N/A,N/A,0
+SGDQ,2017,Castlevania III: Dracula's Curse,0,0,1,0,Konami,Konami,1989,Nintendo Entertainment System,NES,3,N/A,N/A,0
+SGDQ,2017,Castlevania: Legacy of Darkness,0,0,1,1,Konami,Konami,1999,Nintendo 64,N64,5,N/A,N/A,0
+SGDQ,2017,Castlevania: Rondo of Blood,0,0,0,0,Konami,Konami,1993,PC Engine CD,PC,Various,N/A,N/A,0
+SGDQ,2017,Castlevania: Symphony of the Night,0,0,1,0,Konami,Konami,1997,PlayStation,PlayStation,5,N/A,N/A,0
+SGDQ,2017,Chrono Trigger,0,0,1,0,Square,Square,1995,Super Nintendo Entertainment System,SNES,4,N/A,N/A,0
+SGDQ,2017,Clustertruck,0,0,1,1,Landfall Games,tinyBuild,2016,"Windows, macOS, Linux",PC,Various,74,7.5,1
+SGDQ,2017,Crash Bandicoot,0,0,0,0,Naughty Dog,Sony Computer Entertainment,1996,PlayStation,PlayStation,5,N/A,N/A,0
+SGDQ,2017,Crypt of the NecroDancer: AMPLIFIED,0,0,1,1,Brace Yourself Games,Brace Yourself Games,2017,"Windows, macOS, Linux",PC,Various,82,8,1
+SGDQ,2017,Dark Souls,1,0,1,1,FromSoftware,Namco Bandai Games,2011,"PlayStation 3, Xbox 360","PS3, Xbox 360",7,89,8.5,0
+SGDQ,2017,Dark Souls III,0,0,0,0,FromSoftware,Bandai Namco Entertainment,2016,"PlayStation 4, Xbox One, Windows","PS4, Xbox One, PC",8,89,8.5,1
+SGDQ,2017,Defunct,0,0,0,0,Freshly Squeezed,SOEDESCO,2016,Windows,PC,Various,66,6.5,1
+SGDQ,2017,Diablo 2: Lord of Destruction,0,0,1,1,Blizzard North,Blizzard Entertainment,2001,"Windows, macOS",PC,Various,N/A,N/A,1
+SGDQ,2017,Diddy Kong Racing,0,0,0,0,Rare,Nintendo,1997,Nintendo 64,N64,5,88,8.8,0
+SGDQ,2017,Dishonored 2,0,0,1,0,Arkane Studios,Bethesda Softworks,2016,"PlayStation 4, Xbox One, Windows","PS4, Xbox One, PC",8,88,7.7,1
+SGDQ,2017,Divinity: Original Sin,0,0,1,0,Larian Studios,Larian Studios,2014,Windows,PC,Various,87,8.5,1
+SGDQ,2017,Donkey Kong 64,0,0,1,1,Rare,Nintendo,1999,Nintendo 64,N64,5,90,8.6,0
+SGDQ,2017,Doom (2016),0,0,0,0,id Software,Bethesda Softworks,2016,"PlayStation 4, Xbox One, Windows","PS4, Xbox One, PC",8,85,8.5,1
+SGDQ,2017,Earthbound,0,0,1,1,"Ape Inc., HAL Laboratory",Nintendo,1994,Super Nintendo Entertainment System,SNES,4,N/A,N/A,0
+SGDQ,2017,E.V.O.: Search for Eden,0,0,0,0,Almanic,Enix,1992,Super Nintendo Entertainment System,SNES,4,N/A,N/A,0
+SGDQ,2017,Final Fantasy VII,0,0,1,1,Square,Sony Computer Entertainment,1997,PlayStation,PlayStation,5,N/A,N/A,0
+SGDQ,2017,Freedom Planet,0,0,0,0,GalaxyTrail,GalaxyTrail,2014,Windows,PC,Various,84,8.5,1
+SGDQ,2017,Ghosts'n Demons,0,0,0,0,BonusJZ,BonusJZ,2015,Windows,PC,Various,N/A,N/A,1
+SGDQ,2017,G.I. Joe: The Atlantis Factor,0,0,0,0,KID,Capcom,1992,Nintendo Entertainment System,NES,3,N/A,N/A,0
+SGDQ,2017,Guacamelee! Gold Edition,0,0,0,0,DrinkBox Studios,DrinkBox Studios,2013,"Windows, macOS, Linux",PC,Various,88,8.5,1
+SGDQ,2017,Half-Life,0,0,0,0,Valve,Sierra Studios,1998,Windows,PC,Various,96,9.1,1
+SGDQ,2017,Half-Life 2,0,0,0,0,Valve,Valve,2004,Windows,PC,Various,96,9.2,1
+SGDQ,2017,Halo: Combat Evolved,0,0,0,0,Bungie,Microsoft Game Studios,2001,Xbox,Xbox,6,97,8.8,0
+SGDQ,2017,Hammerin' Harry,0,0,0,0,Irem,Irem,1990,Arcade,Arcade,Various,N/A,N/A,0
+SGDQ,2017,Hollow Knight,0,0,0,0,Team Cherry,Team Cherry,2017,"Windows, macOS, Linux",PC,Various,87,8.9,1
+SGDQ,2017,I Am Bread,0,0,0,0,Bossa Studios,Bossa Studios,2015,"Windows, macOS",PC,Various,60,6.5,1
+SGDQ,2017,Jackal,0,0,0,0,Konami,Konami,1986,Arcade,Arcade,Various,N/A,N/A,0
+SGDQ,2017,Jak II,0,0,0,0,Naughty Dog,Sony Computer Entertainment,2003,PlayStation 2,PS2,6,87,8.5,0
+SGDQ,2017,Jet Set Radio Future,0,0,0,0,Smilebit,Sega,2002,Xbox,Xbox,6,88,8.8,0
+SGDQ,2017,Kero Blaster,0,0,0,0,Studio Pixel,Playism,2014,"Windows, iOS",PC,Various,N/A,N/A,1
+SGDQ,2017,Kingdom Hearts II Final Mix,0,0,1,1,Square Enix,Square Enix,2007,PlayStation 2,PS2,6,N/A,N/A,0
+SGDQ,2017,Kirby: Planet Robobot,0,0,0,0,HAL Laboratory,Nintendo,2016,Nintendo 3DS,Nintendo 3DS,7,81,8.6,0
+SGDQ,2017,Kirby's Dream Land 2,0,0,0,0,HAL Laboratory,Nintendo,1995,Game Boy,Game Boy,3,N/A,N/A,0
+SGDQ,2017,Knytt Stories,0,0,0,0,Nifflas,Nifflas,2007,Windows,PC,Various,N/A,N/A,1
+SGDQ,2017,Kyatto Ninden Teyandee,0,0,0,0,Tecmo,Tecmo,1991,Nintendo Entertainment System,NES,3,N/A,N/A,0
+SGDQ,2017,Luigi's Mansion,0,0,0,0,Nintendo EAD,Nintendo,2001,GameCube,GameCube,6,78,8.1,0
+SGDQ,2017,Marathon Infinity,0,0,0,0,Bungie,Bungie,1996,macOS,PC,Various,N/A,N/A,1
+SGDQ,2017,Marble Madness,0,0,0,0,Atari Games,Atari Games,1984,Arcade,Arcade,Various,N/A,N/A,0
+SGDQ,2017,Mario Kart 64,0,0,0,0,Nintendo EAD,Nintendo,1996,Nintendo 64,N64,5,83,8.5,0
+SGDQ,2017,Mario Kart Wii,0,0,0,0,Nintendo EAD,Nintendo,2008,Wii,Wii,7,82,8.9,0
+SGDQ,2017,MDK,0,0,0,0,Shiny Entertainment,Playmates Interactive,1997,Windows,PC,Various,89,8.5,1
+SGDQ,2017,Mega Man 4,0,0,0,0,Capcom,Capcom,1991,Nintendo Entertainment System,NES,3,N/A,N/A,0
+SGDQ,2017,Mega Man X,1,0,1,1,Capcom,Capcom,1993,Super Nintendo Entertainment System,SNES,4,N/A,N/A,0
+SGDQ,2017,Mega Man X2,0,0,0,0,Capcom,Capcom,1994,Super Nintendo Entertainment System,SNES,4,N/A,N/A,0
+SGDQ,2017,Mega Man X3,0,0,0,0,Capcom,Capcom,1995,Super Nintendo Entertainment System,SNES,4,N/A,N/A,0
+SGDQ,2017,Mega Man X6,0,0,0,0,Capcom,Capcom,2001,PlayStation,PlayStation,5,N/A,N/A,0
+SGDQ,2017,Metroid Fusion,0,0,1,0,Nintendo R&D1,Nintendo,2002,Game Boy Advance,Game Boy Advance,6,N/A,N/A,0
+SGDQ,2017,Metroid Prime,0,0,1,0,Retro Studios,Nintendo,2002,GameCube,GameCube,6,97,9.3,0
+SGDQ,2017,Might and Magic VI: The Mandate of Heaven,0,0,1,0,New World Computing,3DO,1998,Windows,PC,Various,85,8.8,1
+SGDQ,2017,Mirror's Edge,0,0,0,0,DICE,Electronic Arts,2008,"PlayStation 3, Xbox 360","PS3, Xbox 360",7,81,7.5,0
+SGDQ,2017,Mirror's Edge Catalyst,0,0,1,1,DICE,Electronic Arts,2016,"PlayStation 4, Xbox One, Windows","PS4, Xbox One, PC",8,70,5.9,1
+SGDQ,2017,NieR: Automata,0,0,1,1,PlatinumGames,Square Enix,2017,PlayStation 4,PS4,8,88,8.9,0
+SGDQ,2017,Ninja Gaiden 3,0,0,0,0,Team Ninja,Tecmo,2012,"PlayStation 3, Xbox 360","PS3, Xbox 360",7,58,5.8,0
+SGDQ,2017,Ninja Gaiden (Sega Master System),0,0,0,0,Sega,Sega,1992,Sega Master System,Sega Master System,3,N/A,N/A,0
+SGDQ,2017,Okami HD,0,0,0,0,Clover Studio,Capcom,2012,PlayStation 3,PS3,7,90,8.8,0
+SGDQ,2017,OmniBus,0,0,1,0,Buddy Cops,Devolver Digital,2016,"Windows, macOS, Linux",PC,Various,62,6.5,1
+SGDQ,2017,Onimusha: Warlords,0,0,1,1,Capcom,Capcom,2001,PlayStation 2,PS2,6,86,8.5,0
+SGDQ,2017,Plok,0,0,0,0,Software Creations,Tradewest,1993,Super Nintendo Entertainment System,SNES,4,N/A,N/A,0
+SGDQ,2017,Poi,0,0,0,0,PolyKid,PolyKid,2017,"Windows, macOS, Linux",PC,Various,75,7,1
+SGDQ,2017,PokÃ©mon HeartGold/SoulSilver,0,0,0,0,Game Freak,Nintendo,2009,Nintendo DS,Nintendo DS,6,87,9.1,0
+SGDQ,2017,Pokemon Puzzle League,0,0,1,1,Nintendo Software Technology,Nintendo,2000,Nintendo 64,N64,5,81,8,0
+SGDQ,2017,Portal,0,0,0,0,Valve,Valve,2007,"Windows, Xbox 360","PC, Xbox 360",7,90,9.2,1
+SGDQ,2017,Portal 2,1,0,1,1,Valve,Valve,2011,"Windows, PlayStation 3, Xbox 360","PC, PS3, Xbox 360",7,95,9.4,1
+SGDQ,2017,Prince of Persia: The Sands of Time,0,0,0,0,Ubisoft Montreal,Ubisoft,2003,"PlayStation 2, Xbox, GameCube","PS2, Xbox, GameCube",6,92,8.9,0
+SGDQ,2017,Ratchet & Clank,0,0,1,1,Insomniac Games,Sony Computer Entertainment,2002,PlayStation 2,PS2,6,88,8.6,0
+SGDQ,2017,Resident Evil,0,0,1,0,Capcom,Capcom,1996,PlayStation,PlayStation,5,91,8.9,0
+SGDQ,2017,Resident Evil: Code: Veronica X,0,0,0,0,Capcom,Capcom,2001,"PlayStation 2, Dreamcast","PS2, Dreamcast",6,84,8.5,0
+SGDQ,2017,Rise of The Triad,0,0,0,0,Nightdive Studios,Apogee Entertainment,2023,"PC, PS4, Xbox One, Switch","PC, PS4, Xbox One, Switch",8,83,7.2,1
+SGDQ,2017,Rosenkreuzstilette Freudenstachel,0,0,0,0,[erka:es],Active Gaming Media,2017,PC,PC,Various,N/A,6.3,1
+SGDQ,2017,Shadow Complex Remastered,0,0,1,1,Chair Entertainment,Epic Games,2015,"PC, PS4, Xbox One","PC, PS4, Xbox One",8,82,7.8,1
+SGDQ,2017,Shadow of The Colossus,0,0,0,0,Team Ico,Sony Computer Entertainment,2005,PlayStation 2,PS2,6,91,9.1,0
+SGDQ,2017,Shantae: Half-Genie Hero,0,0,0,0,WayForward,Xseed Games,2016,"PS4, Vita, Wii U, PC","PS4, Playstation Vita, Wii U, PC",8,80,7.8,1
+SGDQ,2017,Shovel Knight: Specter of Torment,1,0,1,1,Yacht Club Games,Yacht Club Games,2017,"Switch, PC","Switch, PC",9,82,8.2,1
+SGDQ,2017,Shuriken,0,0,0,0,rxi,N/A,2016,PC,PC,Various,N/A,N/A,1
+SGDQ,2017,Silent Hill 2,0,0,1,1,Konami,Konami,2001,PlayStation 2,PS2,6,89,9,0
+SGDQ,2017,Sonic CD 2011,0,0,1,1,Sonic Team,Sega,2011,"PS3, Xbox 360, PC","PS3, Xbox 360, PC",7,82,7.8,1
+SGDQ,2017,Sonic Colours,0,0,0,0,Sonic Team,Sega,2010,Wii,Wii,7,78,8.4,0
+SGDQ,2017,Sonic Generations,0,0,1,1,Sonic Team,Sega,2011,"PS3, Xbox 360, PC","PS3, Xbox 360, PC",7,77,8.2,1
+SGDQ,2017,Splasher,0,0,0,0,Splashteam,Playdius,2017,PC,PC,Various,81,7.9,1
+SGDQ,2017,Spyro: Year of the Dragon,0,0,0,0,Insomniac Games,Sony Computer Entertainment,2000,PlayStation,PlayStation,5,91,9,0
+SGDQ,2017,Startropics,0,0,1,0,Nintendo R&D3,Nintendo,1990,NES,NES,3,N/A,N/A,0
+SGDQ,2017,Star Wars Jedi Knight II: Jedi Outcast,0,0,1,0,Raven Software,LucasArts,2002,PC,PC,Various,89,8.9,1
+SGDQ,2017,Strider (2014),0,0,0,0,Double Helix Games,Capcom,2014,"PS3, PS4, Xbox 360, Xbox One, PC","PS3, PS4, Xbox 360, Xbox One, PC",7,77,7.5,1
+SGDQ,2017,Super Adventure Island 2,0,0,0,0,Hudson Soft,Hudson Soft,1994,SNES,SNES,4,N/A,N/A,0
+SGDQ,2017,SUPERHOT,0,0,0,0,SUPERHOT Team,SUPERHOT Team,2016,PC,PC,Various,82,7.5,1
+SGDQ,2017,Super Mario 64,0,0,0,0,Nintendo EAD,Nintendo,1996,Nintendo 64,N64,5,94,9.2,0
+SGDQ,2017,Super Mario Series Warpless Relay Race,0,0,0,0,Nintendo R&D4,Nintendo,1985,NES,NES,3,N/A,N/A,0
+SGDQ,2017,Super Meat Boy,0,0,0,0,Team Meat,Team Meat,2010,Xbox 360,Xbox 360,7,90,8.4,0
+SGDQ,2017,Super Metroid,0,0,1,0,Nintendo R&D1,Nintendo,1994,SNES,SNES,4,N/A,N/A,0
+SGDQ,2017,Super Monkey Ball Deluxe,0,0,1,1,Sega,Sega,2005,"PS2, Xbox","PS2, Xbox",6,N/A,N/A,0
+SGDQ,2017,Super Panga World,0,0,0,0,PangaeaPanga,N/A,2015,SNES (ROM hack),SNES,4,N/A,N/A,0
+SGDQ,2017,SUPER SPECIAL BONUS SETUP BLOCK,0,0,0,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+SGDQ,2017,Super Win The Game,0,0,0,0,Minor Key Games,Minor Key Games,2014,PC,PC,Various,74,7.5,1
+SGDQ,2017,Teenage Mutant Ninja Turtles III: Radical Rescue,0,0,0,0,Konami,Konami,1993,Game Boy,Game Boy,3,N/A,N/A,0
+SGDQ,2017,Tetris: The Grand Master,0,0,1,1,Arika,Capcom,1998,Arcade,Arcade,Various,N/A,N/A,0
+SGDQ,2017,Tetris: The Grand Master 3 - Terror Instinct,0,0,0,0,Arika,AQ Interactive,2005,Arcade,Arcade,Various,N/A,N/A,0
+SGDQ,2017,The Addams Family: Pugsley's Scavenger Hunt,0,0,0,0,Ocean Software,Ocean Software,1993,"SNES, NES, Game Boy","SNES, NES, Game Boy",3,N/A,N/A,0
+SGDQ,2017,The Elder Scrolls IV: Oblivion,0,0,0,0,Bethesda Game Studios,2K Games,2006,"PC, Xbox 360","PC, Xbox 360",7,94,8.6,1
+SGDQ,2017,The Firemen,0,0,1,1,Human Entertainment,Human Entertainment,1994,SNES,SNES,4,N/A,N/A,0
+SGDQ,2017,The Legend of Zelda: A Link to the Past,0,0,0,0,Nintendo EAD,Nintendo,1991,SNES,SNES,4,N/A,N/A,0
+SGDQ,2017,The Legend of Zelda: Breath of the Wild,1,0,1,1,Nintendo EPD,Nintendo,2017,"Switch, Wii U","Switch, Wii U",8,97,8.7,0
+SGDQ,2017,The Legend of Zelda: Link's Awakening DX,0,0,0,0,Nintendo EAD,Nintendo,1998,Game Boy Color,Game Boy Color,5,N/A,N/A,0
+SGDQ,2017,The Legend of Zelda: Majora's Mask,0,0,1,1,Nintendo EAD,Nintendo,2000,Nintendo 64,N64,5,95,9.1,0
+SGDQ,2017,The Legend of Zelda: Twilight Princess HD,0,0,0,0,Tantalus Media,Nintendo,2016,Wii U,Wii U,8,86,8.7,0
+SGDQ,2017,The Lion King,0,0,0,0,Westwood Studios,Virgin Interactive,1994,"SNES, Genesis","SNES, Sega Genesis",4,N/A,N/A,0
+SGDQ,2017,The Maitre D,0,0,1,1,Shy Spy,Shy Spy,2014,PC,PC,Various,N/A,N/A,1
+SGDQ,2017,The Talos Principle,0,0,0,0,Croteam,Devolver Digital,2014,PC,PC,Various,85,8.5,1
+SGDQ,2017,The Wheel of Time,0,0,1,1,Legend Entertainment,GT Interactive,1999,PC,PC,Various,83,8.5,1
+SGDQ,2017,Tiny Toon Adventures: Buster Busts Loose!,0,0,0,0,Konami,Konami,1992,SNES,SNES,4,N/A,N/A,0
+SGDQ,2017,Titanfall 2,0,0,1,0,Respawn Entertainment,Electronic Arts,2016,"PC, PS4, Xbox One","PC, PS4, Xbox One",8,86,8.5,1
+SGDQ,2017,Tony Hawk's Pro Skater 2,0,0,0,0,Neversoft,Activision,2000,PS1,Playstation,5,98,8.9,0
+SGDQ,2017,Tony Hawks Pro Skater 4,0,0,0,0,Neversoft,Activision,2002,"PS2, Xbox, GameCube","PS2, Xbox, GameCube",6,94,8.7,0
+SGDQ,2017,Tryrush Deppy,0,0,1,0,Sting Entertainment,Takara,1996,Sega Saturn,Sega Saturn,5,N/A,N/A,0
+SGDQ,2017,VVVVVV,0,0,0,0,Terry Cavanagh,Terry Cavanagh,2010,PC,PC,Various,81,7.9,1
+SGDQ,2017,X-Men: Mutant Apocalypse,0,0,0,0,Capcom,Capcom,1994,SNES,SNES,4,N/A,N/A,0
+SGDQ,2017,Ys Origin,0,0,1,1,Nihon Falcom,Nihon Falcom,2006,PC,PC,Various,80,8.2,1
+SGDQ,2017,Zelda 2: The Adventure of Link,0,0,1,0,Nintendo EAD,Nintendo,1987,NES,NES,3,N/A,N/A,0
